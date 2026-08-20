@@ -1,5 +1,7 @@
 # AI Assurance — Overview
 
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+
 ## Definition
 
 AI Assurance answers: "How do I know that my AI system is actually responsible?" — the systematic, evidence-based verification that principles, governance, and controls are functioning as intended, not just documented as intended.

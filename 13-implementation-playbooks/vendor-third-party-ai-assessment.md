@@ -1,5 +1,7 @@
 # Playbook: Vendor / Third-Party AI Assessment
 
+*[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/)*
+
 Working checklist implementing [03-ai-governance/third-party-ai-governance.md](../03-ai-governance/third-party-ai-governance.md).
 
 ## Discovery

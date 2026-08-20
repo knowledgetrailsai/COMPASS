@@ -1,5 +1,7 @@
 # Core Principles
 
+*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/)*
+
 Most organizational and regulatory RAI frameworks (OECD AI Principles, NIST AI RMF, EU AI Act, ISO/IEC 42001) converge on a similar set of principles. This guide organizes them into eight pillars; each has a dedicated deep-dive in [05-responsible-ai-principles](../05-responsible-ai-principles/).
 
 ## 1. Fairness and non-discrimination

@@ -1,5 +1,7 @@
 # Agentic Evaluation
 
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+
 ## Why standard Gen AI evaluation isn't sufficient
 
 Evaluating a single response for quality/safety doesn't capture whether a multi-step, tool-using agent reliably accomplishes tasks safely across a realistic range of scenarios, recovers from errors, and respects its permission boundaries.

@@ -1,5 +1,7 @@
 # Accountability and Human Oversight
 
+*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/)*
+
 ## What accountability means for AI
 
 Clear, traceable ownership for an AI system's behavior — someone (a role, not just "the algorithm") who is answerable for its outcomes, can explain decisions, and has the authority and mechanism to intervene.

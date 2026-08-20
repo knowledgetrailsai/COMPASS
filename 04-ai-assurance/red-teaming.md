@@ -1,5 +1,7 @@
 # Red-Teaming
 
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+
 ## Purpose
 
 Adversarial testing that deliberately tries to make an AI system fail, misbehave, or be misused — surfaces the gap between "works in normal testing" and "resists a motivated adversary or determined misuse attempt."

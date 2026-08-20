@@ -1,5 +1,7 @@
 # EU AI Act
 
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [EU](../../10-regulations-and-standards/EU/)*
+
 _Type: Law (Regulation (EU) 2024/1689). Last reviewed: 2026-08-19 — this is an actively evolving regulation; confirm current deadlines and requirements with legal counsel before relying on any specific date below._
 
 ## Overview

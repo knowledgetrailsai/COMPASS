@@ -1,5 +1,7 @@
 # Responsible AI vs. AI Ethics vs. AI Governance vs. AI Assurance
 
+*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/)*
+
 These four terms are often used interchangeably, which causes real confusion about what a given team or document is actually responsible for. This repository treats them as distinct, connected layers.
 
 ## The four layers

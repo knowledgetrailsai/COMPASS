@@ -1,5 +1,7 @@
 # Assurance Reporting
 
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+
 ## Purpose
 
 How assurance findings (from validation, audit, red-teaming, and impact/risk assessments) get communicated to the people who need to act on them — governance board, executive leadership, and, where required, regulators.

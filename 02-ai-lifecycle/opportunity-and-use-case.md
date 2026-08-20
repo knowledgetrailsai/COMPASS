@@ -1,5 +1,7 @@
 # Stage 1: Opportunity & Use Case
 
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+
 ## Purpose
 
 Before any building starts: define what problem the AI system solves, for whom, and how risky that is — the cheapest point in the lifecycle to catch a use case that shouldn't proceed, or that needs a fundamentally different design.

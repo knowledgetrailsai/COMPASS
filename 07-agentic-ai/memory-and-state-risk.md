@@ -1,5 +1,7 @@
 # Memory and State Risk
 
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+
 ## Why persistent memory adds risk
 
 Agents with memory (conversation history, learned facts about users, task state across sessions) accumulate data and behavior patterns over time, in ways that create risks distinct from stateless single-turn Gen AI.

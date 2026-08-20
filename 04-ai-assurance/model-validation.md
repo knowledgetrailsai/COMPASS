@@ -1,5 +1,7 @@
 # Model Validation
 
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+
 ## Purpose
 
 Technical verification that a model/system actually performs as claimed — the assurance-layer counterpart to the lifecycle's [evaluation-and-validation.md](../02-ai-lifecycle/evaluation-and-validation.md) stage, with more emphasis on independence and rigor for higher-risk systems.

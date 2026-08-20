@@ -1,9 +1,13 @@
 # Safety and Security
 
+*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/)*
+
 ## Safety vs. security
 
 - **Safety**: the system doesn't cause harm even when used as intended (or through foreseeable misuse) — unsafe outputs, unsafe autonomous actions, physical harm from embodied/robotic AI.
 - **Security**: the system resists adversarial attack from parties trying to make it misbehave, extract data, or bypass controls.
+
+> For the full practitioner-level security view (threat model, control catalog, testing program, incident response), see [14-ai-security](../14-ai-security/) — this page states the principle; that section operationalizes it.
 
 ## AI-specific security threats
 
@@ -36,3 +40,9 @@
 ## Integration with existing security programs
 
 AI security should extend, not replace, existing InfoSec practices: threat modeling, penetration testing, and incident response should treat AI components as part of the attack surface, with AI-specific playbooks layered on top (e.g., OWASP Top 10 for LLM Applications as a reference threat list).
+
+## Related
+
+- [14-ai-security/ai-threat-model.md](../14-ai-security/ai-threat-model.md) — full attack-surface map
+- [14-ai-security/security-testing-program.md](../14-ai-security/security-testing-program.md)
+- [14-ai-security/security-incident-response.md](../14-ai-security/security-incident-response.md)

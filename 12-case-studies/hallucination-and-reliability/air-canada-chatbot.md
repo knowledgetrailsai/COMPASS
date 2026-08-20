@@ -1,5 +1,7 @@
 # Air Canada Chatbot Bereavement Fare Case
 
+*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/) › [hallucination-and-reliability](../../12-case-studies/hallucination-and-reliability/)*
+
 **Context**: Air Canada customer service chatbot, incident and subsequent tribunal ruling reported in early 2024.
 
 **AI system**: Generative AI — a customer-facing support chatbot on Air Canada's website.

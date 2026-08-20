@@ -1,5 +1,7 @@
 # NIST AI Risk Management Framework (AI RMF)
 
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+
 _Type: Framework (voluntary). Issuer: U.S. National Institute of Standards and Technology. Last reviewed: 2026-08-19 — verify current version and any Generative AI Profile updates directly with NIST._
 
 ## What it is

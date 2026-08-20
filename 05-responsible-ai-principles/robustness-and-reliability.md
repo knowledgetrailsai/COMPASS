@@ -1,5 +1,7 @@
 # Robustness and Reliability
 
+*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/)*
+
 ## What it means
 
 The system performs consistently and predictably under normal conditions, edge cases, and distribution shift — and fails safely (visibly, gracefully) rather than silently producing confidently wrong output.

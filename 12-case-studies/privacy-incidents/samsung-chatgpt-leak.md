@@ -1,5 +1,7 @@
 # Samsung Employees' Confidential Data Leak via ChatGPT
 
+*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/) › [privacy-incidents](../../12-case-studies/privacy-incidents/)*
+
 **Context**: Samsung Semiconductor, reported in 2023.
 
 **AI system**: Generative AI — a third-party public Gen AI chatbot (ChatGPT) used informally by employees.

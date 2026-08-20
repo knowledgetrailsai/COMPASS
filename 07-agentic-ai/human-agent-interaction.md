@@ -1,5 +1,7 @@
 # Human-Agent Interaction
 
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+
 ## Why this deserves its own focus
 
 Even a well-controlled agent creates risk if the humans overseeing or working alongside it don't have the right information, at the right time, in a usable form, to exercise meaningful oversight. Human-agent interaction design is a control in its own right, not just a UX nicety.

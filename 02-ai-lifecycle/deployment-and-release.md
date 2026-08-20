@@ -1,5 +1,7 @@
 # Stage 6: Deployment & Release
 
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+
 ## Purpose
 
 Move from validated system to live production exposure in a way that limits blast radius if something was missed in evaluation, and ensures user-facing obligations (disclosure, consent) are live before anyone is exposed.

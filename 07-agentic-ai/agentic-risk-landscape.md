@@ -1,5 +1,7 @@
 # Agentic AI — Risk Landscape
 
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+
 ## What makes agentic AI different
 
 Agentic AI systems plan, use tools, take multi-step actions, and often operate with some degree of autonomy toward a goal — as opposed to producing a single response to a single prompt. This shifts the risk profile from "the output might be wrong" to "the system might *do* something wrong," often with real-world, sometimes irreversible, consequences.

@@ -1,5 +1,7 @@
 # Microsoft Tay Chatbot
 
+*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/) › [security-incidents](../../12-case-studies/security-incidents/)*
+
 **Context**: Microsoft, Twitter-based conversational AI chatbot "Tay," launched and taken down within 24 hours in March 2016.
 
 **AI system**: Generative/conversational AI (pre-dating the modern LLM era, but a foundational case study for Gen AI safety) designed to learn conversational patterns from public interaction.

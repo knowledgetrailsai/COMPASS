@@ -1,5 +1,7 @@
 # Stage 3: Data & Data Governance
 
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+
 ## Purpose
 
 Most downstream RAI failures (bias, privacy leakage, IP exposure) trace back to data decisions made here. Data governance for AI extends standard data governance with AI-specific concerns.

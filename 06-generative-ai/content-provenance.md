@@ -1,5 +1,7 @@
 # Content Provenance and Authenticity
 
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+
 ## Why it matters
 
 As generative content becomes indistinguishable from human-created content, the ability to verify origin and detect AI generation becomes essential for trust, misinformation defense, and — increasingly — regulatory compliance.
@@ -33,5 +35,5 @@ Increasingly mandated by regulation (EU AI Act transparency obligations, various
 
 ## Related
 
-- [06-generative-ai/genai-risk-landscape.md](genai-specific-risks.md)
-- [10-regulations-and-standards/eu-ai-act.md](../10-regulations-and-standards/eu-ai-act.md) — transparency obligations
+- [06-generative-ai/genai-risk-landscape.md](genai-risk-landscape.md)
+- [10-regulations-and-standards/eu-ai-act.md](../10-regulations-and-standards/EU/eu-ai-act.md) — transparency obligations

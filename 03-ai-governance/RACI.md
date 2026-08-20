@@ -1,5 +1,7 @@
 # RACI — AI Governance Activities
 
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+
 R = Responsible (does the work), A = Accountable (answers for it), C = Consulted, I = Informed
 
 | Activity | System Owner | Data Science/Eng | Product | Legal/Privacy | Governance Board | Security |

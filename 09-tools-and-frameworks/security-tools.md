@@ -1,5 +1,7 @@
 # Security Tools
 
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+
 ## AI/LLM-specific security testing
 
 | Tool/category | Purpose |
@@ -35,3 +37,7 @@ See [09-tools-and-frameworks/OWASP-llm-top10.md](OWASP-llm-top10.md) and [09-too
 ## Integration with existing security tooling
 
 AI-specific security tools should feed into existing SIEM/security monitoring infrastructure rather than operate as an isolated silo — anomalous agent action patterns or repeated jailbreak attempts are security events that belong in the same triage flow as any other security alert.
+
+## Related
+
+- [14-ai-security](../14-ai-security/) — the practitioner-level threat model, control catalog, and testing program these tools implement

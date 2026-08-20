@@ -1,5 +1,7 @@
 # Jailbreaking
 
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+
 ## Definition
 
 Adversarial prompting techniques specifically designed to bypass a model's safety training and elicit outputs the model was trained/instructed to refuse — hate speech, dangerous instructions, disallowed content categories, or leaking system prompts/confidential configuration.

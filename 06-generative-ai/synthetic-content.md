@@ -1,5 +1,7 @@
 # Synthetic Content
 
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+
 ## Scope
 
 AI-generated text, image, audio, and video content — covers both legitimate use (marketing content, synthetic training data, accessibility applications like text-to-speech) and the misuse risks that come with the same capability (deepfakes, disinformation, fraud).

@@ -1,5 +1,7 @@
 # Stage 7: Monitoring & Observability
 
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+
 ## Purpose
 
 Verify the system continues to behave as validated once it's operating on real, evolving, real-world data and users — evaluation is a point-in-time check; monitoring is continuous.

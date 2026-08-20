@@ -1,5 +1,7 @@
 # Education
 
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+
 ## Common AI use cases
 Adaptive learning platforms, automated grading/assessment, plagiarism/AI-content detection, admissions support, student support chatbots, agentic tutoring assistants.
 

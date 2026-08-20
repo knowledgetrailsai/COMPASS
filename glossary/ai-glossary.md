@@ -1,5 +1,7 @@
 # AI Glossary
 
+*[Home](../INDEX.md) › [Glossary](../glossary/)*
+
 Alphabetical reference. For the conceptual distinctions between related terms (ethics/RAI/governance/assurance; law/standard/framework/guidance), see [00-navigation-and-methodology/terminology-and-glossary.md](../00-navigation-and-methodology/terminology-and-glossary.md) instead — this file is for quick individual-term lookup.
 
 **Agentic AI** — AI systems that plan, use tools, and take multi-step autonomous actions toward a goal, as opposed to producing a single response to a single prompt.

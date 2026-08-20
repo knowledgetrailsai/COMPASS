@@ -1,5 +1,7 @@
 # Hallucination and Grounding
 
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+
 ## Definition
 
 Hallucination: generative output that is plausible-sounding but false, fabricated, or unsupported by any legitimate source — presented with the same fluent confidence as accurate output, giving users no inherent signal to distinguish the two.

@@ -1,5 +1,7 @@
 # Canada — AI Regulation
 
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [Canada](../../10-regulations-and-standards/Canada/)*
+
 _Last reviewed: 2026-08-19 — Canada's federal AI-specific legislative status has been in flux; confirm current status of AIDA/Bill C-27 directly before relying on it._
 
 ## Federal AI-specific legislation status

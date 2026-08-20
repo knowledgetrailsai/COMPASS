@@ -1,5 +1,7 @@
 # Controls and Techniques
 
+*[Home](../INDEX.md) › [08 · Controls & Techniques](../08-controls-and-techniques/)*
+
 This section implements the **Risk → Control → Technique → Test** chain referenced in [00-navigation-and-methodology/knowledge-map.md](../00-navigation-and-methodology/knowledge-map.md).
 
 **Risk**: a specific way a system could cause harm (defined in 01, 06, 07).

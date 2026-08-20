@@ -1,5 +1,7 @@
 # Privacy and Data Protection
 
+*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/)*
+
 ## Core obligations
 
 - **Data minimization**: collect/use only data necessary for the stated purpose

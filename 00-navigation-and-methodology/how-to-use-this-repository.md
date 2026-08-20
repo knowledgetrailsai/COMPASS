@@ -1,5 +1,7 @@
 # How to Use This Repository
 
+*[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/)*
+
 ## If you are...
 
 **New to Responsible AI** — start with [01-foundations/what-is-responsible-ai.md](../01-foundations/what-is-responsible-ai.md), then [01-foundations/responsible-ai-vs-ai-ethics.md](../01-foundations/responsible-ai-vs-ai-ethics.md), then [01-foundations/principles.md](../01-foundations/principles.md).
@@ -14,11 +16,14 @@
 
 **Investigating an incident or researching precedent** — [12-case-studies](../12-case-studies/), structured by failure type, each following a standard template so cases are comparable.
 
+**Approaching from a security angle** — start at [14-ai-security](../14-ai-security/) rather than hunting through 05/06/07/08/09; it's the consolidated threat-model-to-response view and links out to the technology-specific depth.
+
 ## Navigation principles
 
-- **One topic, one file.** If you can't find something, check [knowledge-map.md](knowledge-map.md)'s section table before assuming it's missing.
+- **One topic, one file.** If you can't find something, check [knowledge-map.md](knowledge-map.md)'s section table, [topic-index.md](topic-index.md)'s theme groupings, or [../INDEX.md](../INDEX.md)'s flat file list before assuming it's missing.
 - **Cross-links, not duplication.** Files reference each other rather than repeating content — follow the links rather than expecting every file to be self-contained.
 - **Depth increases as you go deeper into a section.** Top-level files in each numbered folder are overviews; look for more specific files for implementation detail.
+- **Every file has a breadcrumb.** The line under the title (`Home › Section › ...`) always shows where you are; click `Home` to get back to [../INDEX.md](../INDEX.md).
 
 ## Keeping this current
 

@@ -1,5 +1,7 @@
 # Financial Services
 
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+
 ## Common AI use cases
 Credit/lending decisioning, fraud detection, algorithmic trading, robo-advisory, AML/KYC screening, customer service chatbots, insurance-adjacent underwriting support.
 

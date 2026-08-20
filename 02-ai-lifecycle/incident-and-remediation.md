@@ -1,5 +1,7 @@
 # AI Incident Response
 
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+
 ## What counts as an AI incident
 
 Any event where an AI system caused, or nearly caused, harm: biased/discriminatory decisions, hallucinated content presented as fact, data leakage, agent taking an unauthorized or harmful action, security exploit (prompt injection leading to data exfiltration), or significant public/regulatory complaint.

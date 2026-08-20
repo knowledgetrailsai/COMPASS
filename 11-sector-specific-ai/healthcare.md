@@ -1,5 +1,7 @@
 # Healthcare
 
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+
 ## Common AI use cases
 Diagnostic support, clinical decision support, medical imaging analysis, administrative automation (prior authorization, coding), patient-facing chatbots/triage, drug discovery, agentic clinical workflow assistants.
 

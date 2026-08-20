@@ -1,5 +1,7 @@
 # Prompt Injection
 
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+
 ## Definition
 
 An attack where malicious instructions are embedded in content the model processes — user input, or (more dangerously) content the model retrieves or is fed from an external source (a webpage, document, email, tool output) — causing the model to follow the injected instructions instead of, or in addition to, its intended task.

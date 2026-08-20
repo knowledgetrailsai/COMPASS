@@ -1,5 +1,7 @@
 # Templates
 
+*[Home](../INDEX.md) › [Templates](../templates/)*
+
 Reusable, fill-in-the-blank templates referenced throughout the repository. Working copies live alongside their guidance in [13-implementation-playbooks](../13-implementation-playbooks/) — this folder is a convenience index for finding them quickly.
 
 | Template | Location |

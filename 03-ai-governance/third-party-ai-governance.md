@@ -1,5 +1,7 @@
 # Third-Party AI Governance
 
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+
 ## Why this needs its own discipline
 
 Most organizations' AI risk increasingly comes from AI embedded in third-party products (SaaS tools with AI features, foundation model APIs, AI-powered vendor services) rather than AI built entirely in-house. Third-party AI needs assessment and ongoing governance, not a one-time procurement checkbox.

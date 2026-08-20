@@ -1,5 +1,7 @@
 # Singapore — AI Regulation
 
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [Singapore](../../10-regulations-and-standards/Singapore/)*
+
 _Last reviewed: 2026-08-19._
 
 ## Approach: voluntary framework-led, sectoral binding regulation for finance

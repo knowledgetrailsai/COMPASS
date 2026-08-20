@@ -1,5 +1,7 @@
 # Stage 2: Requirements & Design
 
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+
 ## Purpose
 
 Translate the risk tier and intended use into concrete, testable requirements — what "responsible" specifically means for this system — before development locks in architectural choices that are expensive to unwind later.

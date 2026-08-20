@@ -1,5 +1,7 @@
 # What is Responsible AI
 
+*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/)*
+
 ## Definition
 
 Responsible AI (RAI) is the practice of designing, building, deploying, and operating AI systems — including Generative AI and Agentic AI — in ways that are fair, transparent, safe, secure, privacy-respecting, and accountable, while remaining beneficial to the people and organizations affected by them.

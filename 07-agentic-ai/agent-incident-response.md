@@ -1,5 +1,7 @@
 # Agent Incident Response
 
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+
 ## How this differs from general AI incident response
 
 [02-ai-lifecycle/incident-and-remediation.md](../02-ai-lifecycle/incident-and-remediation.md) covers the general AI incident process. Agentic incidents add urgency and specific containment steps because the system may still be actively taking actions while the incident is being triaged.

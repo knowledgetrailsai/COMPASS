@@ -1,5 +1,7 @@
 # Observability Tools
 
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+
 ## LLM/Gen AI tracing and monitoring
 
 | Tool/category | Purpose |

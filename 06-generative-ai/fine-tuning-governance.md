@@ -1,5 +1,7 @@
 # Fine-Tuning Governance
 
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+
 ## Why fine-tuning needs distinct governance
 
 Fine-tuning customizes a base model's behavior using organization-specific data — it offers more control than prompting alone, but introduces its own data governance, IP, and safety-drift risks that a pure prompting or RAG approach doesn't.

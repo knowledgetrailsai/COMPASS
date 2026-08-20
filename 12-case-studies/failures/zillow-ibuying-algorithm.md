@@ -1,5 +1,7 @@
 # Zillow Offers Home-Pricing Algorithm Failure
 
+*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/) › [failures](../../12-case-studies/failures/)*
+
 **Context**: Zillow's "Zillow Offers" iBuying business, which used an algorithmic home-valuation model ("Zestimate"-derived pricing) to make cash offers on homes for resale. Business wound down in late 2021 with a reported ~$300M+ inventory write-down and significant workforce reduction.
 
 **AI system**: Traditional ML — an automated home-valuation and pricing model used to make purchase offers at scale, with limited human pricing review per transaction given the volume-driven business model.

@@ -1,5 +1,7 @@
 # Insurance
 
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+
 ## Common AI use cases
 Underwriting and risk pricing, claims processing and fraud detection, customer service automation, agentic claims-handling assistants.
 

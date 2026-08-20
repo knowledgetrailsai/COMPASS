@@ -1,5 +1,7 @@
 # AI Governance Board
 
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+
 ## Purpose
 
 The cross-functional decision-making body for AI risk — approves high-risk use cases, sets policy, resolves edge cases, and reviews incidents. Distinct from a single "AI ethics committee" in that it has real decision authority, not just advisory input.

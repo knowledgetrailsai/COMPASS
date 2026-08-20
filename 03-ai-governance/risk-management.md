@@ -1,5 +1,7 @@
 # Risk Tiering
 
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+
 ## Why tier
 
 Not every AI use case warrants the same scrutiny. Risk tiering lets governance effort scale with actual risk — informed heavily by the EU AI Act's risk-based approach (unacceptable / high / limited / minimal risk).

@@ -1,5 +1,7 @@
 # Roles and Responsibilities
 
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+
 Builds on [01-foundations/stakeholder-roles.md](../01-foundations/stakeholder-roles.md) with the specific governance-layer roles needed to operate the framework in [ai-governance-framework.md](ai-governance-framework.md).
 
 ## Core governance roles

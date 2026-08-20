@@ -1,5 +1,7 @@
 # Human Rights and AI
 
+*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/)*
+
 ## Why a human rights lens
 
 International human rights law provides a widely-recognized, less philosophically contested vocabulary than abstract ethics for assessing AI impact — many AI harms map directly onto established rights, which is why regulators (including the EU AI Act's framing and UN-level AI governance discussions) increasingly use this framing explicitly.

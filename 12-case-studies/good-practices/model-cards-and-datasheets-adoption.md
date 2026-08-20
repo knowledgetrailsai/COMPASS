@@ -1,5 +1,7 @@
 # Widespread Adoption of Model Cards and Datasheets
 
+*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/) › [good-practices](../../12-case-studies/good-practices/)*
+
 **Context**: Industry-wide practice originating from research publications — "Model Cards for Model Reporting" (Mitchell et al., Google, 2019) and "Datasheets for Datasets" (Gebru et al., 2018/2021) — subsequently adopted as standard practice across much of the AI industry, including major model providers publishing model/system cards for significant model releases.
 
 **AI system**: Practice applies horizontally across traditional ML and Gen AI model releases industry-wide.

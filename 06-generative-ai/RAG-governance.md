@@ -1,5 +1,7 @@
 # RAG-Specific Considerations
 
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+
 Retrieval-Augmented Generation (RAG) grounds model outputs in retrieved documents, and is the most common enterprise Gen AI pattern — it introduces its own responsible-AI considerations distinct from a standalone LLM.
 
 ## Access control at retrieval time

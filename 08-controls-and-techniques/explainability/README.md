@@ -1,5 +1,7 @@
 # Explainability Techniques
 
+*[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/) › [explainability](../../08-controls-and-techniques/explainability/)*
+
 Implements [05-responsible-ai-principles/transparency-and-explainability.md](../../05-responsible-ai-principles/transparency-and-explainability.md) as concrete methods.
 
 ## Model-agnostic post-hoc methods

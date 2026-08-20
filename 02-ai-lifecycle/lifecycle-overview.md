@@ -1,5 +1,7 @@
 # AI Lifecycle Overview
 
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+
 Responsible AI is a lifecycle discipline, not a single gate. This section maps RAI checkpoints onto each stage of building and operating an AI system — including Generative AI and Agentic AI, which iterate faster than traditional ML but still pass through the same conceptual stages.
 
 ## The stages

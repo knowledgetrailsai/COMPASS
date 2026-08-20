@@ -1,5 +1,7 @@
 # Data Leakage (Generative AI)
 
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+
 ## Forms of leakage specific to Gen AI
 
 ### Training data memorization

@@ -1,5 +1,7 @@
 # Fairness and Bias
 
+*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/)*
+
 ## What it means
 
 Ensuring AI systems don't produce systematically unfair outcomes across individuals or groups, particularly on protected or sensitive attributes (race, gender, age, disability, religion, caste, etc., subject to local law).

@@ -1,5 +1,7 @@
 # Multi-Agent Governance
 
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+
 ## Why multi-agent systems need distinct governance
 
 When multiple agents interact — delegating subtasks, negotiating, competing for shared resources, or supervising one another — behavior can emerge that isn't predictable from any single agent's design. Governance needs to address the system, not just each component.

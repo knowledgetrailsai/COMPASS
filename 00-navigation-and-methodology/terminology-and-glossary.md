@@ -1,5 +1,7 @@
 # Terminology — Key Distinctions
 
+*[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/)*
+
 A short guide to terms this repository uses precisely and consistently. For the full alphabetical glossary, see [glossary/ai-glossary.md](../glossary/ai-glossary.md).
 
 ## Ethics, Responsible AI, Governance, Assurance — the four layers

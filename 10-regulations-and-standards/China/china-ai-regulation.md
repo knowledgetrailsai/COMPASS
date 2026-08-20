@@ -1,5 +1,7 @@
 # China — AI Regulation
 
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [China](../../10-regulations-and-standards/China/)*
+
 _Last reviewed: 2026-08-19. China's AI regulatory regime is binding and among the most developed globally in specific areas (algorithms, generative AI, deep synthesis) — confirm current specific requirements directly given the pace of new implementing rules._
 
 ## Approach: binding, technology-specific rules issued progressively

@@ -1,5 +1,7 @@
 # Critical Infrastructure
 
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+
 ## Common AI use cases
 Energy grid optimization and load balancing, water treatment monitoring, transportation/traffic control systems, telecommunications network management, industrial control system (ICS/SCADA) anomaly detection, agentic operational assistants for infrastructure control.
 

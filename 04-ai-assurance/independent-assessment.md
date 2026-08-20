@@ -1,5 +1,7 @@
 # Independent Assessment
 
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+
 ## Why independence matters
 
 Teams that build a system are prone to confirmation bias when evaluating it — they know what it's supposed to do, and unconsciously test in ways that confirm success rather than actively hunting for failure. Independent assessment counteracts this by involving reviewers without a stake in the system passing.

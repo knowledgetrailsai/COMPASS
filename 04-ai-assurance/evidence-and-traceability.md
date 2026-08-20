@@ -1,5 +1,7 @@
 # Documentation Artifacts
 
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+
 Standard artifacts that make AI systems auditable, transferable, and reviewable. Templates for several of these live in [13-implementation-playbooks](../13-implementation-playbooks/) and [templates](../templates/).
 
 ## Model Card

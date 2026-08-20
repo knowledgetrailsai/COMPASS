@@ -1,5 +1,7 @@
 # Policy Management
 
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+
 ## Core AI policies an organization typically needs
 
 ### Acceptable Use Policy

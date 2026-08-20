@@ -1,5 +1,7 @@
 # AI Governance Framework
 
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+
 ## Purpose
 
 An organizational structure and set of processes that ensures AI systems are reviewed, approved, and monitored proportionate to their risk — without becoming a bottleneck for low-risk use cases.
@@ -24,7 +26,7 @@ A central, living record of every AI system in use — including Gen AI features
 - Third-party/vendor AI assessment requirements
 
 ### 4. Review and approval workflow
-Tied to [risk-tiering.md](risk-tiering.md): low-risk use cases self-certify via checklist; medium-risk get a lightweight review; high-risk require full governance board sign-off, documentation (model cards, DPIAs), and ongoing monitoring commitments.
+Tied to [risk-management.md](risk-management.md): low-risk use cases self-certify via checklist; medium-risk get a lightweight review; high-risk require full governance board sign-off, documentation (model cards, DPIAs), and ongoing monitoring commitments.
 
 ### 5. Monitoring and audit
 Post-deployment monitoring (see [08-controls-and-techniques/monitoring-and-observability](../08-controls-and-techniques/monitoring-and-observability/)) feeding back into the governance board; periodic audits of high-risk systems; incident response tied into existing security/ops processes.
@@ -44,6 +46,6 @@ AI governance should plug into existing ERM, InfoSec, and privacy governance rat
 
 ## Related
 
-- [risk-tiering.md](risk-tiering.md)
-- [model-lifecycle-raiops.md](model-lifecycle-raiops.md)
-- [documentation-artifacts.md](documentation-artifacts.md)
+- [risk-management.md](risk-management.md)
+- [../02-ai-lifecycle/lifecycle-overview.md](../02-ai-lifecycle/lifecycle-overview.md)
+- [../04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md)

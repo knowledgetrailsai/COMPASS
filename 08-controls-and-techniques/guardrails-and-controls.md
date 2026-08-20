@@ -1,5 +1,7 @@
 # Guardrails and Runtime Controls
 
+*[Home](../INDEX.md) › [08 · Controls & Techniques](../08-controls-and-techniques/)*
+
 ## Definition
 
 Runtime mechanisms that constrain a system's inputs, outputs, or actions in real time — the last line of defense that operates independently of the underlying model's own training/behavior, and the most direct implementation of the "Controls" layer in the risk → control → technique → test chain.
@@ -42,3 +44,7 @@ See [09-tools-and-frameworks/open-source-tools.md](../09-tools-and-frameworks/op
 ## Testing
 
 Guardrail effectiveness should be verified through [04-ai-assurance/red-teaming.md](../04-ai-assurance/red-teaming.md), not assumed from configuration alone.
+
+## Related
+
+- [14-ai-security](../14-ai-security/) — full threat model and control catalog these guardrails implement

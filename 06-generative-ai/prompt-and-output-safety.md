@@ -1,5 +1,7 @@
 # Prompt and Output Safety
 
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+
 ## Defense-in-depth model
 
 No single control reliably prevents unsafe Gen AI behavior. Layer controls across the request lifecycle:

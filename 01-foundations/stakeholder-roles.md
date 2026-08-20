@@ -1,5 +1,7 @@
 # Stakeholder Roles
 
+*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/)*
+
 Responsible AI fails when it's treated as one team's job. Below is a typical RACI-style breakdown; adapt titles to your org.
 
 ## Data scientists / ML engineers

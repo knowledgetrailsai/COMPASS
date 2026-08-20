@@ -1,5 +1,7 @@
 # Sector-Specific AI
 
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+
 ## Why this section exists
 
 Responsible AI requirements aren't uniform — they change significantly depending on where AI is deployed. This section shows how the rest of the repository's chain (regulation → risk → lifecycle → controls → testing → evidence) combines for a specific industry, so a team in that industry can go straight to what matters most for them rather than re-deriving it from first principles.

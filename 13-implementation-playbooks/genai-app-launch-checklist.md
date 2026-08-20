@@ -1,5 +1,7 @@
 # Playbook: Gen AI App Launch Checklist
 
+*[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/)*
+
 ## Requirements and design
 - [ ] Intended use and out-of-scope use documented ([02-ai-lifecycle/opportunity-and-use-case.md](../02-ai-lifecycle/opportunity-and-use-case.md))
 - [ ] Risk tier assigned ([03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md))

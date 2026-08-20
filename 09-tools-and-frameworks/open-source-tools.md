@@ -1,5 +1,7 @@
 # Open-Source Tools
 
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+
 _Last reviewed: 2026-08-19 — tool landscape moves quickly; verify current status/maintenance before adoption._
 
 ## Fairness and bias

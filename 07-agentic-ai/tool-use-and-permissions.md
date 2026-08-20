@@ -1,5 +1,7 @@
 # Tool Use and Permissions
 
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+
 ## Principle: least privilege by default
 
 An agent should have access to exactly the tools/data/actions its task requires, scoped as narrowly as possible, for as short a duration as possible — never a broad standing grant "in case it's needed."

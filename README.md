@@ -12,6 +12,16 @@ applied across the AI lifecycle, across AI types (Gen AI, Agentic AI), and acros
 
 New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repository.md](00-navigation-and-methodology/how-to-use-this-repository.md) — it routes you to the right section based on your role and task.
 
+Three ways to navigate, depending on what you already know:
+
+| You know... | Use |
+|---|---|
+| The section (e.g. "I need 06-generative-ai") | The section map below, or browse the folders directly |
+| The topic, not the section (e.g. "privacy," "security") | [00-navigation-and-methodology/topic-index.md](00-navigation-and-methodology/topic-index.md) — groups files across sections by theme |
+| Nothing yet, want to scan everything | [INDEX.md](INDEX.md) — every file in the repository, one flat list |
+
+Every file also carries a breadcrumb (`Home › Section › ...`) at the top so you always know where you are and can jump back out.
+
 ## Section map
 
 | # | Section | Answers |
@@ -30,9 +40,12 @@ New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repo
 | 11 | [Sector-specific AI](11-sector-specific-ai/) | How everything combines per industry |
 | 12 | [Case studies](12-case-studies/) | Real, sourced incidents and good practices, structured for reuse |
 | 13 | [Implementation playbooks](13-implementation-playbooks/) | Step-by-step checklists tying the whole chain together |
+| 14 | [AI security](14-ai-security/) | Threat model, controls, testing program, and incident response for AI-specific security, consolidated |
 | [glossary](glossary/) | Alphabetical term reference | |
 | [templates](templates/) | Index of reusable templates | |
 | [assets](assets/) | Diagrams and images | |
+
+Not sure which section has what you need? [INDEX.md](INDEX.md) lists every file; [topic-index.md](00-navigation-and-methodology/topic-index.md) groups them by theme instead of by section.
 
 ## Key distinctions this repository maintains
 

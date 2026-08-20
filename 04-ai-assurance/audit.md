@@ -1,5 +1,7 @@
 # AI Audit
 
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+
 ## Purpose
 
 Periodic, systematic review of AI systems and governance processes already in production — verifies that approved controls are still in place and effective, not just that they were correctly designed at launch.

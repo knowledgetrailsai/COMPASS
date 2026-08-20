@@ -1,5 +1,7 @@
 # Planning and Reasoning Risk
 
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+
 ## Why planning introduces distinct risk
 
 Agents that plan — decompose a goal into steps, adapt the plan as they go — introduce failure modes that don't exist in single-turn generation: the plan itself can be wrong, reasonable-looking, and hard to catch before execution.

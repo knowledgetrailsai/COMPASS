@@ -1,5 +1,7 @@
 # Regulatory Comparison
 
+*[Home](../INDEX.md) › [10 · Regulations & Standards](../10-regulations-and-standards/)*
+
 _Last reviewed: 2026-08-19. Snapshot comparison — see each jurisdiction's file for detail and sourcing._
 
 | Dimension | EU | US | India | UK | China | Singapore | Canada |

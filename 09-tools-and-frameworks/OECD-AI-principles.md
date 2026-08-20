@@ -1,5 +1,7 @@
 # OECD AI Principles
 
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+
 _Type: Framework (intergovernmental, non-binding). Issuer: OECD, adopted by member and partner countries. Last reviewed: 2026-08-19._
 
 ## What it is

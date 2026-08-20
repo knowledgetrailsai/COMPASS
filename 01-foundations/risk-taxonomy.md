@@ -1,5 +1,7 @@
 # Risk Taxonomy
 
+*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/)*
+
 A structured way to categorize what can go wrong with an AI system, used consistently across risk assessments (see [13-implementation-playbooks/conducting-an-ai-risk-assessment.md](../13-implementation-playbooks/conducting-an-ai-risk-assessment.md)).
 
 ## 1. Bias and fairness risk

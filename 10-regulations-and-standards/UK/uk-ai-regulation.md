@@ -1,5 +1,7 @@
 # UK — AI Regulation
 
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [UK](../../10-regulations-and-standards/UK/)*
+
 _Last reviewed: 2026-08-19. Confirm current regulator guidance directly, as the UK's approach is deliberately iterative and updated by individual regulators rather than through a single statute._
 
 ## Approach: pro-innovation, principles-based, regulator-led

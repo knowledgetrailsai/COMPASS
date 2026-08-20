@@ -1,5 +1,7 @@
 # Autonomy and Control
 
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+
 ## Autonomy levels (a practical scale)
 
 | Level | Description | Example |

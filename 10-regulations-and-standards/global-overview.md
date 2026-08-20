@@ -1,5 +1,7 @@
 # Global Regulatory Overview
 
+*[Home](../INDEX.md) › [10 · Regulations & Standards](../10-regulations-and-standards/)*
+
 _Last reviewed: 2026-08-19. Regulation in this space is moving quickly — verify current status before relying on any date or obligation below for a real decision. See [00-navigation-and-methodology/source-and-evidence-policy.md](../00-navigation-and-methodology/source-and-evidence-policy.md)._
 
 ## Comparison table

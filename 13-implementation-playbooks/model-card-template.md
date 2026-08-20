@@ -1,5 +1,7 @@
 # Playbook: Model / System Card Template
 
+*[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/)*
+
 Working template implementing [04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md).
 
 ```markdown

@@ -1,5 +1,7 @@
 # Agent Observability
 
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+
 ## Why standard application monitoring isn't enough
 
 Agents make decisions and take variable, sometimes unpredictable sequences of actions — observability needs to cover not just "is the system up," but "is the agent doing what it's supposed to, within its intended scope, reliably."

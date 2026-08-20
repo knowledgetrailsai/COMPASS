@@ -1,5 +1,7 @@
 # AI Risk Assessment
 
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+
 ## Purpose
 
 The structured methodology for identifying, scoring, and tracking risks for a specific AI system — feeds risk tiering ([03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md)) and informs what controls and assurance level are proportionate.

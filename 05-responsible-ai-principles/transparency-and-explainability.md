@@ -1,5 +1,7 @@
 # Transparency and Explainability
 
+*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/)*
+
 ## Distinguishing the two
 
 - **Transparency**: disclosure that AI is involved, what it's used for, and its general limitations — a governance/communication practice.

@@ -1,5 +1,7 @@
 # Public Sector
 
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+
 ## Common AI use cases
 Benefits eligibility determination, fraud detection in public programs, law enforcement/predictive policing tools, permitting/licensing automation, public service chatbots, agentic case-management assistants.
 

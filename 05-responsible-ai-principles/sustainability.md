@@ -1,5 +1,7 @@
 # Sustainability
 
+*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/)*
+
 ## Why it's part of Responsible AI
 
 Training and operating large models — especially large generative models — consumes significant energy, water (for data center cooling), and hardware resources. As AI adoption scales, the aggregate environmental footprint becomes a material consideration alongside the more immediate risks covered elsewhere in this guide.
@@ -23,7 +25,7 @@ Training and operating large models — especially large generative models — c
 
 ## Reporting
 
-Where material, include AI-related energy/compute considerations in existing corporate sustainability/ESG reporting, particularly for organizations deploying AI at significant scale. Some regulatory frameworks (EU AI Act, for general-purpose AI models) include energy consumption disclosure requirements — see [10-regulations-and-standards/eu-ai-act.md](../10-regulations-and-standards/eu-ai-act.md).
+Where material, include AI-related energy/compute considerations in existing corporate sustainability/ESG reporting, particularly for organizations deploying AI at significant scale. Some regulatory frameworks (EU AI Act, for general-purpose AI models) include energy consumption disclosure requirements — see [10-regulations-and-standards/eu-ai-act.md](../10-regulations-and-standards/EU/eu-ai-act.md).
 
 ## Balancing act
 

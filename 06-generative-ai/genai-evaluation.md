@@ -1,5 +1,7 @@
 # Generative AI Evaluation
 
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+
 ## Why standard ML evaluation isn't sufficient
 
 Generative outputs don't have a single "correct answer" the way a classification label does — evaluation needs methods suited to open-ended, often subjective output quality, alongside the specific Gen AI risk categories (hallucination, safety, groundedness).

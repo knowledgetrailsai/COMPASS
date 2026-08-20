@@ -1,5 +1,7 @@
 # Stage 5: Evaluation & Validation
 
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+
 ## Purpose
 
 Independently verify the system meets its fairness, safety, robustness, and performance requirements before it's exposed to real users — the primary technical gate in the lifecycle.

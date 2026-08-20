@@ -1,5 +1,7 @@
 # Governance Platforms
 
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+
 ## What this category covers
 
 Software supporting the organizational processes in [03-ai-governance](../03-ai-governance/) and [04-ai-assurance](../04-ai-assurance/) at scale: AI inventory/registry, risk-tiering workflow, policy management, approval routing, and audit trail — distinct from the technical evaluation tools in [open-source-tools.md](open-source-tools.md) and [evaluation-frameworks.md](evaluation-frameworks.md).

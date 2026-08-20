@@ -1,5 +1,7 @@
 # US — Federal AI Policy
 
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [US](../../10-regulations-and-standards/US/)*
+
 _Last reviewed: 2026-08-19. The US federal AI policy landscape is unusually fluid — no single comprehensive federal AI law exists, and executive branch policy has shifted materially across administrations. Verify current status before relying on specifics here._
 
 ## No comprehensive federal AI statute

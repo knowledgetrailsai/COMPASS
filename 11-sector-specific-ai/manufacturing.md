@@ -1,5 +1,7 @@
 # Manufacturing
 
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+
 ## Common AI use cases
 Predictive maintenance, quality control/defect detection, supply chain optimization, robotics and autonomous equipment control, agentic production-planning assistants.
 

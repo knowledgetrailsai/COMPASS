@@ -1,5 +1,7 @@
 # Source and Evidence Policy
 
+*[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/)*
+
 ## Why this matters
 
 A Responsible AI knowledge base that can't distinguish "this is a legal requirement," "this is a widely-adopted standard," "this is our internal policy choice," and "this is a good practice recommendation" will eventually mislead someone into treating guidance as law or vice versa. This policy sets the bar for how claims in this repository should be sourced.

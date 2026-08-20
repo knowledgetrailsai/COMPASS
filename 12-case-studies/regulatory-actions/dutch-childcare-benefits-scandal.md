@@ -1,5 +1,7 @@
 # Dutch Childcare Benefits Scandal (Toeslagenaffaire)
 
+*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/) › [regulatory-actions](../../12-case-studies/regulatory-actions/)*
+
 **Context**: Netherlands tax authority (Belastingdienst), childcare benefits fraud-detection system, in use through the 2010s, scandal fully surfaced publicly around 2019–2021, leading to the resignation of the Dutch government (Rutte III cabinet) in January 2021.
 
 **AI system**: Algorithmic/traditional ML risk-scoring system used to flag childcare benefit claims as potentially fraudulent.

@@ -1,5 +1,7 @@
 # Framework Comparison
 
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+
 | Framework | Type | Binding? | Scope | Certifiable? |
 |---|---|---|---|---|
 | EU AI Act | Law | Yes (in applicable jurisdiction) | Risk-tiered obligations for AI providers/deployers | N/A (conformity assessment, not certification) |

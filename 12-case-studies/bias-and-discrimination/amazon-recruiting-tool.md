@@ -1,5 +1,7 @@
 # Amazon's Experimental AI Recruiting Tool
 
+*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/) › [bias-and-discrimination](../../12-case-studies/bias-and-discrimination/)*
+
 **Context**: Amazon, internal recruiting, developed ~2014, scrapped ~2017 after internal discovery of the bias described below (widely reported in 2018).
 
 **AI system**: Traditional ML — a resume-screening/candidate-scoring model trained to rate applicants.

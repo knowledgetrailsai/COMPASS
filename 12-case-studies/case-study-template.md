@@ -1,5 +1,7 @@
 # Case Study Template
 
+*[Home](../INDEX.md) › [12 · Case Studies](../12-case-studies/)*
+
 Every case study in this section should follow this structure so cases are comparable and machine-readable as knowledge, not just narrative stories. Per [00-navigation-and-methodology/source-and-evidence-policy.md](../00-navigation-and-methodology/source-and-evidence-policy.md), factual claims should be sourced (Tier 4: documented, verifiable events) and clearly separated from interpretation.
 
 ```markdown

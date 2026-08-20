@@ -1,5 +1,7 @@
 # Playbook: Agentic AI Deployment Checklist
 
+*[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/)*
+
 ## Scoping and design
 - [ ] Autonomy level explicitly chosen and justified for this task ([07-agentic-ai/autonomy-and-control.md](../07-agentic-ai/autonomy-and-control.md))
 - [ ] Tool/action allowlist defined — default deny ([07-agentic-ai/tool-use-and-permissions.md](../07-agentic-ai/tool-use-and-permissions.md))

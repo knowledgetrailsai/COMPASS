@@ -1,5 +1,7 @@
 # Monitoring and Observability Techniques
 
+*[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/) › [monitoring-and-observability](../../08-controls-and-techniques/monitoring-and-observability/)*
+
 Implementation detail supporting [02-ai-lifecycle/monitoring-and-observability.md](../../02-ai-lifecycle/monitoring-and-observability.md) and [07-agentic-ai/agent-observability.md](../../07-agentic-ai/agent-observability.md).
 
 ## Drift detection techniques

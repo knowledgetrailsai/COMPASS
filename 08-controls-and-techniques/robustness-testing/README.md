@@ -1,5 +1,7 @@
 # Robustness Testing
 
+*[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/) › [robustness-testing](../../08-controls-and-techniques/robustness-testing/)*
+
 Implements [05-responsible-ai-principles/robustness-and-reliability.md](../../05-responsible-ai-principles/robustness-and-reliability.md) as concrete testing practices.
 
 ## Techniques
@@ -31,3 +33,7 @@ The most comprehensive adversarial technique, combining creative human testing w
 ## Tooling
 
 See [09-tools-and-frameworks](../../09-tools-and-frameworks/) for adversarial testing frameworks and MITRE ATLAS as a threat-pattern reference.
+
+## Related
+
+- [14-ai-security/security-testing-program.md](../../14-ai-security/security-testing-program.md) — how this fits into the full AI security testing cadence

@@ -1,5 +1,7 @@
 # Stage 4: Model Development
 
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+
 ## Purpose
 
 Build or select the model/system in a way that's proportionate to the risk tier and satisfies the requirements set in [requirements-and-design.md](requirements-and-design.md).

@@ -1,5 +1,7 @@
 # AI Ethics
 
+*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/)*
+
 ## Scope
 
 AI Ethics addresses the normative question underlying every other section of this repository: what *ought* an AI system do, whose values should it encode, and where should lines be drawn regardless of what's technically possible or even legally permitted.

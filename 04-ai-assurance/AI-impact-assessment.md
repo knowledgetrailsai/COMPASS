@@ -1,5 +1,7 @@
 # AI Impact Assessment
 
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+
 ## Purpose
 
 A structured, documented assessment of an AI system's potential impact on individuals, groups, and society — broader than a privacy-focused DPIA, covering fairness, rights, safety, and societal effects. Sometimes called an Algorithmic Impact Assessment (AIA).

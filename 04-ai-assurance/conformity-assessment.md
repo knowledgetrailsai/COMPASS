@@ -1,5 +1,7 @@
 # Conformity Assessment
 
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+
 ## What it is
 
 A formal process demonstrating that an AI system meets a specific regulatory standard's requirements before it can be placed on the market or put into service — most concretely defined today under the EU AI Act for high-risk AI systems.

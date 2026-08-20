@@ -1,5 +1,7 @@
 # Knowledge Map
 
+*[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/)*
+
 This repository is organized as a **Responsible AI control plane**, not a flat encyclopedia. Content flows through a consistent chain:
 
 ```
@@ -22,7 +24,7 @@ And grounded in:
 |---|---|
 | **What** — principles, risks, technology, regulation | 01, 05, 06, 07, 09, 10 |
 | **When** — AI lifecycle / SDLC | 02 |
-| **How** — controls, techniques, assessments, playbooks | 03, 04, 08, 13 |
+| **How** — controls, techniques, assessments, playbooks | 03, 04, 08, 13, 14 |
 | **Who / Where** — stakeholders, jurisdictions, industries | 01 (roles), 10 (jurisdictions), 11 (sectors) |
 
 ## Section map
@@ -43,6 +45,11 @@ And grounded in:
 | 11 | Sector-specific AI | How everything above combines in a given industry |
 | 12 | Case studies | Real-world evidence, structured for reuse |
 | 13 | Implementation playbooks | Step-by-step checklists that tie the whole chain together for a real project |
+| 14 | AI security | Practitioner-level threat model, control catalog, testing program, and incident response for AI-specific security — the front door if you're approaching from a security angle |
+
+## Two other ways to navigate
+
+This table organizes by *section*. If you're starting from a *topic* instead (e.g. "privacy," "security," "agentic AI risk") and don't know which section(s) it touches, use [topic-index.md](topic-index.md) — it groups files across sections by theme. If you just want to scan every file that exists, [../INDEX.md](../INDEX.md) is a flat list.
 
 ## Example: tracing one risk through the full chain
 

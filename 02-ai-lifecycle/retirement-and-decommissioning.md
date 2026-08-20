@@ -1,5 +1,7 @@
 # Stage 9: Retirement & Decommissioning
 
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+
 ## Purpose
 
 Responsibly wind down an AI system — an often-skipped stage that leaves orphaned data, stale access grants, and unclear accountability if not handled deliberately.

@@ -1,5 +1,7 @@
 # India — Digital Personal Data Protection (DPDP) Act & Rules
 
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [India](../../10-regulations-and-standards/India/)*
+
 _Type: Law (Digital Personal Data Protection Act, 2023 + Digital Personal Data Protection Rules, 2025). Last reviewed: 2026-08-19 — confirm current compliance deadlines directly, as the rules include a phased implementation timeline._
 
 ## What it is

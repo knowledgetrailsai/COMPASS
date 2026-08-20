@@ -1,5 +1,7 @@
 # Identity and Authorization for Agents
 
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+
 ## Why this is becoming fundamental
 
 An agent isn't just producing an answer — it can act on behalf of a user or organization. That means an agent needs an identity the rest of your systems can recognize, and an authorization model that determines what it's allowed to do under that identity — the same category of problem as human identity and access management, but with new failure modes because the "user" can be manipulated by its inputs.
