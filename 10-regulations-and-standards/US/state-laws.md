@@ -1,6 +1,6 @@
 # US — State AI Laws
 
-*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [US](../../10-regulations-and-standards/US/)*
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [US](../../10-regulations-and-standards/US/federal.md)*
 
 _Last reviewed: 2026-08-19. State-level AI law is changing rapidly and is currently in active tension with federal policy — this file is a snapshot, not a compliance reference. Confirm current status per state before relying on it._
 

@@ -1,6 +1,6 @@
 # AI Audit
 
-*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## Purpose
 
@@ -12,10 +12,10 @@ Periodic, systematic review of AI systems and governance processes already in pr
 Reviews a specific AI system's current behavior, documentation currency, and control effectiveness against what was approved at launch. Checks for drift between documented and actual behavior.
 
 ### Governance process audit
-Reviews whether the governance framework itself ([03-ai-governance](../03-ai-governance/)) is being followed consistently — are risk tiers being assigned correctly, is the AI inventory complete and current, are approvals being properly documented?
+Reviews whether the governance framework itself ([03-ai-governance](../03-ai-governance/AI-assurance.md)) is being followed consistently — are risk tiers being assigned correctly, is the AI inventory complete and current, are approvals being properly documented?
 
 ### Compliance audit
-Reviews specific regulatory obligations ([10-regulations-and-standards](../10-regulations-and-standards/)) for evidence of ongoing compliance, often ahead of or in response to a regulatory inquiry.
+Reviews specific regulatory obligations ([10-regulations-and-standards](../10-regulations-and-standards/global-overview.md)) for evidence of ongoing compliance, often ahead of or in response to a regulatory inquiry.
 
 ## Audit scope and cadence
 
@@ -40,4 +40,4 @@ Internal audit (by a function independent of the system owners) is the workhorse
 
 ## Relationship to certification
 
-Audits supporting a management-system certification (e.g., ISO/IEC 42001) follow the certifying body's specific audit methodology — see [09-tools-and-frameworks](../09-tools-and-frameworks/) — in addition to, not instead of, an organization's own internal audit practice.
+Audits supporting a management-system certification (e.g., ISO/IEC 42001) follow the certifying body's specific audit methodology — see [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md) — in addition to, not instead of, an organization's own internal audit practice.

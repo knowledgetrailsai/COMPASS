@@ -1,6 +1,6 @@
 # Privacy Techniques
 
-*[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/) › [privacy-techniques](../../08-controls-and-techniques/privacy-techniques/)*
+*[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/README.md) › [privacy-techniques](../../08-controls-and-techniques/privacy-techniques/README.md)*
 
 Implements [05-responsible-ai-principles/privacy-and-data-protection.md](../../05-responsible-ai-principles/privacy-and-data-protection.md) as concrete methods.
 

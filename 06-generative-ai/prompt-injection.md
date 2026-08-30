@@ -1,6 +1,6 @@
 # Prompt Injection
 
-*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Definition
 
@@ -32,4 +32,4 @@ For a standalone chatbot: manipulated or leaked output. For a RAG or agentic sys
 - [jailbreaks.md](jailbreaks.md)
 - [05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md)
 - [08-controls-and-techniques/guardrails-and-controls.md](../08-controls-and-techniques/guardrails-and-controls.md)
-- [09-tools-and-frameworks](../09-tools-and-frameworks/) — OWASP LLM Top 10 (LLM01: Prompt Injection)
+- [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md) — OWASP LLM Top 10 (LLM01: Prompt Injection)

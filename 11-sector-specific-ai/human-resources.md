@@ -1,6 +1,6 @@
 # Human Resources
 
-*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
 Resume screening, candidate ranking/scoring, interview analysis, performance evaluation support, workforce analytics, AI-driven scheduling/task allocation, agentic recruiting assistants.

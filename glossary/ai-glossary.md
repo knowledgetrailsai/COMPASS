@@ -1,14 +1,14 @@
 # AI Glossary
 
-*[Home](../INDEX.md) › [Glossary](../glossary/)*
+*[Home](../INDEX.md) › [Glossary](../glossary/ai-glossary.md)*
 
 Alphabetical reference. For the conceptual distinctions between related terms (ethics/RAI/governance/assurance; law/standard/framework/guidance), see [00-navigation-and-methodology/terminology-and-glossary.md](../00-navigation-and-methodology/terminology-and-glossary.md) instead — this file is for quick individual-term lookup.
 
 **Agentic AI** — AI systems that plan, use tools, and take multi-step autonomous actions toward a goal, as opposed to producing a single response to a single prompt.
 
-**AI Assurance** — Systematic, evidence-based verification that RAI principles, governance, and controls are functioning as intended. See [04-ai-assurance](../04-ai-assurance/).
+**AI Assurance** — Systematic, evidence-based verification that RAI principles, governance, and controls are functioning as intended. See [04-ai-assurance](../04-ai-assurance/assurance-overview.md).
 
-**AI Governance** — Organizational structures, roles, and processes that institutionalize Responsible AI practice. See [03-ai-governance](../03-ai-governance/).
+**AI Governance** — Organizational structures, roles, and processes that institutionalize Responsible AI practice. See [03-ai-governance](../03-ai-governance/AI-assurance.md).
 
 **Bias (algorithmic)** — Systematic, unfair skew in a model's outputs or decisions, typically traced to training data, feature choice, or objective design. See [05-responsible-ai-principles/fairness-and-bias.md](../05-responsible-ai-principles/fairness-and-bias.md).
 

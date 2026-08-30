@@ -1,6 +1,6 @@
 # Robustness and Reliability
 
-*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/)*
+*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)*
 
 ## What it means
 
@@ -27,7 +27,7 @@ The system performs consistently and predictably under normal conditions, edge c
 
 ## Testing approaches
 
-See [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/): stress testing, chaos-engineering-style fault injection, adversarial test suites, long-horizon task evaluation for agents, and shadow-mode deployment to observe real-world performance before it affects users.
+See [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md): stress testing, chaos-engineering-style fault injection, adversarial test suites, long-horizon task evaluation for agents, and shadow-mode deployment to observe real-world performance before it affects users.
 
 ## Fail-safe design principles
 

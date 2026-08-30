@@ -1,6 +1,6 @@
 # MITRE ATLAS
 
-*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 _Type: Threat knowledge base / security guidance. Issuer: MITRE. Last reviewed: 2026-08-19._
 
@@ -32,6 +32,6 @@ ATLAS covers the broader ML/AI attack surface (including traditional ML); OWASP 
 
 ## Related
 
-- [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/)
+- [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md)
 - [05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md)
 - [14-ai-security/ai-threat-model.md](../14-ai-security/ai-threat-model.md) — this repository's own threat model, structured on the same lifecycle-stage pattern

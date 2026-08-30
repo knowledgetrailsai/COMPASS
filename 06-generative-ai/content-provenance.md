@@ -1,6 +1,6 @@
 # Content Provenance and Authenticity
 
-*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Why it matters
 

@@ -1,8 +1,8 @@
 # Securing Agentic AI
 
-*[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/)*
+*[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
-A consolidated security view over content already detailed in [07-agentic-ai](../07-agentic-ai/) — the highest-stakes security surface in this repository, since a compromised agent doesn't just say something wrong, it can *do* something wrong.
+A consolidated security view over content already detailed in [07-agentic-ai](../07-agentic-ai/agent-incident-response.md) — the highest-stakes security surface in this repository, since a compromised agent doesn't just say something wrong, it can *do* something wrong.
 
 ## Threat catalog
 

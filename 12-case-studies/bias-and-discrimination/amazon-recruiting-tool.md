@@ -1,6 +1,6 @@
 # Amazon's Experimental AI Recruiting Tool
 
-*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/) › [bias-and-discrimination](../../12-case-studies/bias-and-discrimination/)*
+*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [bias-and-discrimination](../../12-case-studies/bias-and-discrimination/amazon-recruiting-tool.md)*
 
 **Context**: Amazon, internal recruiting, developed ~2014, scrapped ~2017 after internal discovery of the bias described below (widely reported in 2018).
 
@@ -22,6 +22,6 @@
 
 **Lessons learned**: Historical hiring data reflects historical hiring bias by default — treating past decisions as ground truth for training a scoring model reproduces past discrimination unless deliberately corrected for. Internal discovery (rather than external exposure) is the better outcome, but only if it happens before deployment, not after.
 
-**Preventive controls**: Mandatory subgroup fairness testing before deployment ([08-controls-and-techniques/fairness-testing](../../08-controls-and-techniques/fairness-testing/)); explicit review of whether historical decision data is an appropriate training target for a "fair going forward" model.
+**Preventive controls**: Mandatory subgroup fairness testing before deployment ([08-controls-and-techniques/fairness-testing](../../08-controls-and-techniques/fairness-testing/README.md)); explicit review of whether historical decision data is an appropriate training target for a "fair going forward" model.
 
 **Sources**: Widely reported contemporaneously by Reuters ("Amazon scraps secret AI recruiting tool that showed bias against women," 2018) and extensively cited in subsequent AI fairness literature and regulatory discussion.

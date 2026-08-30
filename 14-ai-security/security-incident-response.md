@@ -1,6 +1,6 @@
 # AI Security Incident Response
 
-*[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/)*
+*[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 ## Relationship to other incident response content
 
@@ -23,7 +23,7 @@ Route AI security incidents through the organization's existing security inciden
 
 ## Regulatory/disclosure considerations
 
-Security incidents involving personal data trigger breach notification obligations under applicable law ([10-regulations-and-standards](../10-regulations-and-standards/)) — loop in legal/privacy immediately for any incident involving data exfiltration or unauthorized access to personal data, on the same timeline as any other security breach.
+Security incidents involving personal data trigger breach notification obligations under applicable law ([10-regulations-and-standards](../10-regulations-and-standards/global-overview.md)) — loop in legal/privacy immediately for any incident involving data exfiltration or unauthorized access to personal data, on the same timeline as any other security breach.
 
 ## Post-incident
 

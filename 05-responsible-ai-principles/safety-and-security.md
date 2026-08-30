@@ -1,13 +1,13 @@
 # Safety and Security
 
-*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/)*
+*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)*
 
 ## Safety vs. security
 
 - **Safety**: the system doesn't cause harm even when used as intended (or through foreseeable misuse) — unsafe outputs, unsafe autonomous actions, physical harm from embodied/robotic AI.
 - **Security**: the system resists adversarial attack from parties trying to make it misbehave, extract data, or bypass controls.
 
-> For the full practitioner-level security view (threat model, control catalog, testing program, incident response), see [14-ai-security](../14-ai-security/) — this page states the principle; that section operationalizes it.
+> For the full practitioner-level security view (threat model, control catalog, testing program, incident response), see [14-ai-security](../14-ai-security/README.md) — this page states the principle; that section operationalizes it.
 
 ## AI-specific security threats
 
@@ -34,7 +34,7 @@
 - Treat prompt injection as an assumed threat for any system that processes untrusted input (user text, retrieved documents, web content, tool outputs) — don't rely on the model to "just not follow" injected instructions
 - Least-privilege tool/API access for agents; no standing credentials broader than the task needs ([07-agentic-ai/tool-use-and-permissions.md](../07-agentic-ai/tool-use-and-permissions.md))
 - Sandboxing for code execution or file system access by agents
-- Red-teaming / adversarial testing before launch and on a recurring cadence — see [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/)
+- Red-teaming / adversarial testing before launch and on a recurring cadence — see [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md)
 - Input/output validation at every trust boundary, especially where agent output triggers a real-world action (e.g., don't let free-text model output become a raw shell command or SQL query without validation)
 
 ## Integration with existing security programs

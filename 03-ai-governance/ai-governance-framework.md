@@ -1,6 +1,6 @@
 # AI Governance Framework
 
-*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 ## Purpose
 
@@ -29,7 +29,7 @@ A central, living record of every AI system in use — including Gen AI features
 Tied to [risk-management.md](risk-management.md): low-risk use cases self-certify via checklist; medium-risk get a lightweight review; high-risk require full governance board sign-off, documentation (model cards, DPIAs), and ongoing monitoring commitments.
 
 ### 5. Monitoring and audit
-Post-deployment monitoring (see [08-controls-and-techniques/monitoring-and-observability](../08-controls-and-techniques/monitoring-and-observability/)) feeding back into the governance board; periodic audits of high-risk systems; incident response tied into existing security/ops processes.
+Post-deployment monitoring (see [08-controls-and-techniques/monitoring-and-observability](../08-controls-and-techniques/monitoring-and-observability/README.md)) feeding back into the governance board; periodic audits of high-risk systems; incident response tied into existing security/ops processes.
 
 ## Governance maturity levels
 

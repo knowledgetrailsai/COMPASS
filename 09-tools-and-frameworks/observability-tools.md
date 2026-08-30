@@ -1,6 +1,6 @@
 # Observability Tools
 
-*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 ## LLM/Gen AI tracing and monitoring
 
@@ -33,5 +33,5 @@ AI observability should extend, not replace, standard application observability 
 
 ## Related
 
-- [08-controls-and-techniques/monitoring-and-observability](../08-controls-and-techniques/monitoring-and-observability/)
+- [08-controls-and-techniques/monitoring-and-observability](../08-controls-and-techniques/monitoring-and-observability/README.md)
 - [07-agentic-ai/agent-observability.md](../07-agentic-ai/agent-observability.md)

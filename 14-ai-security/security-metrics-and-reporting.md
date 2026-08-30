@@ -1,6 +1,6 @@
 # Security Metrics and Reporting
 
-*[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/)*
+*[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 ## Purpose
 

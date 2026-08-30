@@ -1,6 +1,6 @@
 # What is Responsible AI
 
-*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/)*
+*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/ai-ethics.md)*
 
 ## Definition
 

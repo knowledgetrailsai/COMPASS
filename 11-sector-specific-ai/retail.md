@@ -1,6 +1,6 @@
 # Retail
 
-*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
 Product recommendation, dynamic/personalized pricing, demand forecasting, customer service chatbots, fraud detection, agentic shopping/inventory assistants.

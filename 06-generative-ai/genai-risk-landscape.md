@@ -1,6 +1,6 @@
 # Generative AI — Specific Risks
 
-*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 Generative AI (LLMs, image/audio/video generation) inherits the risks in [01-foundations/risk-taxonomy.md](../01-foundations/risk-taxonomy.md) but adds several distinct failure modes.
 

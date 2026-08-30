@@ -1,6 +1,6 @@
 # Samsung Employees' Confidential Data Leak via ChatGPT
 
-*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/) › [privacy-incidents](../../12-case-studies/privacy-incidents/)*
+*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [privacy-incidents](../../12-case-studies/privacy-incidents/samsung-chatgpt-leak.md)*
 
 **Context**: Samsung Semiconductor, reported in 2023.
 
@@ -12,7 +12,7 @@
 
 **Risk category**: Privacy and data risk (also a trade-secret/IP exposure risk, adjacent to but distinct from the personal-data-focused privacy risk category).
 
-**Lifecycle stage where it could have been caught**: This falls outside the standard system-development lifecycle entirely — it's a policy/governance gap ([03-ai-governance](../../03-ai-governance/)) applying to third-party tool usage rather than a system Samsung built, illustrating why [03-ai-governance/third-party-ai-governance.md](../../03-ai-governance/third-party-ai-governance.md) needs to cover employee tool use, not just procured/embedded AI products.
+**Lifecycle stage where it could have been caught**: This falls outside the standard system-development lifecycle entirely — it's a policy/governance gap ([03-ai-governance](../../03-ai-governance/AI-assurance.md)) applying to third-party tool usage rather than a system Samsung built, illustrating why [03-ai-governance/third-party-ai-governance.md](../../03-ai-governance/third-party-ai-governance.md) needs to cover employee tool use, not just procured/embedded AI products.
 
 **Control failure**: No Acceptable Use Policy restricting confidential data input to external AI tools; no technical control (e.g., data-loss-prevention tooling) blocking sensitive data from leaving the network via a browser-based AI tool.
 

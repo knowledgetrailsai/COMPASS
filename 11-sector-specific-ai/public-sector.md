@@ -1,6 +1,6 @@
 # Public Sector
 
-*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
 Benefits eligibility determination, fraud detection in public programs, law enforcement/predictive policing tools, permitting/licensing automation, public service chatbots, agentic case-management assistants.
@@ -22,4 +22,4 @@ Often the most stringent regulatory tier in any given framework — the EU AI Ac
 - Explicit prohibition review against [03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md) Tier 0 categories before any surveillance-adjacent use case proceeds
 
 ## Assurance emphasis
-Public-sector AI often faces the highest public scrutiny and legal challenge risk of any category in this repository — invest in full [04-ai-assurance](../04-ai-assurance/) rigor (impact assessment, independent assessment, audit, red-teaming) as a default rather than a risk-tier-dependent choice.
+Public-sector AI often faces the highest public scrutiny and legal challenge risk of any category in this repository — invest in full [04-ai-assurance](../04-ai-assurance/assurance-overview.md) rigor (impact assessment, independent assessment, audit, red-teaming) as a default rather than a risk-tier-dependent choice.

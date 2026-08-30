@@ -1,6 +1,6 @@
 # Singapore — AI Regulation
 
-*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [Singapore](../../10-regulations-and-standards/Singapore/)*
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [Singapore](../../10-regulations-and-standards/Singapore/singapore-ai-regulation.md)*
 
 _Last reviewed: 2026-08-19._
 
@@ -22,7 +22,7 @@ Singapore's general data protection law applies to AI systems processing persona
 
 ## AI Verify
 
-Singapore has also developed AI Verify, a governance testing framework/toolkit intended to help organizations validate AI systems against responsible AI principles through a combination of technical tests and process checks — worth evaluating alongside the tools catalogued in [09-tools-and-frameworks](../../09-tools-and-frameworks/) for organizations operating in or serving the Singapore market.
+Singapore has also developed AI Verify, a governance testing framework/toolkit intended to help organizations validate AI systems against responsible AI principles through a combination of technical tests and process checks — worth evaluating alongside the tools catalogued in [09-tools-and-frameworks](../../09-tools-and-frameworks/commercial-platforms.md) for organizations operating in or serving the Singapore market.
 
 ## Practical guidance
 

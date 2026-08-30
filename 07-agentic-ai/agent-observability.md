@@ -1,6 +1,6 @@
 # Agent Observability
 
-*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Why standard application monitoring isn't enough
 
@@ -39,4 +39,4 @@ Task success/failure, not just individual action success — an agent can comple
 ## Related
 
 - [02-ai-lifecycle/monitoring-and-observability.md](../02-ai-lifecycle/monitoring-and-observability.md)
-- [08-controls-and-techniques/monitoring-and-observability](../08-controls-and-techniques/monitoring-and-observability/)
+- [08-controls-and-techniques/monitoring-and-observability](../08-controls-and-techniques/monitoring-and-observability/README.md)

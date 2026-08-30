@@ -1,6 +1,6 @@
 # COMPAS Recidivism Risk Scoring
 
-*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/) › [bias-and-discrimination](../../12-case-studies/bias-and-discrimination/)*
+*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [bias-and-discrimination](../../12-case-studies/bias-and-discrimination/amazon-recruiting-tool.md)*
 
 **Context**: US criminal justice system, COMPAS risk-assessment tool (developed by Northpointe/Equivant) used by courts in several US states to inform bail, sentencing, and parole decisions. Most prominently analyzed by ProPublica in 2016.
 

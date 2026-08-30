@@ -1,6 +1,6 @@
 # Stage 7: Monitoring & Observability
 
-*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## Purpose
 
@@ -31,5 +31,5 @@ Even without a triggering incident, Tier 1 systems should undergo full re-evalua
 
 ## Related
 
-- [08-controls-and-techniques/monitoring-and-observability](../08-controls-and-techniques/monitoring-and-observability/)
+- [08-controls-and-techniques/monitoring-and-observability](../08-controls-and-techniques/monitoring-and-observability/README.md)
 - [04-ai-assurance/audit.md](../04-ai-assurance/audit.md)

@@ -1,6 +1,6 @@
 # Financial Services
 
-*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
 Credit/lending decisioning, fraud detection, algorithmic trading, robo-advisory, AML/KYC screening, customer service chatbots, insurance-adjacent underwriting support.
@@ -13,10 +13,10 @@ Credit/lending decisioning, fraud detection, algorithmic trading, robo-advisory,
 - **Agentic AI in finance**: autonomous transaction execution, automated customer communications — apply [07-agentic-ai/autonomy-and-control.md](../07-agentic-ai/autonomy-and-control.md) with particular weight on approval gates for anything moving money
 
 ## Applicable regulation (illustrative — verify current requirements per jurisdiction)
-Fair lending laws (e.g., ECOA/Regulation B and FCRA in the US), banking regulator model risk management guidance, RBI digital lending guidelines (India), MAS FEAT principles (Singapore), FCA guidance (UK) — see [10-regulations-and-standards](../10-regulations-and-standards/) and [11-sector-specific-ai](README.md) pattern.
+Fair lending laws (e.g., ECOA/Regulation B and FCRA in the US), banking regulator model risk management guidance, RBI digital lending guidelines (India), MAS FEAT principles (Singapore), FCA guidance (UK) — see [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md) and [11-sector-specific-ai](README.md) pattern.
 
 ## Control emphasis
-- Rigorous, documented fairness testing with defined acceptability thresholds before any credit/pricing model launches ([08-controls-and-techniques/fairness-testing](../08-controls-and-techniques/fairness-testing/))
+- Rigorous, documented fairness testing with defined acceptability thresholds before any credit/pricing model launches ([08-controls-and-techniques/fairness-testing](../08-controls-and-techniques/fairness-testing/README.md))
 - Explainability sufficient to generate compliant adverse action notices, not just internal debugging explanations
 - Independent model validation function, often already required by existing model risk management regulation — extend its scope to AI/ML models rather than building a parallel process
 - Strong audit trail for every credit/trading decision ([04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md))

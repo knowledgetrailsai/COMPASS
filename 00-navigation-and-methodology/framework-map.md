@@ -1,8 +1,8 @@
 # Framework Map
 
-*[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/)*
+*[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/framework-map.md)*
 
-A quick cross-reference of where major external frameworks/standards map into this repository's own structure. Full detail on each lives in [09-tools-and-frameworks](../09-tools-and-frameworks/) (frameworks/standards) or [10-regulations-and-standards](../10-regulations-and-standards/) (binding law).
+A quick cross-reference of where major external frameworks/standards map into this repository's own structure. Full detail on each lives in [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md) (frameworks/standards) or [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md) (binding law).
 
 | External framework | Type | Primary focus | Maps to |
 |---|---|---|---|

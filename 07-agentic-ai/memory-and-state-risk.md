@@ -1,6 +1,6 @@
 # Memory and State Risk
 
-*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Why persistent memory adds risk
 

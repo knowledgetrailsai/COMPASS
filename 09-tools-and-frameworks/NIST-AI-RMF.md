@@ -1,6 +1,6 @@
 # NIST AI Risk Management Framework (AI RMF)
 
-*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 _Type: Framework (voluntary). Issuer: U.S. National Institute of Standards and Technology. Last reviewed: 2026-08-19 — verify current version and any Generative AI Profile updates directly with NIST._
 
@@ -21,14 +21,14 @@ A voluntary framework helping organizations manage AI risk across the system lif
 
 | NIST function | This repository |
 |---|---|
-| Govern | [03-ai-governance](../03-ai-governance/) |
+| Govern | [03-ai-governance](../03-ai-governance/AI-assurance.md) |
 | Map | [01-foundations/risk-taxonomy.md](../01-foundations/risk-taxonomy.md), [04-ai-assurance/AI-risk-assessment.md](../04-ai-assurance/AI-risk-assessment.md) |
-| Measure | [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/), [04-ai-assurance](../04-ai-assurance/) |
-| Manage | [08-controls-and-techniques](../08-controls-and-techniques/), [02-ai-lifecycle/incident-and-remediation.md](../02-ai-lifecycle/incident-and-remediation.md) |
+| Measure | [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/README.md), [04-ai-assurance](../04-ai-assurance/assurance-overview.md) |
+| Manage | [08-controls-and-techniques](../08-controls-and-techniques/README.md), [02-ai-lifecycle/incident-and-remediation.md](../02-ai-lifecycle/incident-and-remediation.md) |
 
 ## Generative AI Profile
 
-NIST has published a Generative AI-specific profile supplementing the core RMF with risks particular to generative systems (content provenance, confabulation/hallucination, and others) — cross-reference against [06-generative-ai](../06-generative-ai/) when applying it.
+NIST has published a Generative AI-specific profile supplementing the core RMF with risks particular to generative systems (content provenance, confabulation/hallucination, and others) — cross-reference against [06-generative-ai](../06-generative-ai/content-provenance.md) when applying it.
 
 ## When to use this framework
 

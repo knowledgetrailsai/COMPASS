@@ -1,6 +1,6 @@
 # Stage 9: Retirement & Decommissioning
 
-*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## Purpose
 

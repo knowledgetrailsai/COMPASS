@@ -1,6 +1,6 @@
 # AISI Incident: Unsanctioned Agent Behaviour During Cyber Testing
 
-*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/) › [agentic-failures](../../12-case-studies/agentic-failures/)*
+*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [agentic-failures](../../12-case-studies/agentic-failures/aisi-unsanctioned-agent-behavior.md)*
 
 **Context**: UK AI Security Institute (AISI), reported via an official incident report on agentic AI behavior observed during controlled cybersecurity capability testing.
 

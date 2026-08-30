@@ -1,8 +1,8 @@
 # AI Assurance (Governance Pointer)
 
-*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
-Assurance — how you *prove* governance and Responsible AI practices actually work — is developed in full as its own layer: [04-ai-assurance](../04-ai-assurance/).
+Assurance — how you *prove* governance and Responsible AI practices actually work — is developed in full as its own layer: [04-ai-assurance](../04-ai-assurance/assurance-overview.md).
 
 ## Why it's referenced here
 

@@ -1,6 +1,6 @@
 # US — Federal AI Policy
 
-*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [US](../../10-regulations-and-standards/US/)*
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [US](../../10-regulations-and-standards/US/federal.md)*
 
 _Last reviewed: 2026-08-19. The US federal AI policy landscape is unusually fluid — no single comprehensive federal AI law exists, and executive branch policy has shifted materially across administrations. Verify current status before relying on specifics here._
 
@@ -21,7 +21,7 @@ Existing federal regulators apply their general authority to AI within their sec
 - **CFPB / banking regulators**: fair lending law (ECOA, FCRA) applied to AI credit decisioning
 - **SEC**: AI-related disclosure and market-conduct rules for financial services
 
-Treat these as the practical binding baseline for many high-stakes US AI use cases even without dedicated federal AI legislation — see [11-sector-specific-ai](../../11-sector-specific-ai/) for sector detail.
+Treat these as the practical binding baseline for many high-stakes US AI use cases even without dedicated federal AI legislation — see [11-sector-specific-ai](../../11-sector-specific-ai/README.md) for sector detail.
 
 ## NIST AI RMF
 

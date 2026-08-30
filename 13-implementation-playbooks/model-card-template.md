@@ -1,6 +1,6 @@
 # Playbook: Model / System Card Template
 
-*[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/)*
+*[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md)*
 
 Working template implementing [04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md).
 

@@ -1,6 +1,6 @@
 # Transparency and Explainability
 
-*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/)*
+*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)*
 
 ## Distinguishing the two
 
@@ -17,7 +17,7 @@ Both are needed; transparency without explainability leaves users unable to chal
 
 ## Techniques
 
-See [08-controls-and-techniques/explainability](../08-controls-and-techniques/explainability/) for tool-level detail: SHAP, LIME, feature attribution, attention visualization, counterfactual generation, and the inherent-interpretability-vs-post-hoc-explanation tradeoff.
+See [08-controls-and-techniques/explainability](../08-controls-and-techniques/explainability/README.md) for tool-level detail: SHAP, LIME, feature attribution, attention visualization, counterfactual generation, and the inherent-interpretability-vs-post-hoc-explanation tradeoff.
 
 ## Transparency obligations (practical)
 

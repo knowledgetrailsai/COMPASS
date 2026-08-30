@@ -1,6 +1,6 @@
 # India — Digital Personal Data Protection (DPDP) Act & Rules
 
-*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [India](../../10-regulations-and-standards/India/)*
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [India](../../10-regulations-and-standards/India/dpdp-act.md)*
 
 _Type: Law (Digital Personal Data Protection Act, 2023 + Digital Personal Data Protection Rules, 2025). Last reviewed: 2026-08-19 — confirm current compliance deadlines directly, as the rules include a phased implementation timeline._
 
@@ -26,7 +26,7 @@ India's primary data protection law — not an AI-specific statute, but the main
 
 ## Relationship to sector regulation
 
-RBI (banking/NBFC), SEBI (securities), and IRDAI (insurance) each layer sector-specific data and AI-use guidance on top of the DPDP Act baseline — see [10-regulations-and-standards/India/sectoral-regulation.md](sectoral-regulation.md) and [11-sector-specific-ai](../../11-sector-specific-ai/).
+RBI (banking/NBFC), SEBI (securities), and IRDAI (insurance) each layer sector-specific data and AI-use guidance on top of the DPDP Act baseline — see [10-regulations-and-standards/India/sectoral-regulation.md](sectoral-regulation.md) and [11-sector-specific-ai](../../11-sector-specific-ai/README.md).
 
 ## Status note
 

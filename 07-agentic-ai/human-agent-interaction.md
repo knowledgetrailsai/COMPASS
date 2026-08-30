@@ -1,6 +1,6 @@
 # Human-Agent Interaction
 
-*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Why this deserves its own focus
 

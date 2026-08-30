@@ -1,6 +1,6 @@
 # Terminology — Key Distinctions
 
-*[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/)*
+*[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/framework-map.md)*
 
 A short guide to terms this repository uses precisely and consistently. For the full alphabetical glossary, see [glossary/ai-glossary.md](../glossary/ai-glossary.md).
 
@@ -24,7 +24,7 @@ See [01-foundations/responsible-ai-vs-ai-ethics.md](../01-foundations/responsibl
 | **Framework** | Structured but voluntary guidance for organizing practice | NIST AI RMF |
 | **Guidance / Industry practice** | Non-binding recommendations, often from a community or vendor | OWASP LLM Top 10, MITRE ATLAS |
 
-Treating a voluntary framework as a legal requirement (or vice versa) is a common and costly mistake — [10-regulations-and-standards](../10-regulations-and-standards/) is reserved for binding law; frameworks/standards live in [09-tools-and-frameworks](../09-tools-and-frameworks/).
+Treating a voluntary framework as a legal requirement (or vice versa) is a common and costly mistake — [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md) is reserved for binding law; frameworks/standards live in [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md).
 
 ## Risk, Control, Technique, Test — the implementation chain
 
@@ -37,7 +37,7 @@ Treating a voluntary framework as a legal requirement (or vice versa) is a commo
 
 ## Tool vs. Framework vs. Standard (commonly conflated)
 
-Fairlearn is a **tool**. NIST AI RMF is a **framework**. ISO/IEC 42001 is a **management-system standard**. OWASP LLM Top 10 is **security guidance**. They don't sit at the same level, and this repository keeps them in [09-tools-and-frameworks](../09-tools-and-frameworks/) with that distinction explicit.
+Fairlearn is a **tool**. NIST AI RMF is a **framework**. ISO/IEC 42001 is a **management-system standard**. OWASP LLM Top 10 is **security guidance**. They don't sit at the same level, and this repository keeps them in [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md) with that distinction explicit.
 
 ## Traditional ML vs. Generative AI vs. Agentic AI
 

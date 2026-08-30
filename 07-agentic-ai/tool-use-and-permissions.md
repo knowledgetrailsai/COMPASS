@@ -1,6 +1,6 @@
 # Tool Use and Permissions
 
-*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Principle: least privilege by default
 

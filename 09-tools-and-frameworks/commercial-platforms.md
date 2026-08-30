@@ -1,6 +1,6 @@
 # Commercial / Vendor Platforms
 
-*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 _Last reviewed: 2026-08-19 — vendor capabilities and naming change frequently; verify current feature sets directly with vendors before relying on specifics here._
 
@@ -15,7 +15,7 @@ _Last reviewed: 2026-08-19 — vendor capabilities and naming change frequently;
 
 ## AI governance / GRC platforms
 
-Dedicated platforms for AI inventory management, risk tiering, policy enforcement, and audit trail across an organization's full AI portfolio — evaluate against the governance functions in [03-ai-governance](../03-ai-governance/) and assurance functions in [04-ai-assurance](../04-ai-assurance/) to check actual coverage rather than marketing claims.
+Dedicated platforms for AI inventory management, risk tiering, policy enforcement, and audit trail across an organization's full AI portfolio — evaluate against the governance functions in [03-ai-governance](../03-ai-governance/AI-assurance.md) and assurance functions in [04-ai-assurance](../04-ai-assurance/assurance-overview.md) to check actual coverage rather than marketing claims.
 
 ## Gen AI evaluation / observability platforms
 

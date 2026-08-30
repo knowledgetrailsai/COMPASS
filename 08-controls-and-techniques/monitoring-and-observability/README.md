@@ -1,6 +1,6 @@
 # Monitoring and Observability Techniques
 
-*[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/) › [monitoring-and-observability](../../08-controls-and-techniques/monitoring-and-observability/)*
+*[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/README.md) › [monitoring-and-observability](../../08-controls-and-techniques/monitoring-and-observability/README.md)*
 
 Implementation detail supporting [02-ai-lifecycle/monitoring-and-observability.md](../../02-ai-lifecycle/monitoring-and-observability.md) and [07-agentic-ai/agent-observability.md](../../07-agentic-ai/agent-observability.md).
 

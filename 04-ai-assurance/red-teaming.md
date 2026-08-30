@@ -1,6 +1,6 @@
 # Red-Teaming
 
-*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## Purpose
 
@@ -20,7 +20,7 @@ Attempts to induce out-of-scope tool use, prompt injection via tool outputs/retr
 ## Methodology
 
 1. **Threat modeling**: identify plausible adversaries (curious users, motivated bad actors, competitors, automated attack tools) and their likely goals for this specific system
-2. **Reference known attack patterns**: use established taxonomies (OWASP LLM Top 10, MITRE ATLAS — see [09-tools-and-frameworks](../09-tools-and-frameworks/)) as a starting checklist, not a complete list
+2. **Reference known attack patterns**: use established taxonomies (OWASP LLM Top 10, MITRE ATLAS — see [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md)) as a starting checklist, not a complete list
 3. **Manual and automated testing**: combine structured manual red-teaming (creative, adaptive human testers) with automated adversarial test suites for scale and regression coverage
 4. **Realistic conditions**: test in an environment as close to production as feasible, including real tool integrations (sandboxed) for agentic systems
 5. **Severity rating and reporting**: findings rated by exploitability and impact, reported with enough detail for remediation, retained as an assurance artifact

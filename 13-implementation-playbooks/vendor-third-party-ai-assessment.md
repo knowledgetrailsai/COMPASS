@@ -1,6 +1,6 @@
 # Playbook: Vendor / Third-Party AI Assessment
 
-*[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/)*
+*[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md)*
 
 Working checklist implementing [03-ai-governance/third-party-ai-governance.md](../03-ai-governance/third-party-ai-governance.md).
 
@@ -30,7 +30,7 @@ Working checklist implementing [03-ai-governance/third-party-ai-governance.md](.
 - [ ] Data Processing Agreement in place for any personal data
 
 ## Regulatory alignment
-- [ ] Vendor supports your compliance obligations for applicable jurisdictions ([10-regulations-and-standards](../10-regulations-and-standards/))
+- [ ] Vendor supports your compliance obligations for applicable jurisdictions ([10-regulations-and-standards](../10-regulations-and-standards/global-overview.md))
 - [ ] For EU AI Act-applicable use: clarity on provider vs. deployer obligation split with the vendor
 
 ## Ongoing governance

@@ -1,6 +1,6 @@
 # Fairness and Bias
 
-*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/)*
+*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)*
 
 ## What it means
 
@@ -34,7 +34,7 @@ Choice of definition should be a deliberate, documented decision involving legal
 | In-processing | Fairness constraints during training, adversarial debiasing |
 | Post-processing | Threshold adjustment per group, calibration |
 
-See [08-controls-and-techniques/fairness-testing](../08-controls-and-techniques/fairness-testing/) for tooling.
+See [08-controls-and-techniques/fairness-testing](../08-controls-and-techniques/fairness-testing/README.md) for tooling.
 
 ## Gen AI considerations
 

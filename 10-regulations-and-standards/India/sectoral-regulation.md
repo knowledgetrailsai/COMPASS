@@ -1,6 +1,6 @@
 # India — Sectoral AI Guidance
 
-*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [India](../../10-regulations-and-standards/India/)*
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [India](../../10-regulations-and-standards/India/dpdp-act.md)*
 
 _Last reviewed: 2026-08-19 — sectoral guidance in India is issued as circulars/advisories that update periodically; confirm current text with the relevant regulator._
 

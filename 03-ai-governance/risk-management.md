@@ -1,6 +1,6 @@
 # Risk Tiering
 
-*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 ## Why tier
 
@@ -30,7 +30,7 @@ Limited blast radius: internal drafting assistance, code completion, summarizati
 3. Does it process sensitive personal data, biometric data, or data about vulnerable populations?
 4. What is the blast radius if it fails or is misused — one user, many users, or systemic?
 5. Is a human required to review/approve outputs before they take effect?
-6. Is this a "high-risk" category under applicable regulation (check [10-regulations-and-standards](../10-regulations-and-standards/))?
+6. Is this a "high-risk" category under applicable regulation (check [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md))?
 
 ## Agentic AI note
 

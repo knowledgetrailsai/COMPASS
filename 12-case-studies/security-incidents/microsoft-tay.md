@@ -1,6 +1,6 @@
 # Microsoft Tay Chatbot
 
-*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/) › [security-incidents](../../12-case-studies/security-incidents/)*
+*[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [security-incidents](../../12-case-studies/security-incidents/microsoft-tay.md)*
 
 **Context**: Microsoft, Twitter-based conversational AI chatbot "Tay," launched and taken down within 24 hours in March 2016.
 

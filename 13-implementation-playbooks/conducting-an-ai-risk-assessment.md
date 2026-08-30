@@ -1,6 +1,6 @@
 # Playbook: Conducting an AI Risk Assessment
 
-*[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/)*
+*[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md)*
 
 Working, step-by-step version of [04-ai-assurance/AI-risk-assessment.md](../04-ai-assurance/AI-risk-assessment.md) and [04-ai-assurance/AI-impact-assessment.md](../04-ai-assurance/AI-impact-assessment.md).
 
@@ -25,10 +25,10 @@ Severity × Likelihood × Detectability (1–5 scale each) — see [04-ai-assura
 Apply [03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md) tiering criteria based on the highest-severity applicable risks and the nature of the decision/action the system influences.
 
 ## Step 6: Map mitigations
-For each risk above the acceptability threshold, identify the specific control from [08-controls-and-techniques](../08-controls-and-techniques/) that addresses it, and the residual risk after mitigation.
+For each risk above the acceptability threshold, identify the specific control from [08-controls-and-techniques](../08-controls-and-techniques/README.md) that addresses it, and the residual risk after mitigation.
 
 ## Step 7: Check regulatory and sector requirements
-Cross-reference [10-regulations-and-standards](../10-regulations-and-standards/) for applicable jurisdictions and [11-sector-specific-ai](../11-sector-specific-ai/) for the relevant industry.
+Cross-reference [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md) for applicable jurisdictions and [11-sector-specific-ai](../11-sector-specific-ai/README.md) for the relevant industry.
 
 ## Step 8: Document and route for approval
 Complete the risk register entry; route to governance board if Tier 1 ([03-ai-governance/ai-governance-board.md](../03-ai-governance/ai-governance-board.md)).

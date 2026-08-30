@@ -1,6 +1,6 @@
 # Framework Comparison
 
-*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 | Framework | Type | Binding? | Scope | Certifiable? |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@
 
 ## How to choose
 
-- **Need to prove legal compliance** → identify applicable law first ([10-regulations-and-standards](../10-regulations-and-standards/)), not a framework
+- **Need to prove legal compliance** → identify applicable law first ([10-regulations-and-standards](../10-regulations-and-standards/global-overview.md)), not a framework
 - **Need a certifiable claim for customers/procurement** → ISO/IEC 42001
 - **Need an internal risk process, no certification needed** → NIST AI RMF, informed by ISO/IEC 23894 methodology
 - **Need a public ethics/values statement** → OECD Principles or UNESCO Recommendation

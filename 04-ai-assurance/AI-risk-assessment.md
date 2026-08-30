@@ -1,6 +1,6 @@
 # AI Risk Assessment
 
-*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## Purpose
 
@@ -20,13 +20,13 @@ For each identified risk:
 A simple 1–5 scale per dimension, combined into an overall risk score, is usually sufficient — the goal is consistent relative prioritization, not false precision.
 
 ### 3. Mitigation mapping
-For each risk above an acceptability threshold, identify the specific control(s) that address it (from [08-controls-and-techniques](../08-controls-and-techniques/)) and the residual risk after mitigation.
+For each risk above an acceptability threshold, identify the specific control(s) that address it (from [08-controls-and-techniques](../08-controls-and-techniques/README.md)) and the residual risk after mitigation.
 
 ### 4. Risk register
 Maintain a living risk register per system: risk, score, mitigation, residual score, owner, review date. This is a core assurance artifact — see [evidence-and-traceability.md](evidence-and-traceability.md).
 
 ### 5. Review cadence
-Re-score at each material lifecycle change ([02-ai-lifecycle](../02-ai-lifecycle/)) and on a periodic cadence (e.g., annually for Tier 1) regardless of change, since the external threat/regulatory landscape evolves independently of the system itself.
+Re-score at each material lifecycle change ([02-ai-lifecycle](../02-ai-lifecycle/lifecycle-overview.md)) and on a periodic cadence (e.g., annually for Tier 1) regardless of change, since the external threat/regulatory landscape evolves independently of the system itself.
 
 ## Agentic AI-specific additions
 

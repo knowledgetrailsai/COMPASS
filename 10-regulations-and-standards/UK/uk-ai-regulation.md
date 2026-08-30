@@ -1,6 +1,6 @@
 # UK — AI Regulation
 
-*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [UK](../../10-regulations-and-standards/UK/)*
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [UK](../../10-regulations-and-standards/UK/uk-ai-regulation.md)*
 
 _Last reviewed: 2026-08-19. Confirm current regulator guidance directly, as the UK's approach is deliberately iterative and updated by individual regulators rather than through a single statute._
 
@@ -29,7 +29,7 @@ These align closely with [01-foundations/principles.md](../../01-foundations/pri
 ## Practical implications
 
 - UK GDPR (via the ICO) is the primary binding data-related obligation for most AI systems, functionally similar in role to GDPR in the EU or DPDP in India — apply [05-responsible-ai-principles/privacy-and-data-protection.md](../../05-responsible-ai-principles/privacy-and-data-protection.md) rigorously
-- Sector regulator guidance should be checked per use case rather than relying on a single AI-specific compliance checklist — see [11-sector-specific-ai](../../11-sector-specific-ai/)
+- Sector regulator guidance should be checked per use case rather than relying on a single AI-specific compliance checklist — see [11-sector-specific-ai](../../11-sector-specific-ai/README.md)
 - Monitor for a shift toward more binding, horizontal AI legislation — the "pro-innovation" light-touch approach has been under periodic review and could evolve
 
 ## Related

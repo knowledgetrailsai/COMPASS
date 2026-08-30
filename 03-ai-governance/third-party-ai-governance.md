@@ -1,6 +1,6 @@
 # Third-Party AI Governance
 
-*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 ## Why this needs its own discipline
 
@@ -9,7 +9,7 @@ Most organizations' AI risk increasingly comes from AI embedded in third-party p
 ## What to assess before adoption
 
 - **Model/vendor transparency**: what model(s) power the feature, and does the vendor disclose enough to assess risk (or is it an opaque black box with no documentation)?
-- **Data handling**: is your data used to train the vendor's models? What are retention, deletion, and data residency terms? (See [09-tools-and-frameworks](../09-tools-and-frameworks/) for platform-specific notes.)
+- **Data handling**: is your data used to train the vendor's models? What are retention, deletion, and data residency terms? (See [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md) for platform-specific notes.)
 - **Security posture**: has the vendor undergone security review appropriate to the data/access it will have?
 - **Bias/safety testing evidence**: has the vendor conducted and can they share evaluation results relevant to your use case?
 - **IP/liability terms**: indemnification for output infringement claims, liability allocation for AI errors — see [06-generative-ai/copyright-and-ip.md](../06-generative-ai/copyright-and-ip.md)

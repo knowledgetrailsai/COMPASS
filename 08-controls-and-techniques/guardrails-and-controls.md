@@ -1,6 +1,6 @@
 # Guardrails and Runtime Controls
 
-*[Home](../INDEX.md) › [08 · Controls & Techniques](../08-controls-and-techniques/)*
+*[Home](../INDEX.md) › [08 · Controls & Techniques](../08-controls-and-techniques/README.md)*
 
 ## Definition
 
@@ -35,7 +35,7 @@ Runtime mechanisms that constrain a system's inputs, outputs, or actions in real
 
 - Guardrails so aggressive they block a large share of legitimate requests, creating pressure to weaken them without addressing the underlying false-positive rate
 - Guardrails implemented once at launch and never updated as new attack patterns emerge
-- Treating guardrails as sufficient on their own, without the surrounding permission scoping and human oversight controls in [07-agentic-ai](../07-agentic-ai/)
+- Treating guardrails as sufficient on their own, without the surrounding permission scoping and human oversight controls in [07-agentic-ai](../07-agentic-ai/agent-incident-response.md)
 
 ## Tooling
 
@@ -47,4 +47,4 @@ Guardrail effectiveness should be verified through [04-ai-assurance/red-teaming.
 
 ## Related
 
-- [14-ai-security](../14-ai-security/) — full threat model and control catalog these guardrails implement
+- [14-ai-security](../14-ai-security/README.md) — full threat model and control catalog these guardrails implement

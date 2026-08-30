@@ -1,6 +1,6 @@
 # Playbook: Gen AI App Launch Checklist
 
-*[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/)*
+*[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md)*
 
 ## Requirements and design
 - [ ] Intended use and out-of-scope use documented ([02-ai-lifecycle/opportunity-and-use-case.md](../02-ai-lifecycle/opportunity-and-use-case.md))
@@ -19,7 +19,7 @@
 
 ## Evaluation
 - [ ] Golden test set / regression suite in place ([06-generative-ai/genai-evaluation.md](../06-generative-ai/genai-evaluation.md))
-- [ ] Fairness/bias probes run on generated content ([08-controls-and-techniques/fairness-testing](../08-controls-and-techniques/fairness-testing/))
+- [ ] Fairness/bias probes run on generated content ([08-controls-and-techniques/fairness-testing](../08-controls-and-techniques/fairness-testing/README.md))
 - [ ] Groundedness/citation quality validated for RAG outputs
 
 ## Transparency
@@ -38,4 +38,4 @@
 
 ## Legal/IP
 - [ ] Vendor terms reviewed for data use and IP indemnification ([06-generative-ai/copyright-and-ip.md](../06-generative-ai/copyright-and-ip.md))
-- [ ] Applicable regulation reviewed for jurisdiction/sector ([10-regulations-and-standards](../10-regulations-and-standards/), [11-sector-specific-ai](../11-sector-specific-ai/))
+- [ ] Applicable regulation reviewed for jurisdiction/sector ([10-regulations-and-standards](../10-regulations-and-standards/global-overview.md), [11-sector-specific-ai](../11-sector-specific-ai/README.md))

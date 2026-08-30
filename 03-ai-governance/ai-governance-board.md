@@ -1,6 +1,6 @@
 # AI Governance Board
 
-*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 ## Purpose
 
@@ -26,7 +26,7 @@ Typical membership: governance lead (chair), senior representation from product/
 
 ## Decision record-keeping
 
-Every Board decision (approval, rejection, conditions attached) should be documented with rationale, tied to the specific system in the AI inventory — this is both a governance and an assurance artifact (see [04-ai-assurance](../04-ai-assurance/)).
+Every Board decision (approval, rejection, conditions attached) should be documented with rationale, tied to the specific system in the AI inventory — this is both a governance and an assurance artifact (see [04-ai-assurance](../04-ai-assurance/assurance-overview.md)).
 
 ## Avoiding bottleneck failure
 

@@ -1,6 +1,6 @@
 # Responsible AI vs. AI Ethics vs. AI Governance vs. AI Assurance
 
-*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/)*
+*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/ai-ethics.md)*
 
 These four terms are often used interchangeably, which causes real confusion about what a given team or document is actually responsible for. This repository treats them as distinct, connected layers.
 
@@ -13,10 +13,10 @@ The normative, philosophical layer: what values should an AI system embody, whos
 The translation layer: converting ethical commitments and stakeholder expectations into concrete engineering and organizational practices — fairness testing, transparency mechanisms, safety guardrails, documentation. This is the operational discipline most of this repository covers.
 
 ### AI Governance — how practice is institutionalized
-The organizational layer: structures, roles, policies, and decision rights that make Responsible AI practices consistent, enforceable, and auditable across an organization rather than dependent on individual goodwill. See [03-ai-governance](../03-ai-governance/).
+The organizational layer: structures, roles, policies, and decision rights that make Responsible AI practices consistent, enforceable, and auditable across an organization rather than dependent on individual goodwill. See [03-ai-governance](../03-ai-governance/AI-assurance.md).
 
 ### AI Assurance — how you prove it actually works
-The verification layer: independent or systematic evidence that governance and RAI practices are functioning as intended — audits, red-teaming, conformity assessment, documented evidence trails. See [04-ai-assurance](../04-ai-assurance/).
+The verification layer: independent or systematic evidence that governance and RAI practices are functioning as intended — audits, red-teaming, conformity assessment, documented evidence trails. See [04-ai-assurance](../04-ai-assurance/assurance-overview.md).
 
 ## Why the distinction matters
 

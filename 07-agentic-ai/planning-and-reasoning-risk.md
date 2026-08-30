@@ -1,6 +1,6 @@
 # Planning and Reasoning Risk
 
-*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Why planning introduces distinct risk
 

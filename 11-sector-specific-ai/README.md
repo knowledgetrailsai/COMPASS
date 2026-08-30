@@ -1,6 +1,6 @@
 # Sector-Specific AI
 
-*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Why this section exists
 

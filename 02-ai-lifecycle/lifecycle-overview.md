@@ -1,6 +1,6 @@
 # AI Lifecycle Overview
 
-*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 Responsible AI is a lifecycle discipline, not a single gate. This section maps RAI checkpoints onto each stage of building and operating an AI system — including Generative AI and Agentic AI, which iterate faster than traditional ML but still pass through the same conceptual stages.
 
@@ -20,7 +20,7 @@ Responsible AI is a lifecycle discipline, not a single gate. This section maps R
 
 ## How this connects to governance and assurance
 
-The lifecycle defines **when** checkpoints happen. [03-ai-governance](../03-ai-governance/) defines **who** owns each checkpoint and what process governs approval. [04-ai-assurance](../04-ai-assurance/) defines **how** you prove each checkpoint was done properly. Don't conflate the three — a project can nail the lifecycle steps but still fail governance (no one had authority to approve it) or assurance (no evidence trail exists).
+The lifecycle defines **when** checkpoints happen. [03-ai-governance](../03-ai-governance/AI-assurance.md) defines **who** owns each checkpoint and what process governs approval. [04-ai-assurance](../04-ai-assurance/assurance-overview.md) defines **how** you prove each checkpoint was done properly. Don't conflate the three — a project can nail the lifecycle steps but still fail governance (no one had authority to approve it) or assurance (no evidence trail exists).
 
 ## Change management as a lifecycle re-entry point
 
@@ -28,4 +28,4 @@ For Gen AI and Agentic AI especially, material changes — a new base model, a p
 
 ## Fast-iteration systems
 
-Gen AI and agentic systems often change (prompts, tools, retrieval sources) far more often than a traditional model retrains. Build lightweight, automated versions of stages 5–6 (regression eval suites, guardrail tests in CI) so governance doesn't get silently bypassed by velocity — see [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/).
+Gen AI and agentic systems often change (prompts, tools, retrieval sources) far more often than a traditional model retrains. Build lightweight, automated versions of stages 5–6 (regression eval suites, guardrail tests in CI) so governance doesn't get silently bypassed by velocity — see [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/README.md).

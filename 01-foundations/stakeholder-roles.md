@@ -1,6 +1,6 @@
 # Stakeholder Roles
 
-*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/)*
+*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/ai-ethics.md)*
 
 Responsible AI fails when it's treated as one team's job. Below is a typical RACI-style breakdown; adapt titles to your org.
 

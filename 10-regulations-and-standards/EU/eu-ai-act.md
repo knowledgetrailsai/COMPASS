@@ -1,6 +1,6 @@
 # EU AI Act
 
-*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/) › [EU](../../10-regulations-and-standards/EU/)*
+*[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [EU](../../10-regulations-and-standards/EU/eu-ai-act.md)*
 
 _Type: Law (Regulation (EU) 2024/1689). Last reviewed: 2026-08-19 — this is an actively evolving regulation; confirm current deadlines and requirements with legal counsel before relying on any specific date below._
 
@@ -28,7 +28,7 @@ The AI Act entered into force in August 2024 with a phased implementation. Prohi
 ## Practical implications for this repository's framework
 
 - Use [03-ai-governance/risk-management.md](../../03-ai-governance/risk-management.md) tiering, aligned to this Act's tier structure, for any EU-exposed system
-- High-risk system requirements map closely to [04-ai-assurance](../../04-ai-assurance/) (conformity assessment, [conformity-assessment.md](../../04-ai-assurance/conformity-assessment.md)) and [02-ai-lifecycle](../../02-ai-lifecycle/) (risk management system across the lifecycle)
+- High-risk system requirements map closely to [04-ai-assurance](../../04-ai-assurance/assurance-overview.md) (conformity assessment, [conformity-assessment.md](../../04-ai-assurance/conformity-assessment.md)) and [02-ai-lifecycle](../../02-ai-lifecycle/lifecycle-overview.md) (risk management system across the lifecycle)
 - Transparency obligations for limited-risk systems (chatbot disclosure, AI-content labeling) map to [06-generative-ai/content-provenance.md](../../06-generative-ai/content-provenance.md)
 
 ## Enforcement

@@ -1,6 +1,6 @@
 # Prompt and Output Safety
 
-*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Defense-in-depth model
 
@@ -30,7 +30,7 @@ No single control reliably prevents unsafe Gen AI behavior. Layer controls acros
 
 ## Red-teaming
 
-Systematic adversarial testing before launch and on a recurring cadence: jailbreak attempts, prompt injection via realistic retrieved-content scenarios, edge-case and adversarial inputs targeting known risk categories. See [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/).
+Systematic adversarial testing before launch and on a recurring cadence: jailbreak attempts, prompt injection via realistic retrieved-content scenarios, edge-case and adversarial inputs targeting known risk categories. See [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md).
 
 ## Guardrail tooling
 

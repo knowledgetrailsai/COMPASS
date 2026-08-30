@@ -1,6 +1,6 @@
 # OECD AI Principles
 
-*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 _Type: Framework (intergovernmental, non-binding). Issuer: OECD, adopted by member and partner countries. Last reviewed: 2026-08-19._
 
@@ -24,7 +24,7 @@ These principles map almost directly onto [01-foundations/principles.md](../01-f
 
 ## Practical use
 
-Useful for organizations that need a globally-recognized, non-jurisdiction-specific principle statement — e.g., in external communications, transparency reports, or as the starting point when a specific national framework doesn't yet exist for a jurisdiction you operate in. Not enforceable in itself; several jurisdictions' binding regulations (see [10-regulations-and-standards](../10-regulations-and-standards/)) draw on this framing without being identical to it.
+Useful for organizations that need a globally-recognized, non-jurisdiction-specific principle statement — e.g., in external communications, transparency reports, or as the starting point when a specific national framework doesn't yet exist for a jurisdiction you operate in. Not enforceable in itself; several jurisdictions' binding regulations (see [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md)) draw on this framing without being identical to it.
 
 ## Related
 

@@ -1,6 +1,6 @@
 # Human Rights and AI
 
-*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/)*
+*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/ai-ethics.md)*
 
 ## Why a human rights lens
 
@@ -31,7 +31,7 @@ Human rights impacts of AI are rarely distributed evenly — assessment should e
 
 ## Relationship to regulation
 
-Human rights framing underlies much of the EU AI Act's high-risk classification logic and is explicit in frameworks like the UNESCO Recommendation on the Ethics of AI. See [09-tools-and-frameworks](../09-tools-and-frameworks/) and [10-regulations-and-standards](../10-regulations-and-standards/).
+Human rights framing underlies much of the EU AI Act's high-risk classification logic and is explicit in frameworks like the UNESCO Recommendation on the Ethics of AI. See [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md) and [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md).
 
 ## Practical use
 

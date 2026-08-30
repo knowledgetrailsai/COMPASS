@@ -1,6 +1,6 @@
 # Global Regulatory Overview
 
-*[Home](../INDEX.md) › [10 · Regulations & Standards](../10-regulations-and-standards/)*
+*[Home](../INDEX.md) › [10 · Regulations & Standards](../10-regulations-and-standards/global-overview.md)*
 
 _Last reviewed: 2026-08-19. Regulation in this space is moving quickly — verify current status before relying on any date or obligation below for a real decision. See [00-navigation-and-methodology/source-and-evidence-policy.md](../00-navigation-and-methodology/source-and-evidence-policy.md)._
 
@@ -26,7 +26,7 @@ _Last reviewed: 2026-08-19. Regulation in this space is moving quickly — verif
 ## Related
 
 - [regulatory-comparison.md](regulatory-comparison.md) — deeper side-by-side comparison
-- [11-sector-specific-ai](../11-sector-specific-ai/) — how sector regulation layers on top of these horizontal laws
+- [11-sector-specific-ai](../11-sector-specific-ai/README.md) — how sector regulation layers on top of these horizontal laws
 
 Sources:
 - [EU AI Act Omnibus Agreement — Postponed High-Risk Deadlines and Other Key Changes](https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/)

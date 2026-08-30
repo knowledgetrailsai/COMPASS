@@ -1,6 +1,6 @@
 # OWASP Top 10 for LLM Applications
 
-*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 _Type: Security guidance (community-developed, industry-adopted). Issuer: OWASP. Last reviewed: 2026-08-19 — check for the current version, as this list is periodically revised._
 
@@ -36,5 +36,5 @@ Application-layer focused — doesn't cover the full ML/AI attack surface (train
 ## Related
 
 - [MITRE-ATLAS.md](MITRE-ATLAS.md)
-- [06-generative-ai](../06-generative-ai/), [07-agentic-ai](../07-agentic-ai/)
+- [06-generative-ai](../06-generative-ai/content-provenance.md), [07-agentic-ai](../07-agentic-ai/agent-incident-response.md)
 - [14-ai-security/securing-genai.md](../14-ai-security/securing-genai.md) — practitioner view using this checklist

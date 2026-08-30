@@ -1,6 +1,6 @@
 # Explainability Techniques
 
-*[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/) › [explainability](../../08-controls-and-techniques/explainability/)*
+*[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/README.md) › [explainability](../../08-controls-and-techniques/explainability/README.md)*
 
 Implements [05-responsible-ai-principles/transparency-and-explainability.md](../../05-responsible-ai-principles/transparency-and-explainability.md) as concrete methods.
 

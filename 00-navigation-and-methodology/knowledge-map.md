@@ -1,6 +1,6 @@
 # Knowledge Map
 
-*[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/)*
+*[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/framework-map.md)*
 
 This repository is organized as a **Responsible AI control plane**, not a flat encyclopedia. Content flows through a consistent chain:
 
@@ -57,7 +57,7 @@ This table organizes by *section*. If you're starting from a *topic* instead (e.
 
 1. Principle at stake: Safety and security ([05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md))
 2. Risk detail: [06-generative-ai/prompt-injection.md](../06-generative-ai/prompt-injection.md), [07-agentic-ai/tool-use-and-permissions.md](../07-agentic-ai/tool-use-and-permissions.md)
-3. Requirement: OWASP LLM Top 10 (LLM01), internal security policy ([09-tools-and-frameworks](../09-tools-and-frameworks/))
+3. Requirement: OWASP LLM Top 10 (LLM01), internal security policy ([09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md))
 4. Controls: input isolation, trusted/untrusted content separation, least-privilege tool access ([08-controls-and-techniques/guardrails-and-controls.md](../08-controls-and-techniques/guardrails-and-controls.md))
 5. Test: adversarial red-team scenarios ([04-ai-assurance/red-teaming.md](../04-ai-assurance/red-teaming.md))
 6. Evidence: red-team report, action logs ([04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md))

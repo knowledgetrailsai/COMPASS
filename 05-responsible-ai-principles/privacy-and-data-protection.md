@@ -1,6 +1,6 @@
 # Privacy and Data Protection
 
-*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/)*
+*[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)*
 
 ## Core obligations
 
@@ -21,7 +21,7 @@
 
 ## Mitigation techniques
 
-See [08-controls-and-techniques/privacy-techniques](../08-controls-and-techniques/privacy-techniques/) for depth: differential privacy, federated learning, PII detection/redaction, anonymization/pseudonymization, and synthetic data.
+See [08-controls-and-techniques/privacy-techniques](../08-controls-and-techniques/privacy-techniques/README.md) for depth: differential privacy, federated learning, PII detection/redaction, anonymization/pseudonymization, and synthetic data.
 
 ## Practical controls
 
@@ -33,7 +33,7 @@ See [08-controls-and-techniques/privacy-techniques](../08-controls-and-technique
 
 ## Regulatory anchors
 
-GDPR (EU), India's DPDP Act 2023, and sector-specific rules (HIPAA for health data, financial data protection rules) all apply to AI systems processing personal data — there is no "AI exception." See [10-regulations-and-standards](../10-regulations-and-standards/).
+GDPR (EU), India's DPDP Act 2023, and sector-specific rules (HIPAA for health data, financial data protection rules) all apply to AI systems processing personal data — there is no "AI exception." See [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md).
 
 ## DPIA trigger
 

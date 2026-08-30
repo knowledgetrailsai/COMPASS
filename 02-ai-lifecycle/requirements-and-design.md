@@ -1,6 +1,6 @@
 # Stage 2: Requirements & Design
 
-*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## Purpose
 
@@ -8,12 +8,12 @@ Translate the risk tier and intended use into concrete, testable requirements �
 
 ## Activities
 
-- **Principle-to-requirement translation**: for each applicable principle ([05-responsible-ai-principles](../05-responsible-ai-principles/)), define what it requires concretely for this system (e.g., "fairness" becomes "parity of approval rate across gender within 5 percentage points, tested pre-launch and quarterly").
+- **Principle-to-requirement translation**: for each applicable principle ([05-responsible-ai-principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)), define what it requires concretely for this system (e.g., "fairness" becomes "parity of approval rate across gender within 5 percentage points, tested pre-launch and quarterly").
 - **Explainability requirements**: decide the level of explainability needed given the decision's stakes and audience, and choose architecture accordingly — don't default to the most opaque model available if a simpler, more interpretable one meets the accuracy bar for a high-stakes decision.
 - **Human oversight design**: decide the autonomy/oversight model upfront (see [07-agentic-ai/autonomy-and-control.md](../07-agentic-ai/autonomy-and-control.md) for agentic systems) — retrofitting approval gates after launch is harder than designing them in.
 - **Data requirements**: what data is needed, what's the lawful basis, what representativeness is required — feeds into [data-and-data-governance.md](data-and-data-governance.md).
 - **Tool/permission scoping** (Agentic AI): define the minimum tool access and action scope the agent needs, before any implementation grants broader access "to be safe."
-- **Regulatory requirements mapping**: identify applicable law/regulation for this use case and jurisdiction ([10-regulations-and-standards](../10-regulations-and-standards/)) and translate into design constraints.
+- **Regulatory requirements mapping**: identify applicable law/regulation for this use case and jurisdiction ([10-regulations-and-standards](../10-regulations-and-standards/global-overview.md)) and translate into design constraints.
 
 ## Outputs
 

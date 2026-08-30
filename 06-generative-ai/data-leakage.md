@@ -1,6 +1,6 @@
 # Data Leakage (Generative AI)
 
-*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Forms of leakage specific to Gen AI
 
@@ -31,4 +31,4 @@ In multi-tenant systems, improper session or memory isolation can leak one user'
 ## Related
 
 - [05-responsible-ai-principles/privacy-and-data-protection.md](../05-responsible-ai-principles/privacy-and-data-protection.md)
-- [08-controls-and-techniques/privacy-techniques](../08-controls-and-techniques/privacy-techniques/)
+- [08-controls-and-techniques/privacy-techniques](../08-controls-and-techniques/privacy-techniques/README.md)

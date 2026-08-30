@@ -1,6 +1,6 @@
 # Regulatory Comparison
 
-*[Home](../INDEX.md) › [10 · Regulations & Standards](../10-regulations-and-standards/)*
+*[Home](../INDEX.md) › [10 · Regulations & Standards](../10-regulations-and-standards/global-overview.md)*
 
 _Last reviewed: 2026-08-19. Snapshot comparison — see each jurisdiction's file for detail and sourcing._
 

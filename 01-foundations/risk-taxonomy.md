@@ -1,6 +1,6 @@
 # Risk Taxonomy
 
-*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/)*
+*[Home](../INDEX.md) › [01 · Foundations](../01-foundations/ai-ethics.md)*
 
 A structured way to categorize what can go wrong with an AI system, used consistently across risk assessments (see [13-implementation-playbooks/conducting-an-ai-risk-assessment.md](../13-implementation-playbooks/conducting-an-ai-risk-assessment.md)).
 

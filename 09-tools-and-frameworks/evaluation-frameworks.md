@@ -1,6 +1,6 @@
 # Evaluation Frameworks
 
-*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 _Last reviewed: 2026-08-19._
 
@@ -37,5 +37,5 @@ Emerging category — frameworks for simulating multi-step agent tasks in sandbo
 
 ## Related
 
-- [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/)
+- [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/README.md)
 - [06-generative-ai/genai-evaluation.md](../06-generative-ai/genai-evaluation.md)

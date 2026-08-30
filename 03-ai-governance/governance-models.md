@@ -1,6 +1,6 @@
 # Governance Models
 
-*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/)*
+*[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 ## Centralized vs. federated vs. hybrid
 

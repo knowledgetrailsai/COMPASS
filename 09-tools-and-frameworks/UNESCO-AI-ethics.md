@@ -1,6 +1,6 @@
 # UNESCO Recommendation on the Ethics of AI
 
-*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 _Type: Framework (intergovernmental, non-binding — adopted by UNESCO member states as a normative instrument). Last reviewed: 2026-08-19._
 

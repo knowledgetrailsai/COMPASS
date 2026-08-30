@@ -1,6 +1,6 @@
 # Stage 5: Evaluation & Validation
 
-*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## Purpose
 
@@ -8,8 +8,8 @@ Independently verify the system meets its fairness, safety, robustness, and perf
 
 ## Activities
 
-- **Fairness/bias testing** across relevant subgroups at realistic sample sizes — see [08-controls-and-techniques/fairness-testing](../08-controls-and-techniques/fairness-testing/)
-- **Robustness and adversarial testing** — edge cases, distribution shift, adversarial inputs — see [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/)
+- **Fairness/bias testing** across relevant subgroups at realistic sample sizes — see [08-controls-and-techniques/fairness-testing](../08-controls-and-techniques/fairness-testing/README.md)
+- **Robustness and adversarial testing** — edge cases, distribution shift, adversarial inputs — see [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md)
 - **Explainability validation** — confirm explanations are accurate and usable by the intended audience, not just technically present
 - **Gen AI**: hallucination rate, groundedness (RAG), jailbreak resistance — see [06-generative-ai/genai-evaluation.md](../06-generative-ai/genai-evaluation.md)
 - **Agentic AI**: task success rate, permission compliance under adversarial conditions, recovery behavior — see [07-agentic-ai/agentic-evaluation.md](../07-agentic-ai/agentic-evaluation.md)

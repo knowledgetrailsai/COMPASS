@@ -1,6 +1,6 @@
 # RAG-Specific Considerations
 
-*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 Retrieval-Augmented Generation (RAG) grounds model outputs in retrieved documents, and is the most common enterprise Gen AI pattern — it introduces its own responsible-AI considerations distinct from a standalone LLM.
 
@@ -30,7 +30,7 @@ Standard Gen AI evals aren't sufficient — RAG systems need retrieval-quality m
 - Groundedness/faithfulness (does the answer match the retrieved content?)
 - Answer relevance (does the answer address the question?)
 
-See [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/) and tools like RAGAS ([09-tools-and-frameworks/evaluation-frameworks.md](../09-tools-and-frameworks/evaluation-frameworks.md)).
+See [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/README.md) and tools like RAGAS ([09-tools-and-frameworks/evaluation-frameworks.md](../09-tools-and-frameworks/evaluation-frameworks.md)).
 
 ## Data governance for the corpus
 

@@ -1,6 +1,6 @@
 # Fairness Testing
 
-*[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/) › [fairness-testing](../../08-controls-and-techniques/fairness-testing/)*
+*[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/README.md) › [fairness-testing](../../08-controls-and-techniques/fairness-testing/README.md)*
 
 Implements the fairness principle ([05-responsible-ai-principles/fairness-and-bias.md](../../05-responsible-ai-principles/fairness-and-bias.md)) as testable controls.
 

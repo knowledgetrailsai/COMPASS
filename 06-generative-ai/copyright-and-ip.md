@@ -1,6 +1,6 @@
 # Copyright and IP Considerations
 
-*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Areas of legal uncertainty (evolving — verify current status with legal counsel)
 

@@ -1,6 +1,6 @@
 # Agentic Evaluation
 
-*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/)*
+*[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Why standard Gen AI evaluation isn't sufficient
 
@@ -43,5 +43,5 @@ Does the agent escalate appropriately (neither too often, causing approval fatig
 
 ## Related
 
-- [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/)
+- [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/README.md)
 - [04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md) — agent action logs

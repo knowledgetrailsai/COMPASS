@@ -1,6 +1,6 @@
 # Insurance
 
-*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
 Underwriting and risk pricing, claims processing and fraud detection, customer service automation, agentic claims-handling assistants.
@@ -15,7 +15,7 @@ Underwriting and risk pricing, claims processing and fraud detection, customer s
 State/national insurance regulators (e.g., IRDAI in India, state insurance commissioners in the US, FCA in the UK) increasingly issuing AI-specific or AI-relevant guidance on underwriting fairness and algorithmic accountability, layered on top of general anti-discrimination and consumer protection law and horizontal AI regulation (e.g., EU AI Act often treats insurance risk-assessment/pricing AI as high-risk).
 
 ## Control emphasis
-- Proxy variable auditing: explicit testing for indirect discrimination via correlated features, not just direct protected-attribute exclusion ([08-controls-and-techniques/fairness-testing](../08-controls-and-techniques/fairness-testing/))
+- Proxy variable auditing: explicit testing for indirect discrimination via correlated features, not just direct protected-attribute exclusion ([08-controls-and-techniques/fairness-testing](../08-controls-and-techniques/fairness-testing/README.md))
 - Clear, actionable explanation for denied claims and adverse pricing decisions
 - Human review pathway for denied claims, particularly for anything agentic-automated
 - Documented actuarial/statistical justification for pricing factors, consistent with existing insurance regulatory expectations extended to AI-driven pricing

@@ -1,6 +1,6 @@
 # AI Supply Chain Security
 
-*[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/)*
+*[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 ## Why AI has a distinct supply chain risk
 

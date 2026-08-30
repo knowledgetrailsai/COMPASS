@@ -1,8 +1,8 @@
 # Documentation Artifacts
 
-*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
-Standard artifacts that make AI systems auditable, transferable, and reviewable. Templates for several of these live in [13-implementation-playbooks](../13-implementation-playbooks/) and [templates](../templates/).
+Standard artifacts that make AI systems auditable, transferable, and reviewable. Templates for several of these live in [13-implementation-playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md) and [templates](../templates/README.md).
 
 ## Model Card
 Summarizes a model's intended use, performance across subgroups, training data, known limitations, and ethical considerations. Originated from Google's "Model Cards for Model Reporting" research; now a near-universal practice. See [13-implementation-playbooks/model-card-template.md](../13-implementation-playbooks/model-card-template.md).

@@ -1,6 +1,6 @@
 # Manufacturing
 
-*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/)*
+*[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
 Predictive maintenance, quality control/defect detection, supply chain optimization, robotics and autonomous equipment control, agentic production-planning assistants.
@@ -16,7 +16,7 @@ Existing industrial safety and equipment regulation (occupational safety authori
 
 ## Control emphasis
 - Fail-safe design as a hard requirement for any AI with physical control authority — default to safe shutdown/human handoff on uncertainty, not "best guess and continue"
-- Extensive real-world condition testing (not just clean lab/simulation data) before deployment — see [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/)
+- Extensive real-world condition testing (not just clean lab/simulation data) before deployment — see [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md)
 - Human oversight/kill-switch requirements verified under realistic operating conditions, not just in a test environment
 
 ## Assurance emphasis

@@ -1,6 +1,6 @@
 # AI Incident Response
 
-*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/)*
+*[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## What counts as an AI incident
 
@@ -32,11 +32,11 @@ Sources: automated monitoring alerts (drift, guardrail triggers, anomalous agent
 
 ### 6. Communicate
 - Internal: governance board, affected teams
-- External: affected users/customers per legal/regulatory obligation (breach notification timelines vary by jurisdiction — see [10-regulations-and-standards](../10-regulations-and-standards/))
+- External: affected users/customers per legal/regulatory obligation (breach notification timelines vary by jurisdiction — see [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md))
 - Regulators, where required (e.g., serious incident reporting for high-risk systems under the EU AI Act)
 
 ### 7. Post-incident review
-Blameless review: what failed (technical control, process, or judgment call), what would have caught it earlier, what changes to governance/tooling are needed. Feed findings back into [13-implementation-playbooks](../13-implementation-playbooks/) checklists.
+Blameless review: what failed (technical control, process, or judgment call), what would have caught it earlier, what changes to governance/tooling are needed. Feed findings back into [13-implementation-playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md) checklists.
 
 ## Severity matrix (illustrative)
 

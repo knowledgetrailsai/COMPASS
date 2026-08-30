@@ -1,6 +1,6 @@
 # Hallucination and Grounding
 
-*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Definition
 
@@ -20,7 +20,7 @@ Generative models predict statistically likely continuations, not verified facts
 
 ## Detection and measurement
 
-- **Groundedness/faithfulness scoring**: does the claim follow from the cited source? (See [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/) and tools like RAGAS in [09-tools-and-frameworks](../09-tools-and-frameworks/).)
+- **Groundedness/faithfulness scoring**: does the claim follow from the cited source? (See [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/README.md) and tools like RAGAS in [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md).)
 - **Consistency checking**: sample the same query multiple times; high variance in factual claims is a hallucination signal
 - **Domain-specific fact-checking**: for high-stakes domains (legal, medical, financial), automated or human verification against authoritative sources before output reaches the end user
 

@@ -1,6 +1,6 @@
 # Synthetic Content
 
-*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/)*
+*[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Scope
 
@@ -28,9 +28,9 @@ AI-generated text, image, audio, and video content — covers both legitimate us
 
 ## Regulatory context
 
-Increasingly regulated explicitly — deepfake-specific laws in various jurisdictions, EU AI Act transparency obligations for synthetic content, and platform-level policies. See [10-regulations-and-standards](../10-regulations-and-standards/).
+Increasingly regulated explicitly — deepfake-specific laws in various jurisdictions, EU AI Act transparency obligations for synthetic content, and platform-level policies. See [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md).
 
 ## Related
 
 - [content-provenance.md](content-provenance.md)
-- [12-case-studies](../12-case-studies/) for documented synthetic-content misuse incidents
+- [12-case-studies](../12-case-studies/case-study-template.md) for documented synthetic-content misuse incidents

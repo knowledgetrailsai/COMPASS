@@ -1,10 +1,10 @@
 # Governance Platforms
 
-*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/)*
+*[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 ## What this category covers
 
-Software supporting the organizational processes in [03-ai-governance](../03-ai-governance/) and [04-ai-assurance](../04-ai-assurance/) at scale: AI inventory/registry, risk-tiering workflow, policy management, approval routing, and audit trail — distinct from the technical evaluation tools in [open-source-tools.md](open-source-tools.md) and [evaluation-frameworks.md](evaluation-frameworks.md).
+Software supporting the organizational processes in [03-ai-governance](../03-ai-governance/AI-assurance.md) and [04-ai-assurance](../04-ai-assurance/assurance-overview.md) at scale: AI inventory/registry, risk-tiering workflow, policy management, approval routing, and audit trail — distinct from the technical evaluation tools in [open-source-tools.md](open-source-tools.md) and [evaluation-frameworks.md](evaluation-frameworks.md).
 
 ## Core capabilities to evaluate
 
@@ -13,7 +13,7 @@ Software supporting the organizational processes in [03-ai-governance](../03-ai-
 - **Policy-as-code / automated checks**: where feasible, automated verification of policy compliance (e.g., flagging a system as non-compliant if required documentation is missing) rather than relying purely on manual review
 - **Evidence repository**: centralized, tamper-evident storage for assurance artifacts ([04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md))
 - **Reporting**: dashboards and exportable reports for governance board and leadership reporting ([04-ai-assurance/assurance-reporting.md](../04-ai-assurance/assurance-reporting.md))
-- **Regulatory mapping**: built-in mapping of requirements to specific regulations (EU AI Act, etc.) — useful as a starting point, but verify currency against [10-regulations-and-standards](../10-regulations-and-standards/) rather than trusting a vendor's regulatory content as legal authority
+- **Regulatory mapping**: built-in mapping of requirements to specific regulations (EU AI Act, etc.) — useful as a starting point, but verify currency against [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md) rather than trusting a vendor's regulatory content as legal authority
 
 ## Build vs. buy
 

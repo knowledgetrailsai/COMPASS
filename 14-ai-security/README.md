@@ -1,6 +1,6 @@
 # AI Security
 
-*[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/)*
+*[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 ## Why this section exists
 
@@ -25,7 +25,7 @@ AI-specific security content was previously scattered across the safety principl
 
 ## Relationship to the rest of the repository
 
-This section doesn't replace the security content already embedded in [05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md), [06-generative-ai](../06-generative-ai/) (prompt-injection.md, jailbreaks.md, data-leakage.md), [07-agentic-ai](../07-agentic-ai/) (tool-use-and-permissions.md, identity-and-authorization.md, agent-incident-response.md), [08-controls-and-techniques/guardrails-and-controls.md](../08-controls-and-techniques/guardrails-and-controls.md) and [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/), or [09-tools-and-frameworks](../09-tools-and-frameworks/) (OWASP LLM Top 10, MITRE ATLAS, security-tools.md). It's the front door into all of that — start here if you're approaching the repository from a security angle, then follow the links out to the technology-specific depth.
+This section doesn't replace the security content already embedded in [05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md), [06-generative-ai](../06-generative-ai/content-provenance.md) (prompt-injection.md, jailbreaks.md, data-leakage.md), [07-agentic-ai](../07-agentic-ai/agent-incident-response.md) (tool-use-and-permissions.md, identity-and-authorization.md, agent-incident-response.md), [08-controls-and-techniques/guardrails-and-controls.md](../08-controls-and-techniques/guardrails-and-controls.md) and [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md), or [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md) (OWASP LLM Top 10, MITRE ATLAS, security-tools.md). It's the front door into all of that — start here if you're approaching the repository from a security angle, then follow the links out to the technology-specific depth.
 
 ## Governance tie-in
 

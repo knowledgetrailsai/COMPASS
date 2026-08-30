@@ -1,6 +1,6 @@
 # Assurance Reporting
 
-*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/)*
+*[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## Purpose
 

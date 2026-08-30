@@ -1,6 +1,6 @@
 # Security Testing Program
 
-*[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/)*
+*[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 ## Bringing the testing methods together
 
@@ -12,7 +12,7 @@ This repository documents AI security testing in several places by necessity —
 |---|---|---|
 | Red-teaming (structured adversarial testing) | [04-ai-assurance/red-teaming.md](../04-ai-assurance/red-teaming.md) | Pre-launch (Tier 1 mandatory), quarterly for externally-exposed Gen AI/agentic systems |
 | Automated adversarial scanning | [09-tools-and-frameworks/security-tools.md](../09-tools-and-frameworks/security-tools.md) (Garak, promptfoo) | Continuous / every material change (CI-integrated) |
-| Robustness/adversarial-example testing | [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/) | Pre-launch, on model/data change |
+| Robustness/adversarial-example testing | [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md) | Pre-launch, on model/data change |
 | Penetration testing (infrastructure/application layer around the AI system) | Standard security practice, extended to cover AI-specific endpoints and tool integrations | Per existing security program cadence, at minimum annually for Tier 1 |
 | Independent model/system validation | [04-ai-assurance/independent-assessment.md](../04-ai-assurance/independent-assessment.md) | Pre-launch, periodic re-validation |
 | Bug bounty (where applicable) | Not detailed elsewhere in this repository — consider for externally-exposed, high-traffic Gen AI/agentic products as a continuous, crowd-sourced complement to scheduled testing | Ongoing, once other testing layers are mature |
