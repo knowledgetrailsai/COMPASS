@@ -263,6 +263,15 @@ Start with **01-foundations** for shared vocabulary and principles. Building wit
 
 This is a living document — see [CONTRIBUTING.md](CONTRIBUTING.md) for how to propose updates as regulations, tools, and practices evolve, and [00-navigation-and-methodology/source-and-evidence-policy.md](00-navigation-and-methodology/source-and-evidence-policy.md) for how claims should be sourced.
 
+## Relationship to companion repositories
+
+Compass is the [OASIS](https://github.com/knowledgetrailsai/OASIS) companion for Chapter 19 (Security and Responsible AI Engineering) and Chapter 20 (Governance, Compliance and Regulatory Engineering) — internally organized as a "Responsible AI Guide," which is what this repository's own README elsewhere calls itself. See the [Companion Repository Index](https://github.com/knowledgetrailsai/OASIS/blob/main/References/companion-repository-index.md) for how the other Part III chapters map to their own companions.
+
+- **[Verity](https://github.com/knowledgetrailsai/Verity)** (Chapter 18, Evaluation and Reliability) — Compass's [14-ai-security](14-ai-security/) content defines the threat categories and control expectations; Verity's [adversarial-and-red-team-evaluation.md](https://github.com/knowledgetrailsai/Verity/blob/main/08-safety-and-regulatory-alignment/adversarial-and-red-team-evaluation.md) is where those controls get measured — Verity owns the evaluation methodology, Compass owns the policy and control catalog behind it.
+- **[Helm](https://github.com/knowledgetrailsai/HELM)** (Chapters 17/18/19/21/26, Deployment and AgentOps) — Helm's [agentic-threat-model.md](https://github.com/knowledgetrailsai/HELM/blob/main/06-security-and-containment/agentic-threat-model.md) covers runtime containment for a deployed agent; Compass's AI-security section is the upstream policy layer that threat model has to satisfy.
+- **[Fulcrum](https://github.com/knowledgetrailsai/oasis-fulcrum)** — the economics/FinOps companion (Chapter 22); a use case's compliance obligations here (10-regulations-and-standards) often carry cost implications Fulcrum's unit-economics tracking should account for.
+- **[Nexus](https://github.com/knowledgetrailsai/Nexus)** — the opportunity catalog; a candidate use case's risk tier is set against this repository's principles and regulations sections before it moves into engineering.
+
 ## Disclaimer
 
 This repository provides general guidance and educational content. It is not legal advice. Regulatory sections (10) summarize publicly available law as of their last review date and are in an area that changes quickly — always confirm current requirements with legal/compliance counsel before relying on them for a specific decision.
