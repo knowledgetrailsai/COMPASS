@@ -1,0 +1,36 @@
+# Compass (responsible-ai)
+
+> Compass is the responsible AI, security and governance companion to the OASIS methodology — implementing Chapters 19 (Security and Responsible AI Engineering) and 20 (Governance, Compliance and Regulatory Engineering): the full policy and control catalog behind OASIS's defense-in-depth layers, plus jurisdiction-specific regulatory coverage.
+
+See [Full Index](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/INDEX.md), the [Framework Map](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/00-navigation-and-methodology/framework-map.md), and the [Topic Index](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/00-navigation-and-methodology/topic-index.md) for full navigation.
+
+## Foundations and lifecycle
+
+- [What Is Responsible AI](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/01-foundations/what-is-responsible-ai.md)
+- [Risk Taxonomy](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/01-foundations/risk-taxonomy.md)
+- [AI Lifecycle Overview](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/02-ai-lifecycle/lifecycle-overview.md)
+
+## Governance and assurance
+
+- [AI Governance Framework](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/03-ai-governance/ai-governance-framework.md)
+- [Risk Tiering](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/03-ai-governance/risk-management.md)
+- [RACI — AI Governance Activities](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/03-ai-governance/RACI.md)
+- [AI Assurance — Overview](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/04-ai-assurance/assurance-overview.md)
+
+## Security and regulation
+
+- [Securing Agentic AI](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/14-ai-security/securing-agentic-ai.md)
+- [Securing GenAI](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/14-ai-security/securing-genai.md)
+- [Supply Chain Security](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/14-ai-security/supply-chain-security.md)
+- [EU AI Act](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/10-regulations-and-standards/EU/eu-ai-act.md), [NIST AI RMF](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/09-tools-and-frameworks/NIST-AI-RMF.md), [ISO 42001](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/09-tools-and-frameworks/ISO-42001.md), [India DPDP Act](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/10-regulations-and-standards/India/dpdp-act.md)
+
+## Reference
+
+- [Terminology — Key Distinctions](https://raw.githubusercontent.com/knowledgetrailsai/responsible-ai/main/00-navigation-and-methodology/terminology-and-glossary.md)
+
+## Companion repositories
+
+- [OASIS](https://raw.githubusercontent.com/knowledgetrailsai/OASIS/main/llms.txt) — parent methodology (Chapters 19, 20 implemented here).
+- [Helm](https://raw.githubusercontent.com/knowledgetrailsai/HELM/main/llms.txt) — runtime containment layer that enforces these controls in production.
+- [Verity](https://raw.githubusercontent.com/knowledgetrailsai/VERITY/master/llms.txt) — tests whether the controls actually hold.
+- [Ageis](https://raw.githubusercontent.com/knowledgetrailsai/Agentic-Engineeering-SDLC/main/llms.txt), [Forge](https://raw.githubusercontent.com/knowledgetrailsai/Forge/master/llms.txt), [Loom](https://raw.githubusercontent.com/knowledgetrailsai/LOOM/master/llms.txt), [Fulcrum](https://raw.githubusercontent.com/knowledgetrailsai/OASIS-AI-FINOPS/main/llms.txt) — sibling chapter companions.
