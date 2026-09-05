@@ -1,6 +1,6 @@
 # Responsible AI Guide
 
-A comprehensive Responsible AI knowledge base — covering traditional ML, Generative AI, and Agentic AI — organized as a **control plane**, not an encyclopedia. Content flows through a consistent chain so any risk can be traced from principle to proof:
+A comprehensive Responsible AI knowledge base covering traditional ML, Generative AI, and Agentic AI. Rather than functioning as a reference encyclopedia, it is structured as a **control plane**: content flows through a consistent chain so any risk can be traced from principle to proof:
 
 ```
 PRINCIPLES → RISKS → REQUIREMENTS → CONTROLS → TEST/EVALUATE → EVIDENCE → ASSURANCE
@@ -10,21 +10,21 @@ applied across the AI lifecycle, across AI types (Gen AI, Agentic AI), and acros
 
 ## Start here
 
-New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repository.md](00-navigation-and-methodology/how-to-use-this-repository.md) — it routes you to the right section based on your role and task.
+New to this repository? Read [00-navigation-and-methodology/how-to-use-this-repository.md](00-navigation-and-methodology/how-to-use-this-repository.md), which routes you to the right section based on your role and task.
 
 Three ways to navigate, depending on what you already know:
 
 | You know... | Use |
 |---|---|
 | The section (e.g. "I need 06-generative-ai") | The repository structure below, or browse the folders directly |
-| The topic, not the section (e.g. "privacy," "security") | [00-navigation-and-methodology/topic-index.md](00-navigation-and-methodology/topic-index.md) — groups files across sections by theme |
+| The topic, not the section (e.g. "privacy," "security") | [00-navigation-and-methodology/topic-index.md](00-navigation-and-methodology/topic-index.md), which groups files across sections by theme |
 | Nothing yet, want to scan everything | [INDEX.md](INDEX.md) — every file in the repository, one flat list |
 
 Every file also carries a breadcrumb (`Home › Section › ...`) at the top so you always know where you are and can jump back out.
 
 ## Repository structure
 
-Every file in the repository, grouped by section — the same listing as [INDEX.md](INDEX.md), kept here so the structure is visible without leaving the README. If this list and INDEX.md ever drift, INDEX.md is the source of truth.
+Every file in the repository, grouped by section: the same listing as [INDEX.md](INDEX.md), kept here so the structure is visible without leaving the README. If this list and INDEX.md ever drift, INDEX.md is the source of truth.
 
 ### 00 · Navigation and Methodology
 
@@ -253,28 +253,28 @@ Not sure which section has what you need? [topic-index.md](00-navigation-and-met
 
 ## Key distinctions this repository maintains
 
-- **Ethics ≠ Responsible AI ≠ Governance ≠ Assurance** — four different layers, not synonyms. See [01-foundations/responsible-ai-vs-ai-ethics.md](01-foundations/responsible-ai-vs-ai-ethics.md).
-- **Law ≠ Standard ≠ Framework ≠ Guidance** — different legal weight, kept in separate sections (10 vs. 09). See [00-navigation-and-methodology/terminology-and-glossary.md](00-navigation-and-methodology/terminology-and-glossary.md).
-- **Lifecycle ≠ Governance** — lifecycle is *when*; governance is *who decides*. Kept as separate sections (02 vs. 03).
+- **Ethics ≠ Responsible AI ≠ Governance ≠ Assurance**: four different layers, not synonyms. See [01-foundations/responsible-ai-vs-ai-ethics.md](01-foundations/responsible-ai-vs-ai-ethics.md).
+- **Law ≠ Standard ≠ Framework ≠ Guidance**: different legal weight, kept in separate sections (10 vs. 09). See [00-navigation-and-methodology/terminology-and-glossary.md](00-navigation-and-methodology/terminology-and-glossary.md).
+- **Lifecycle ≠ Governance**: lifecycle is *when*; governance is *who decides*. Kept as separate sections (02 vs. 03).
 
 ## How to use this repository
 
-Start with **01-foundations** for shared vocabulary and principles. Building with Gen AI or Agentic AI? Read the relevant technology section (06 or 07) alongside **02-ai-lifecycle** for checkpoints and **13-implementation-playbooks** as your working checklist. Reviewing or approving a use case? Go to **03-ai-governance** for process and **04-ai-assurance** for what evidence to demand. In legal/compliance? **10-regulations-and-standards** is binding law; **09-tools-and-frameworks** is voluntary — don't conflate them.
+Start with **01-foundations** for shared vocabulary and principles. Building with Gen AI or Agentic AI? Read the relevant technology section (06 or 07) alongside **02-ai-lifecycle** for checkpoints and **13-implementation-playbooks** as your working checklist. Reviewing or approving a use case? Go to **03-ai-governance** for process and **04-ai-assurance** for what evidence to demand. In legal/compliance? **10-regulations-and-standards** is binding law; **09-tools-and-frameworks** is voluntary, so don't conflate them.
 
-This is a living document — see [CONTRIBUTING.md](CONTRIBUTING.md) for how to propose updates as regulations, tools, and practices evolve, and [00-navigation-and-methodology/source-and-evidence-policy.md](00-navigation-and-methodology/source-and-evidence-policy.md) for how claims should be sourced.
+This is a living document. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to propose updates as regulations, tools, and practices evolve, and [00-navigation-and-methodology/source-and-evidence-policy.md](00-navigation-and-methodology/source-and-evidence-policy.md) for how claims should be sourced.
 
 ## Relationship to companion repositories
 
-Compass is the [OASIS](https://github.com/knowledgetrailsai/OASIS) companion for Chapter 19 (Security and Responsible AI Engineering) and Chapter 20 (Governance, Compliance and Regulatory Engineering) — internally organized as a "Responsible AI Guide," which is what this repository's own README elsewhere calls itself. See the [Companion Repository Index](https://github.com/knowledgetrailsai/OASIS/blob/main/References/companion-repository-index.md) for how the other Part III chapters map to their own companions.
+Compass is the [OASIS](https://github.com/knowledgetrailsai/OASIS) companion for Chapter 19 (Security and Responsible AI Engineering) and Chapter 20 (Governance, Compliance and Regulatory Engineering), internally organized as a "Responsible AI Guide" (the name this repository's own README uses for itself elsewhere). See the [Companion Repository Index](https://github.com/knowledgetrailsai/OASIS/blob/main/References/companion-repository-index.md) for how the other Part III chapters map to their own companions.
 
-- **[Verity](https://github.com/knowledgetrailsai/Verity)** (Chapter 18, Evaluation and Reliability) — Compass's [14-ai-security](14-ai-security/) content defines the threat categories and control expectations; Verity's [adversarial-and-red-team-evaluation.md](https://github.com/knowledgetrailsai/Verity/blob/main/08-safety-and-regulatory-alignment/adversarial-and-red-team-evaluation.md) is where those controls get measured — Verity owns the evaluation methodology, Compass owns the policy and control catalog behind it.
-- **[Helm](https://github.com/knowledgetrailsai/HELM)** (Chapters 17/18/19/21/26, Deployment and AgentOps) — Helm's [agentic-threat-model.md](https://github.com/knowledgetrailsai/HELM/blob/main/06-security-and-containment/agentic-threat-model.md) covers runtime containment for a deployed agent; Compass's AI-security section is the upstream policy layer that threat model has to satisfy.
-- **[Fulcrum](https://github.com/knowledgetrailsai/oasis-fulcrum)** — the economics/FinOps companion (Chapter 22); a use case's compliance obligations here (10-regulations-and-standards) often carry cost implications Fulcrum's unit-economics tracking should account for.
-- **[Nexus](https://github.com/knowledgetrailsai/Nexus)** — the opportunity catalog; a candidate use case's risk tier is set against this repository's principles and regulations sections before it moves into engineering.
+- **[Verity](https://github.com/knowledgetrailsai/Verity)** (Chapter 18, Evaluation and Reliability): Compass's [14-ai-security](14-ai-security/) content defines the threat categories and control expectations, and Verity's [adversarial-and-red-team-evaluation.md](https://github.com/knowledgetrailsai/Verity/blob/main/08-safety-and-regulatory-alignment/adversarial-and-red-team-evaluation.md) is where those controls get measured. Verity owns the evaluation methodology; Compass owns the policy and control catalog behind it.
+- **[Helm](https://github.com/knowledgetrailsai/HELM)** (Chapters 17/18/19/21/26, Deployment and AgentOps): Helm's [agentic-threat-model.md](https://github.com/knowledgetrailsai/HELM/blob/main/06-security-and-containment/agentic-threat-model.md) covers runtime containment for a deployed agent, and Compass's AI-security section is the upstream policy layer that threat model has to satisfy.
+- **[Fulcrum](https://github.com/knowledgetrailsai/oasis-fulcrum)**, the economics/FinOps companion (Chapter 22): a use case's compliance obligations here (10-regulations-and-standards) often carry cost implications Fulcrum's unit-economics tracking should account for.
+- **[Nexus](https://github.com/knowledgetrailsai/Nexus)**, the opportunity catalog: a candidate use case's risk tier is set against this repository's principles and regulations sections before it moves into engineering.
 
 ## Disclaimer
 
-This repository provides general guidance and educational content. It is not legal advice. Regulatory sections (10) summarize publicly available law as of their last review date and are in an area that changes quickly — always confirm current requirements with legal/compliance counsel before relying on them for a specific decision.
+This repository provides general guidance and educational content. It is not legal advice. Regulatory sections (10) summarize publicly available law as of their last review date and are in an area that changes quickly, so always confirm current requirements with legal/compliance counsel before relying on them for a specific decision.
 
 ## License
 
@@ -282,6 +282,6 @@ Licensed under [CC BY-SA 4.0](https://github.com/knowledgetrailsai/OASIS/blob/ma
 
 ## About Us
 
-**Shripadraj Mujumdar** is an Agentic AI & Automation Strategist, Advisor, and Responsible AI Expert with 28+ years of experience in enterprise architecture and AI-driven transformation, including deep hands-on work in Agentic AI, Generative AI, and enterprise data and knowledge platforms. His practice spans designing multi-agent systems, knowledge-graph and RAG architectures, accelerated delivery capabilities, and Responsible AI governance frameworks aligned to global regulatory standards. This methodology ecosystem distills that practitioner experience — architecture, delivery, evaluation, governance, and economics — into a single, reusable body of work.
+**Shripadraj Mujumdar** is an Agentic AI & Automation Strategist, Advisor, and Responsible AI Expert with 28+ years of experience in enterprise architecture and AI-driven transformation, including deep hands-on work in Agentic AI, Generative AI, and enterprise data and knowledge platforms. His practice spans designing multi-agent systems, knowledge-graph and RAG architectures, accelerated delivery capabilities, and Responsible AI governance frameworks aligned to global regulatory standards. This methodology ecosystem distills that practitioner experience (architecture, delivery, evaluation, governance, and economics) into a single, reusable body of work.
 
 **Ankit Mirajkar** is a Data & AI Architect and technology consultant specializing in modern data platforms, enterprise data architecture, and Agentic AI. His expertise spans scalable data engineering, AI-ready data platforms, Generative AI, and cloud technologies, with a strong focus on turning complex data challenges into practical, production-ready solutions. He also works at the intersection of architecture, technology strategy, and innovation to help organizations build intelligent, scalable data ecosystems.
