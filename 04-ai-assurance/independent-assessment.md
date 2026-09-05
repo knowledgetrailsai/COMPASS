@@ -18,13 +18,13 @@ Teams that build a system are prone to confirmation bias when evaluating it — 
 ## What makes an assessment genuinely independent
 
 - The assessor's incentives aren't tied to the system launching on schedule or the build team's performance review
-- The assessor has genuine access — to the system, its documentation, and relevant staff — not a curated subset designed to pass review
+- The assessor has genuine access (to the system, its documentation, and relevant staff) not a curated subset designed to pass review
 - Findings go to the governance board directly, not filtered/summarized solely by the build team first
 - The assessor has explicit authority to block or condition a launch, not just advise
 
 ## Building internal independence at scale
 
-Not every organization can afford external assessment for every Tier 1 system. A dedicated internal RAI/red-team function, organizationally separate from product engineering (different reporting line, different incentives), can provide meaningful independence at lower cost — the key structural requirement is that the assessor isn't evaluated on the same success metrics as the build team.
+Not every organization can afford external assessment for every Tier 1 system. A dedicated internal RAI/red-team function, organizationally separate from product engineering (different reporting line, different incentives), can provide meaningful independence at lower cost. The key structural requirement is that the assessor isn't evaluated on the same success metrics as the build team.
 
 ## Relationship to other assurance activities
 

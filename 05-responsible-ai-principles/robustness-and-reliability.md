@@ -4,7 +4,7 @@
 
 ## What it means
 
-The system performs consistently and predictably under normal conditions, edge cases, and distribution shift — and fails safely (visibly, gracefully) rather than silently producing confidently wrong output.
+The system performs consistently and predictably under normal conditions, edge cases, and distribution shift, and fails safely (visibly, gracefully) rather than silently producing confidently wrong output.
 
 ## Dimensions
 
@@ -17,11 +17,11 @@ The system performs consistently and predictably under normal conditions, edge c
 
 - **Consistency**: same/similar input producing wildly different outputs across calls (relevant for deterministic-seeming use cases like classification-via-LLM)
 - **Groundedness (RAG)**: output should be traceable to retrieved source material; ungrounded generation is a robustness failure, not just a hallucination framing issue
-- **Degradation under long context / complex tasks**: performance often drops as task complexity or context length increases — test at realistic complexity, not just simple demo cases
+- **Degradation under long context / complex tasks**: performance often drops as task complexity or context length increases, test at realistic complexity, not just simple demo cases
 
 ## Agentic AI-specific reliability concerns
 
-- **Error compounding**: small per-step error rates compound across long multi-step plans — a 95%-reliable-per-step agent doing 20 steps is far less than 95% reliable end-to-end
+- **Error compounding**: small per-step error rates compound across long multi-step plans; a 95%-reliable-per-step agent doing 20 steps is far less than 95% reliable end-to-end
 - **Recovery behavior**: does the agent notice when a step failed or a tool returned an error, and recover sensibly, or does it plow ahead on bad information?
 - **Environment drift**: agents operating against live systems (APIs, file systems, web) need to handle the environment changing between planning and execution
 

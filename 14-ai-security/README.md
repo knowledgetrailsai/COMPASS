@@ -4,11 +4,11 @@
 
 ## Why this section exists
 
-AI-specific security content was previously scattered across the safety principle (05), controls (08), and named frameworks (09) — findable if you knew where to look, not if you were starting from "how do we secure our AI systems." This section pulls it together into one threat-model-to-response view, while the underlying detail stays in place and is cross-linked rather than duplicated.
+AI-specific security content was previously scattered across the safety principle (05), controls (08), and named frameworks (09). Findable if you knew where to look, not if you were starting from "how do we secure our AI systems." This section pulls it together into one threat-model-to-response view, while the underlying detail stays in place and is cross-linked rather than duplicated.
 
 ## How this differs from 05-responsible-ai-principles/safety-and-security.md
 
-[05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md) states the *principle* (why safety and security matter, the high-level threat categories). This section is the *practitioner's operating view*: threat model, control catalog, testing program, and incident response specific to AI systems — the security-team analog to how section 02 operationalizes the lifecycle and section 04 operationalizes assurance.
+[05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md) states the *principle* (why safety and security matter, the high-level threat categories). This section is the *practitioner's operating view*: threat model, control catalog, testing program, and incident response specific to AI systems: the security-team analog to how section 02 operationalizes the lifecycle and section 04 operationalizes assurance.
 
 ## Contents
 

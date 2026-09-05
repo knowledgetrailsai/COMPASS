@@ -6,11 +6,11 @@ _Last reviewed: 2026-08-19. State-level AI law is changing rapidly and is curren
 
 ## Colorado — a case study in volatility
 
-Colorado enacted one of the first comprehensive US state AI laws (the Colorado AI Act), targeting "high-risk" AI systems with EU AI Act-style obligations (impact assessments, consumer notice, risk management). Since original passage, the law has gone through significant turbulence: enforcement was delayed by the state Attorney General, and — most recently — Colorado repealed and replaced its original AI Act with revised legislation, reportedly moving away from the EU-style model amid legal challenge and federal pressure. **Treat any specific obligation described for Colorado as unverified until checked against the current, in-force statute.**
+Colorado enacted one of the first comprehensive US state AI laws (the Colorado AI Act), targeting "high-risk" AI systems with EU AI Act-style obligations (impact assessments, consumer notice, risk management). Since original passage, the law has gone through significant turbulence: enforcement was delayed by the state Attorney General, and (most recently) Colorado repealed and replaced its original AI Act with revised legislation, reportedly moving away from the EU-style model amid legal challenge and federal pressure. **Treat any specific obligation described for Colorado as unverified until checked against the current, in-force statute.**
 
 ## Federal-state tension
 
-A federal executive order has asserted a policy framework intended to scrutinize and potentially preempt or discourage state-level AI regulation perceived as inconsistent with federal approach — creating genuine uncertainty about which state AI laws will remain enforceable in their current form. This is an unusually unsettled area of law even by the standards of a fast-moving field.
+A federal executive order has asserted a policy framework intended to scrutinize and potentially preempt or discourage state-level AI regulation perceived as inconsistent with federal approach. Creating genuine uncertainty about which state AI laws will remain enforceable in their current form. This is an unusually unsettled area of law even by the standards of a fast-moving field.
 
 ## General pattern across active/proposed state laws
 
@@ -24,12 +24,12 @@ Where state AI laws exist or are proposed, common themes include:
 
 - Track state AI law status as a recurring compliance task, not a one-time check, given the pace of change documented above
 - For multi-state operations, the deepfake/synthetic-media disclosure category is currently a more stable compliance target than comprehensive "high-risk AI system" state laws, which remain in flux
-- Don't assume a law described in older reference material (including AI training data) reflects current status — this is exactly the kind of fast-moving regulatory area where verification matters most
+- Don't assume a law described in older reference material (including AI training data) reflects current status. This is exactly the kind of fast-moving regulatory area where verification matters most
 
 ## Related
 
 - [federal.md](federal.md)
-- [06-generative-ai/content-provenance.md](../../06-generative-ai/content-provenance.md) — deepfake disclosure practices
+- [06-generative-ai/content-provenance.md](../../06-generative-ai/content-provenance.md): deepfake disclosure practices
 
 Sources:
 - [Colorado Repeals and Replaces Its AI Act (Skadden)](https://www.skadden.com/insights/publications/2026/06/colorado-repeals-and-replaces-its-ai-act)

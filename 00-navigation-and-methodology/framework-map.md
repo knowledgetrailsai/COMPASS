@@ -19,7 +19,7 @@ A quick cross-reference of where major external frameworks/standards map into th
 
 ## How to use this map
 
-When a project needs to demonstrate compliance or alignment with a specific external framework, use this table to jump directly to the repository sections implementing the equivalent controls, rather than treating the framework as a separate parallel exercise. Most frameworks map onto the same underlying principles → risks → controls → evidence chain described in [knowledge-map.md](knowledge-map.md) — the differences are mostly in structure, certification mechanics, and legal weight, not in substance.
+When a project needs to demonstrate compliance or alignment with a specific external framework, use this table to jump directly to the repository sections implementing the equivalent controls, rather than treating the framework as a separate parallel exercise. Most frameworks map onto the same underlying principles → risks → controls → evidence chain described in [knowledge-map.md](knowledge-map.md); the differences are mostly in structure, certification mechanics, and legal weight, not in substance.
 
 ## Framework selection guidance
 

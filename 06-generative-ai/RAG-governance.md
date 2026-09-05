@@ -2,7 +2,7 @@
 
 *[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
-Retrieval-Augmented Generation (RAG) grounds model outputs in retrieved documents, and is the most common enterprise Gen AI pattern — it introduces its own responsible-AI considerations distinct from a standalone LLM.
+Retrieval-Augmented Generation (RAG) grounds model outputs in retrieved documents, and is the most common enterprise Gen AI pattern; it introduces its own responsible-AI considerations distinct from a standalone LLM.
 
 ## Access control at retrieval time
 
@@ -21,11 +21,11 @@ Retrieved content can be stale, contradictory across sources, or simply wrong (g
 
 ## Prompt injection via retrieved content
 
-Documents in the retrieval corpus can contain injected instructions (deliberately, if the corpus includes external/untrusted content like web pages or user-submitted documents) that hijack model behavior. Treat retrieved content as untrusted input, same as any other external content — see [prompt-and-output-safety.md](prompt-and-output-safety.md).
+Documents in the retrieval corpus can contain injected instructions (deliberately, if the corpus includes external/untrusted content like web pages or user-submitted documents) that hijack model behavior. Treat retrieved content as untrusted input, same as any other external content: see [prompt-and-output-safety.md](prompt-and-output-safety.md).
 
 ## Evaluation
 
-Standard Gen AI evals aren't sufficient — RAG systems need retrieval-quality metrics alongside generation-quality metrics:
+Standard Gen AI evals aren't sufficient. RAG systems need retrieval-quality metrics alongside generation-quality metrics:
 - Retrieval precision/recall (did we retrieve the right documents?)
 - Groundedness/faithfulness (does the answer match the retrieved content?)
 - Answer relevance (does the answer address the question?)

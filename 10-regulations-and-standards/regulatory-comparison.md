@@ -2,7 +2,7 @@
 
 *[Home](../INDEX.md) › [10 · Regulations & Standards](../10-regulations-and-standards/global-overview.md)*
 
-_Last reviewed: 2026-08-19. Snapshot comparison — see each jurisdiction's file for detail and sourcing._
+_Last reviewed: 2026-08-19. Snapshot comparison. See each jurisdiction's file for detail and sourcing._
 
 | Dimension | EU | US | India | UK | China | Singapore | Canada |
 |---|---|---|---|---|---|---|---|
@@ -15,7 +15,7 @@ _Last reviewed: 2026-08-19. Snapshot comparison — see each jurisdiction's file
 
 ## How to use this table
 
-Start compliance planning from whichever jurisdiction has the most stringent applicable requirement for your use case and design to that bar, then verify lighter-touch jurisdictions are automatically satisfied — usually more efficient than a jurisdiction-by-jurisdiction build. The EU AI Act's risk-tiering structure is a reasonable default design pattern even for organizations not directly subject to it, given its influence on other frameworks (see [09-tools-and-frameworks/framework-comparison.md](../09-tools-and-frameworks/framework-comparison.md)).
+Start compliance planning from whichever jurisdiction has the most stringent applicable requirement for your use case and design to that bar, then verify lighter-touch jurisdictions are automatically satisfied: usually more efficient than a jurisdiction-by-jurisdiction build. The EU AI Act's risk-tiering structure is a reasonable default design pattern even for organizations not directly subject to it, given its influence on other frameworks (see [09-tools-and-frameworks/framework-comparison.md](../09-tools-and-frameworks/framework-comparison.md)).
 
 ## Caution on this table
 

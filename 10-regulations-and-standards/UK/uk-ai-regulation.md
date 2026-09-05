@@ -6,7 +6,7 @@ _Last reviewed: 2026-08-19. Confirm current regulator guidance directly, as the 
 
 ## Approach: pro-innovation, principles-based, regulator-led
 
-The UK has, at least as of this review, deliberately avoided a single comprehensive AI statute in the style of the EU AI Act, instead applying cross-cutting principles through existing sector regulators — a "context-specific" approach premised on the view that existing regulatory expertise per sector is better suited to AI oversight than a new horizontal AI regulator.
+The UK has, at least as of this review, deliberately avoided a single comprehensive AI statute in the style of the EU AI Act, instead applying cross-cutting principles through existing sector regulators. A "context-specific" approach premised on the view that existing regulatory expertise per sector is better suited to AI oversight than a new horizontal AI regulator.
 
 ## Cross-cutting principles (guiding, not a single binding code)
 
@@ -28,8 +28,8 @@ These align closely with [01-foundations/principles.md](../../01-foundations/pri
 
 ## Practical implications
 
-- UK GDPR (via the ICO) is the primary binding data-related obligation for most AI systems, functionally similar in role to GDPR in the EU or DPDP in India — apply [05-responsible-ai-principles/privacy-and-data-protection.md](../../05-responsible-ai-principles/privacy-and-data-protection.md) rigorously
-- Sector regulator guidance should be checked per use case rather than relying on a single AI-specific compliance checklist — see [11-sector-specific-ai](../../11-sector-specific-ai/README.md)
+- UK GDPR (via the ICO) is the primary binding data-related obligation for most AI systems, functionally similar in role to GDPR in the EU or DPDP in India, apply [05-responsible-ai-principles/privacy-and-data-protection.md](../../05-responsible-ai-principles/privacy-and-data-protection.md) rigorously
+- Sector regulator guidance should be checked per use case rather than relying on a single AI-specific compliance checklist: see [11-sector-specific-ai](../../11-sector-specific-ai/README.md)
 - Monitor for a shift toward more binding, horizontal AI legislation — the "pro-innovation" light-touch approach has been under periodic review and could evolve
 
 ## Related

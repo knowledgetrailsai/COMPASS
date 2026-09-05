@@ -28,7 +28,7 @@ The general evaluation methodology referenced throughout this repository; see [0
 
 ## Statistical rigor
 
-Report evaluation results with sample sizes and, where meaningful, confidence intervals — a metric computed on too few examples can be noise, particularly for subgroup breakdowns. Flag when a subgroup sample is too small for reliable conclusions rather than reporting a number without that caveat.
+Report evaluation results with sample sizes and, where meaningful, confidence intervals; a metric computed on too few examples can be noise, particularly for subgroup breakdowns. Flag when a subgroup sample is too small for reliable conclusions rather than reporting a number without that caveat.
 
 ## Tooling
 

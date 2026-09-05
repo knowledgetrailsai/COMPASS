@@ -8,10 +8,10 @@ Most organizational and regulatory RAI frameworks (OECD AI Principles, NIST AI R
 AI systems should not create or amplify unjust bias against individuals or groups, particularly on protected attributes (race, gender, age, disability, etc.). Applies to training data, model outputs, and downstream decisions.
 
 ## 2. Transparency and explainability
-Stakeholders should be able to understand, to an appropriate degree, how and why an AI system produced a given output — and should know when they are interacting with AI at all (disclosure).
+Stakeholders should be able to understand, to an appropriate degree, how and why an AI system produced a given output. And should know when they are interacting with AI at all (disclosure).
 
 ## 3. Privacy and data protection
-AI systems must respect data minimization, consent, and purpose limitation, and protect personal data from misuse, leakage, or re-identification — across training data, retrieval context, and generated outputs.
+AI systems must respect data minimization, consent, and purpose limitation, and protect personal data from misuse, leakage, or re-identification: across training data, retrieval context, and generated outputs.
 
 ## 4. Safety and security
 Systems should be robust against misuse, adversarial attacks (prompt injection, jailbreaks, data poisoning), and should not cause physical, psychological, financial, or societal harm.
@@ -40,4 +40,4 @@ Consideration of the environmental cost (compute, energy, water) of training and
 
 ## Using these principles
 
-Principles alone don't prevent harm — they need to be translated into concrete checkpoints (section 02), techniques (section 06), and tooling (section 07). Treat this page as the shared vocabulary the rest of the guide builds on.
+Principles alone don't prevent harm; they need to be translated into concrete checkpoints (section 02), techniques (section 06), and tooling (section 07). Treat this page as the shared vocabulary the rest of the guide builds on.

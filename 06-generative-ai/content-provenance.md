@@ -4,7 +4,7 @@
 
 ## Why it matters
 
-As generative content becomes indistinguishable from human-created content, the ability to verify origin and detect AI generation becomes essential for trust, misinformation defense, and — increasingly — regulatory compliance.
+As generative content becomes indistinguishable from human-created content, the ability to verify origin and detect AI generation becomes essential for trust, misinformation defense, and, increasingly: regulatory compliance.
 
 ## Key approaches
 
@@ -17,7 +17,7 @@ Embedding an imperceptible (or perceptible) signal in generated content indicati
 The Coalition for Content Provenance and Authenticity (C2PA) standard, backed by major tech and media companies, embeds cryptographically signed metadata ("Content Credentials") recording how content was created/edited, including AI tool involvement. Increasingly adopted by camera makers, editing software, and generative AI platforms.
 
 ### Detection tools
-AI-content detectors (for text, image, audio, video) attempt to classify content as AI-generated post-hoc, without relying on the creator having watermarked it. Accuracy varies significantly and adversarial evasion is an active arms race — treat detector output as a signal, not proof, especially for text.
+AI-content detectors (for text, image, audio, video) attempt to classify content as AI-generated post-hoc, without relying on the creator having watermarked it. Accuracy varies significantly and adversarial evasion is an active arms race; treat detector output as a signal, not proof, especially for text.
 
 ## Disclosure requirements
 
@@ -30,7 +30,7 @@ Increasingly mandated by regulation (EU AI Act transparency obligations, various
 
 - Apply C2PA-style provenance metadata to AI-generated marketing/media content where tooling supports it
 - Add clear, unavoidable disclosure labels for AI-generated content in user-facing products, not buried in terms of service
-- Don't rely solely on watermarking/detection as a control against misuse — combine with usage policy, access controls on generation tools, and monitoring for abuse patterns
+- Don't rely solely on watermarking/detection as a control against misuse, combine with usage policy, access controls on generation tools, and monitoring for abuse patterns
 - For voice/video cloning features, require explicit consent capture from the person being cloned, and consider technical limits (e.g., requiring a live consent phrase) to deter non-consensual use
 
 ## Related

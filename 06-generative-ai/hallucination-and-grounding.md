@@ -8,13 +8,13 @@ Hallucination: generative output that is plausible-sounding but false, fabricate
 
 ## Why it happens
 
-Generative models predict statistically likely continuations, not verified facts — they have no built-in mechanism to distinguish "this is something I know to be true" from "this is a plausible-sounding continuation." Common triggers: questions at the edge or outside training data coverage, requests for specific structured facts (citations, statistics, names, dates), long-context tasks where earlier facts get inconsistently carried forward, and adversarial or leading prompts.
+Generative models predict statistically likely continuations, not verified facts. They have no built-in mechanism to distinguish "this is something I know to be true" from "this is a plausible-sounding continuation." Common triggers: questions at the edge or outside training data coverage, requests for specific structured facts (citations, statistics, names, dates), long-context tasks where earlier facts get inconsistently carried forward, and adversarial or leading prompts.
 
 ## Grounding as the primary mitigation
 
 **Grounding** means constraining/connecting generation to verifiable source material rather than relying on parametric (trained-in) knowledge alone.
 
-- **Retrieval-Augmented Generation (RAG)**: ground responses in retrieved documents, with citation back to source — see [RAG-governance.md](RAG-governance.md)
+- **Retrieval-Augmented Generation (RAG)**: ground responses in retrieved documents, with citation back to source: see [RAG-governance.md](RAG-governance.md)
 - **Tool-based verification**: have the model call a calculator, database, or search tool for factual claims rather than generating them from memory
 - **Structured output constraints**: for tasks with a known-correct answer format, constrain output to only what's verifiable
 

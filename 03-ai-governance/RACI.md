@@ -24,4 +24,4 @@ R = Responsible (does the work), A = Accountable (answers for it), C = Consulted
 
 - Governance Board accountability (A) generally applies at Tier 1 only; Tier 2–3 defaults to System Owner accountability with lighter Board involvement (I).
 - Security's R/A on red-teaming reflects that adversarial testing should be led or independently verified by a function separate from the build team.
-- Adapt column names/roles to your organization's actual structure — the point of a RACI is unambiguous single-point accountability per row, not a template followed verbatim.
+- Adapt column names/roles to your organization's actual structure. The point of a RACI is unambiguous single-point accountability per row, not a template followed verbatim.

@@ -14,7 +14,7 @@ Tier 1 systems (per [03-ai-governance/risk-management.md](../03-ai-governance/ri
 
 1. **System description**: purpose, intended use, out-of-scope use, technology type (traditional ML/Gen AI/Agentic AI)
 2. **Affected parties**: direct users, indirect/non-user affected individuals, particularly vulnerable groups
-3. **Potential impacts**: for each affected party, assess against the risk taxonomy ([01-foundations/risk-taxonomy.md](../01-foundations/risk-taxonomy.md)) — fairness, privacy, safety, autonomy/rights
+3. **Potential impacts**: for each affected party, assess against the risk taxonomy ([01-foundations/risk-taxonomy.md](../01-foundations/risk-taxonomy.md)): fairness, privacy, safety, autonomy/rights
 4. **Severity and likelihood scoring**: consistent with [03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md) tiering criteria
 5. **Mitigations**: controls applied to reduce each identified impact, and residual risk after mitigation
 6. **Human rights considerations**: for Tier 1 systems, explicit review against [01-foundations/human-rights-and-ai.md](../01-foundations/human-rights-and-ai.md)
@@ -31,5 +31,5 @@ A signed-off impact assessment document, retained as an assurance artifact ([evi
 
 ## Related
 
-- [AI-risk-assessment.md](AI-risk-assessment.md) — the risk-scoring methodology this assessment draws on
+- [AI-risk-assessment.md](AI-risk-assessment.md), the risk-scoring methodology this assessment draws on
 - [13-implementation-playbooks/conducting-an-ai-risk-assessment.md](../13-implementation-playbooks/conducting-an-ai-risk-assessment.md) — step-by-step working version

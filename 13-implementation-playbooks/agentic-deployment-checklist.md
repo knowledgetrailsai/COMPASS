@@ -4,7 +4,7 @@
 
 ## Scoping and design
 - [ ] Autonomy level explicitly chosen and justified for this task ([07-agentic-ai/autonomy-and-control.md](../07-agentic-ai/autonomy-and-control.md))
-- [ ] Tool/action allowlist defined — default deny ([07-agentic-ai/tool-use-and-permissions.md](../07-agentic-ai/tool-use-and-permissions.md))
+- [ ] Tool/action allowlist defined, default deny ([07-agentic-ai/tool-use-and-permissions.md](../07-agentic-ai/tool-use-and-permissions.md))
 - [ ] Agent identity/authorization model defined (acts as itself / on behalf of user / on behalf of org) ([07-agentic-ai/identity-and-authorization.md](../07-agentic-ai/identity-and-authorization.md))
 - [ ] Least-privilege, time-boxed credentials issued, distinct from any human operator's
 

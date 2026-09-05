@@ -4,11 +4,11 @@
 
 ## Purpose
 
-The cross-functional decision-making body for AI risk — approves high-risk use cases, sets policy, resolves edge cases, and reviews incidents. Distinct from a single "AI ethics committee" in that it has real decision authority, not just advisory input.
+The cross-functional decision-making body for AI risk; approves high-risk use cases, sets policy, resolves edge cases, and reviews incidents. Distinct from a single "AI ethics committee" in that it has real decision authority, not just advisory input.
 
 ## Composition
 
-Typical membership: governance lead (chair), senior representation from product/engineering, legal, privacy, security, and — for organizations with the maturity for it — an ethics or DEI voice and a business-risk/compliance voice. Size should stay small enough to make timely decisions (5–8 members is typical) with the ability to pull in subject-matter experts per case.
+Typical membership: governance lead (chair), senior representation from product/engineering, legal, privacy, security, and: for organizations with the maturity for it, an ethics or DEI voice and a business-risk/compliance voice. Size should stay small enough to make timely decisions (5–8 members is typical) with the ability to pull in subject-matter experts per case.
 
 ## Responsibilities
 
@@ -21,12 +21,12 @@ Typical membership: governance lead (chair), senior representation from product/
 ## Operating cadence
 
 - Regular standing meeting (e.g., biweekly) for the normal review queue
-- Expedited/emergency process for time-sensitive approvals and incident response — define this in advance so it isn't improvised
+- Expedited/emergency process for time-sensitive approvals and incident response. Define this in advance so it isn't improvised
 - Periodic (e.g., quarterly) review of the full AI inventory and risk posture, not just individual case decisions
 
 ## Decision record-keeping
 
-Every Board decision (approval, rejection, conditions attached) should be documented with rationale, tied to the specific system in the AI inventory — this is both a governance and an assurance artifact (see [04-ai-assurance](../04-ai-assurance/assurance-overview.md)).
+Every Board decision (approval, rejection, conditions attached) should be documented with rationale, tied to the specific system in the AI inventory; this is both a governance and an assurance artifact (see [04-ai-assurance](../04-ai-assurance/assurance-overview.md)).
 
 ## Avoiding bottleneck failure
 

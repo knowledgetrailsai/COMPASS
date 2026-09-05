@@ -8,18 +8,18 @@ International human rights law provides a widely-recognized, less philosophicall
 
 ## Rights most frequently implicated by AI systems
 
-- **Non-discrimination and equality** — biased AI decisions in employment, credit, housing, or law enforcement
-- **Privacy** — surveillance, data collection, profiling, re-identification
-- **Freedom of expression and information** — content moderation, generative AI misinformation, algorithmic content curation
-- **Due process / effective remedy** — automated decisions affecting rights without a meaningful path to explanation or appeal
-- **Freedom of assembly and association** — surveillance chilling effects on protest, organizing
-- **Right to work / economic rights** — labor displacement, algorithmic management of workers
-- **Children's rights** — AI systems affecting or accessible to minors, given their distinct vulnerability and evolving capacity for consent
-- **Right to life, security, and physical integrity** — safety-critical AI (autonomous vehicles, medical AI, weapons systems)
+- **Non-discrimination and equality**: biased AI decisions in employment, credit, housing, or law enforcement
+- **Privacy**: surveillance, data collection, profiling, re-identification
+- **Freedom of expression and information**: content moderation, generative AI misinformation, algorithmic content curation
+- **Due process / effective remedy**: automated decisions affecting rights without a meaningful path to explanation or appeal
+- **Freedom of assembly and association**: surveillance chilling effects on protest, organizing
+- **Right to work / economic rights**: labor displacement, algorithmic management of workers
+- **Children's rights**: AI systems affecting or accessible to minors, given their distinct vulnerability and evolving capacity for consent
+- **Right to life, security, and physical integrity**: safety-critical AI (autonomous vehicles, medical AI, weapons systems)
 
 ## Human Rights Impact Assessment (HRIA) for AI
 
-A structured method (distinct from, but overlapping with, a DPIA — see [04-ai-assurance/AI-impact-assessment.md](../04-ai-assurance/AI-impact-assessment.md)) that asks, for a given AI system:
+A structured method (distinct from, but overlapping with, a DPIA; see [04-ai-assurance/AI-impact-assessment.md](../04-ai-assurance/AI-impact-assessment.md)) that asks, for a given AI system:
 1. Which rights could plausibly be affected, for whom, including non-users?
 2. What is the severity and likelihood of that impact?
 3. What mitigations reduce the impact, and are they sufficient?
@@ -27,7 +27,7 @@ A structured method (distinct from, but overlapping with, a DPIA — see [04-ai-
 
 ## Vulnerable and marginalized groups
 
-Human rights impacts of AI are rarely distributed evenly — assessment should explicitly consider disproportionate effects on children, people with disabilities, racial/ethnic minorities, low-income populations, and other groups with historically limited power to contest automated decisions affecting them, consistent with the fairness principle in [05-responsible-ai-principles/fairness-and-bias.md](../05-responsible-ai-principles/fairness-and-bias.md).
+Human rights impacts of AI are rarely distributed evenly. Assessment should explicitly consider disproportionate effects on children, people with disabilities, racial/ethnic minorities, low-income populations, and other groups with historically limited power to contest automated decisions affecting them, consistent with the fairness principle in [05-responsible-ai-principles/fairness-and-bias.md](../05-responsible-ai-principles/fairness-and-bias.md).
 
 ## Relationship to regulation
 

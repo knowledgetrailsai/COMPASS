@@ -4,7 +4,7 @@
 
 ## Purpose
 
-A single, structured map of the AI-specific attack surface — organized by attack lifecycle stage (following the pattern of MITRE ATLAS and OWASP) and by system type, so a security review can systematically check what applies rather than working from an ad hoc list.
+A single, structured map of the AI-specific attack surface; organized by attack lifecycle stage (following the pattern of MITRE ATLAS and OWASP) and by system type, so a security review can systematically check what applies rather than working from an ad hoc list.
 
 ## Attack lifecycle stages
 
@@ -30,11 +30,11 @@ A single, structured map of the AI-specific attack surface — organized by atta
 ## Using this threat model
 
 1. During [02-ai-lifecycle/requirements-and-design.md](../02-ai-lifecycle/requirements-and-design.md), walk each lifecycle stage against the system's actual architecture and note which apply
-2. Map applicable threats to controls — see each system-type file's control table
+2. Map applicable threats to controls. See each system-type file's control table
 3. Feed applicable threats into [security-testing-program.md](security-testing-program.md) scope
 4. Reference [09-tools-and-frameworks/MITRE-ATLAS.md](../09-tools-and-frameworks/MITRE-ATLAS.md) and [09-tools-and-frameworks/OWASP-llm-top10.md](../09-tools-and-frameworks/OWASP-llm-top10.md) for the detailed technique-level taxonomies this model summarizes
 
 ## Related
 
 - [01-foundations/risk-taxonomy.md](../01-foundations/risk-taxonomy.md) — security risk sits within the broader risk taxonomy
-- [05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md) — the principle this threat model operationalizes
+- [05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md), the principle this threat model operationalizes

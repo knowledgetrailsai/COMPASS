@@ -5,14 +5,14 @@
 Working checklist implementing [03-ai-governance/third-party-ai-governance.md](../03-ai-governance/third-party-ai-governance.md).
 
 ## Discovery
-- [ ] Identify what AI capability the vendor product actually uses (ask directly — don't assume from marketing) — which model(s), whether it's agentic/tool-using
+- [ ] Identify what AI capability the vendor product actually uses (ask directly (don't assume from marketing)) which model(s), whether it's agentic/tool-using
 - [ ] Determine what data will flow to the vendor and in what form
 
 ## Risk tiering
 - [ ] Apply [03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md) tiering to the vendor's AI feature the same as an internal system
 
 ## Data handling
-- [ ] Confirm whether your data is used to train the vendor's models (default should be no for enterprise use) — get this in writing, not just in a sales conversation
+- [ ] Confirm whether your data is used to train the vendor's models (default should be no for enterprise use), get this in writing, not just in a sales conversation
 - [ ] Confirm retention, deletion, and data residency terms
 - [ ] Confirm sub-processor list (does the vendor itself rely on another AI provider?)
 

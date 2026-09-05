@@ -2,11 +2,11 @@
 
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [India](../../10-regulations-and-standards/India/dpdp-act.md)*
 
-_Last reviewed: 2026-08-19 — sectoral guidance in India is issued as circulars/advisories that update periodically; confirm current text with the relevant regulator._
+_Last reviewed: 2026-08-19; sectoral guidance in India is issued as circulars/advisories that update periodically; confirm current text with the relevant regulator._
 
 ## MeitY advisories
 
-India's Ministry of Electronics and Information Technology (MeitY) has issued advisories to AI companies covering, among other things: labeling/disclosure of AI-generated or synthetic content, avoiding deployment of untested/unreliable AI for consequential use cases without appropriate safeguards, and consent-based mechanisms for content labeling. These are advisory rather than standalone binding legislation, but signal regulatory direction and are increasingly referenced in enforcement/policy discussions — treat as a strong signal of expected practice even where not independently a binding rule.
+India's Ministry of Electronics and Information Technology (MeitY) has issued advisories to AI companies covering, among other things: labeling/disclosure of AI-generated or synthetic content, avoiding deployment of untested/unreliable AI for consequential use cases without appropriate safeguards, and consent-based mechanisms for content labeling. These are advisory rather than standalone binding legislation, but signal regulatory direction and are increasingly referenced in enforcement/policy discussions. Treat as a strong signal of expected practice even where not independently a binding rule.
 
 ## RBI (banking and financial services)
 

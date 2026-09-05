@@ -11,9 +11,9 @@ AI Ethics addresses the normative question underlying every other section of thi
 - **Consequentialist framing**: judge AI systems by outcomes — net benefit vs. harm across all affected parties, including those not using the system directly
 - **Deontological/rights-based framing**: certain actions or uses are impermissible regardless of net benefit (e.g., using AI to violate fundamental rights, even if "efficient")
 - **Virtue/care ethics framing**: what does building and deploying this system say about the values and character of the organization doing so, and does it embody care for those affected
-- **Justice and fairness framing**: how are benefits and burdens of AI distributed — does it concentrate power/benefit while distributing risk/harm unevenly
+- **Justice and fairness framing**: how are benefits and burdens of AI distributed; does it concentrate power/benefit while distributing risk/harm unevenly
 
-Most organizational AI ethics statements implicitly blend these rather than committing to one — worth making explicit when a genuine dilemma arises rather than defaulting to whichever framing is convenient.
+Most organizational AI ethics statements implicitly blend these rather than committing to one. Worth making explicit when a genuine dilemma arises rather than defaulting to whichever framing is convenient.
 
 ## Recurring ethical questions in AI
 
@@ -25,11 +25,11 @@ Most organizational AI ethics statements implicitly blend these rather than comm
 
 ## Ethics review in practice
 
-Ethics questions are often the hardest to operationalize into a checklist — they benefit from structured deliberation (an ethics review as part of the governance board, diverse stakeholder input, "red team the ethics" exercises) rather than a single reviewer's judgment. See [03-ai-governance/ai-governance-board.md](../03-ai-governance/ai-governance-board.md).
+Ethics questions are often the hardest to operationalize into a checklist, they benefit from structured deliberation (an ethics review as part of the governance board, diverse stakeholder input, "red team the ethics" exercises) rather than a single reviewer's judgment. See [03-ai-governance/ai-governance-board.md](../03-ai-governance/ai-governance-board.md).
 
 ## Ethics is necessary but not sufficient
 
-An ethically sound intention doesn't guarantee a responsibly built system — see [responsible-ai-vs-ai-ethics.md](responsible-ai-vs-ai-ethics.md) for why this repository treats ethics as the starting layer, translated into practice, governance, and assurance in the sections that follow.
+An ethically sound intention doesn't guarantee a responsibly built system; see [responsible-ai-vs-ai-ethics.md](responsible-ai-vs-ai-ethics.md) for why this repository treats ethics as the starting layer, translated into practice, governance, and assurance in the sections that follow.
 
 ## Related
 

@@ -4,13 +4,13 @@
 
 ## Scope
 
-AI-generated text, image, audio, and video content — covers both legitimate use (marketing content, synthetic training data, accessibility applications like text-to-speech) and the misuse risks that come with the same capability (deepfakes, disinformation, fraud).
+AI-generated text, image, audio, and video content. Covers both legitimate use (marketing content, synthetic training data, accessibility applications like text-to-speech) and the misuse risks that come with the same capability (deepfakes, disinformation, fraud).
 
 ## Legitimate use considerations
 
 - **Synthetic training/test data**: generating artificial data to augment scarce or sensitive datasets (e.g., for privacy-preserving model development) — validate that synthetic data doesn't silently encode or amplify the same biases as its source, and doesn't inadvertently leak identifiable patterns from real data it was derived from
-- **Content generation at scale**: marketing copy, product descriptions, design assets — apply [copyright-and-ip.md](copyright-and-ip.md) and quality/brand review before publishing
-- **Accessibility applications**: synthetic voice/text for accessibility tools — generally lower risk but still warrants disclosure where the output could be mistaken for a real recorded voice
+- **Content generation at scale**: marketing copy, product descriptions, design assets. Apply [copyright-and-ip.md](copyright-and-ip.md) and quality/brand review before publishing
+- **Accessibility applications**: synthetic voice/text for accessibility tools: generally lower risk but still warrants disclosure where the output could be mistaken for a real recorded voice
 
 ## Misuse risks
 
@@ -20,7 +20,7 @@ AI-generated text, image, audio, and video content — covers both legitimate us
 
 ## Controls
 
-- **Provenance and watermarking**: apply content credentials (C2PA) and/or watermarking to organizationally-generated synthetic content — see [content-provenance.md](content-provenance.md)
+- **Provenance and watermarking**: apply content credentials (C2PA) and/or watermarking to organizationally-generated synthetic content: see [content-provenance.md](content-provenance.md)
 - **Consent capture for likeness/voice**: technical and process controls requiring explicit, verifiable consent before generating content using a real person's likeness or voice
 - **Use-case restrictions**: explicit policy prohibiting generation of content depicting real, identifiable people without consent, especially in sensitive contexts (political figures, intimate content)
 - **Detection tooling**: deploy AI-content detection as a monitoring signal for platforms accepting user-generated content, while recognizing current detection accuracy limitations
@@ -28,7 +28,7 @@ AI-generated text, image, audio, and video content — covers both legitimate us
 
 ## Regulatory context
 
-Increasingly regulated explicitly — deepfake-specific laws in various jurisdictions, EU AI Act transparency obligations for synthetic content, and platform-level policies. See [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md).
+Increasingly regulated explicitly, deepfake-specific laws in various jurisdictions, EU AI Act transparency obligations for synthetic content, and platform-level policies. See [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md).
 
 ## Related
 

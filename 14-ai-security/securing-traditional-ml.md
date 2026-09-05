@@ -5,7 +5,7 @@
 ## Threat catalog
 
 ### Adversarial examples
-Inputs deliberately perturbed (often imperceptibly to humans) to cause misclassification. **Controls**: adversarial training, input preprocessing/sanitization, ensemble methods, robustness testing — see [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md).
+Inputs deliberately perturbed (often imperceptibly to humans) to cause misclassification. **Controls**: adversarial training, input preprocessing/sanitization, ensemble methods, robustness testing: see [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md).
 
 ### Data poisoning
 Corrupting training data to embed bias, backdoors, or degraded performance triggered by specific inputs. **Controls**: data provenance verification ([02-ai-lifecycle/data-and-data-governance.md](../02-ai-lifecycle/data-and-data-governance.md)), anomaly detection on training data, trusted data pipeline access controls.
@@ -35,7 +35,7 @@ A model trained (via poisoning or malicious fine-tuning) to behave normally exce
 
 ## Testing
 
-See [security-testing-program.md](security-testing-program.md) and [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md) — tools like the Adversarial Robustness Toolbox (ART) and Foolbox ([09-tools-and-frameworks/open-source-tools.md](../09-tools-and-frameworks/open-source-tools.md)) implement much of this testing directly.
+See [security-testing-program.md](security-testing-program.md) and [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md): tools like the Adversarial Robustness Toolbox (ART) and Foolbox ([09-tools-and-frameworks/open-source-tools.md](../09-tools-and-frameworks/open-source-tools.md)) implement much of this testing directly.
 
 ## Related
 

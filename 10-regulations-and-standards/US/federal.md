@@ -2,7 +2,7 @@
 
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [US](../../10-regulations-and-standards/US/federal.md)*
 
-_Last reviewed: 2026-08-19. The US federal AI policy landscape is unusually fluid — no single comprehensive federal AI law exists, and executive branch policy has shifted materially across administrations. Verify current status before relying on specifics here._
+_Last reviewed: 2026-08-19. The US federal AI policy landscape is unusually fluid; no single comprehensive federal AI law exists, and executive branch policy has shifted materially across administrations. Verify current status before relying on specifics here._
 
 ## No comprehensive federal AI statute
 
@@ -10,7 +10,7 @@ Unlike the EU, the US has no single binding, comprehensive AI law at the federal
 
 ## Executive branch policy
 
-Federal AI policy has been set substantially through executive order, with direction shifting across administrations — including, most recently, an executive order asserting a federal policy framework that scrutinizes and seeks to limit conflicting state-level AI regulation. This creates active tension between federal and state approaches that is not yet settled — see [state-laws.md](state-laws.md).
+Federal AI policy has been set substantially through executive order, with direction shifting across administrations, including, most recently, an executive order asserting a federal policy framework that scrutinizes and seeks to limit conflicting state-level AI regulation. This creates active tension between federal and state approaches that is not yet settled — see [state-laws.md](state-laws.md).
 
 ## Sectoral federal regulation
 
@@ -21,11 +21,11 @@ Existing federal regulators apply their general authority to AI within their sec
 - **CFPB / banking regulators**: fair lending law (ECOA, FCRA) applied to AI credit decisioning
 - **SEC**: AI-related disclosure and market-conduct rules for financial services
 
-Treat these as the practical binding baseline for many high-stakes US AI use cases even without dedicated federal AI legislation — see [11-sector-specific-ai](../../11-sector-specific-ai/README.md) for sector detail.
+Treat these as the practical binding baseline for many high-stakes US AI use cases even without dedicated federal AI legislation. See [11-sector-specific-ai](../../11-sector-specific-ai/README.md) for sector detail.
 
 ## NIST AI RMF
 
-Voluntary, but referenced in various federal agency and procurement contexts — see [09-tools-and-frameworks/NIST-AI-RMF.md](../../09-tools-and-frameworks/NIST-AI-RMF.md).
+Voluntary, but referenced in various federal agency and procurement contexts: see [09-tools-and-frameworks/NIST-AI-RMF.md](../../09-tools-and-frameworks/NIST-AI-RMF.md).
 
 ## Practical guidance
 

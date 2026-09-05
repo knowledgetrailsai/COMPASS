@@ -26,7 +26,7 @@ Standardized adversarial/bias probe sets (varies by provider/research group) —
 
 ## Agentic evaluation
 
-Emerging category — frameworks for simulating multi-step agent tasks in sandboxed environments, measuring task success rate, tool-use correctness, and safety-boundary compliance. This space is less mature/standardized than Gen AI text evaluation; expect to build custom scripted task suites (per [07-agentic-ai/agentic-evaluation.md](../07-agentic-ai/agentic-evaluation.md)) alongside whatever framework tooling you adopt.
+Emerging category, frameworks for simulating multi-step agent tasks in sandboxed environments, measuring task success rate, tool-use correctness, and safety-boundary compliance. This space is less mature/standardized than Gen AI text evaluation; expect to build custom scripted task suites (per [07-agentic-ai/agentic-evaluation.md](../07-agentic-ai/agentic-evaluation.md)) alongside whatever framework tooling you adopt.
 
 ## Choosing a framework
 

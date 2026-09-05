@@ -4,7 +4,7 @@
 
 ## Why standard ML evaluation isn't sufficient
 
-Generative outputs don't have a single "correct answer" the way a classification label does — evaluation needs methods suited to open-ended, often subjective output quality, alongside the specific Gen AI risk categories (hallucination, safety, groundedness).
+Generative outputs don't have a single "correct answer" the way a classification label does; evaluation needs methods suited to open-ended, often subjective output quality, alongside the specific Gen AI risk categories (hallucination, safety, groundedness).
 
 ## Evaluation dimensions
 
@@ -18,13 +18,13 @@ Generative outputs don't have a single "correct answer" the way a classification
 ## Evaluation methods
 
 - **Golden test sets**: curated prompts with known-good reference answers or rubrics, run as regression tests on every material change
-- **LLM-as-judge**: using a separate (often stronger or differently-tuned) model to score outputs against a rubric — useful for scale, but validate periodically against human judgment since judge models have their own biases and blind spots
+- **LLM-as-judge**: using a separate (often stronger or differently-tuned) model to score outputs against a rubric; useful for scale, but validate periodically against human judgment since judge models have their own biases and blind spots
 - **Human evaluation**: essential for nuanced quality/safety judgment, especially for high-stakes or novel use cases; use structured rubrics and multiple raters for consistency
 - **A/B and production sampling**: real-world output sampling and user feedback signals as an ongoing complement to pre-launch evaluation
 
 ## Benchmark suites
 
-Public benchmarks (e.g., safety/bias benchmark suites, domain-specific QA sets) offer a useful baseline but rarely reflect your specific use case closely enough to substitute for use-case-specific evaluation — treat them as a floor, not a substitute for [02-ai-lifecycle/evaluation-and-validation.md](../02-ai-lifecycle/evaluation-and-validation.md). See [09-tools-and-frameworks/evaluation-frameworks.md](../09-tools-and-frameworks/evaluation-frameworks.md) for specific tools (RAGAS, DeepEval, promptfoo, HELM).
+Public benchmarks (e.g., safety/bias benchmark suites, domain-specific QA sets) offer a useful baseline but rarely reflect your specific use case closely enough to substitute for use-case-specific evaluation. Treat them as a floor, not a substitute for [02-ai-lifecycle/evaluation-and-validation.md](../02-ai-lifecycle/evaluation-and-validation.md). See [09-tools-and-frameworks/evaluation-frameworks.md](../09-tools-and-frameworks/evaluation-frameworks.md) for specific tools (RAGAS, DeepEval, promptfoo, HELM).
 
 ## Continuous evaluation
 

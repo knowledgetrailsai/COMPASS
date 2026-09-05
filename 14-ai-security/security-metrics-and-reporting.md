@@ -20,11 +20,11 @@ What to measure to demonstrate AI security posture to governance, leadership, an
 
 ## Reporting cadence and audience
 
-Follow the structure in [04-ai-assurance/assurance-reporting.md](../04-ai-assurance/assurance-reporting.md) — system-owner-level detail continuously, governance board summary at each Tier 1 gate and on a recurring cadence, executive/portfolio-level rollup quarterly.
+Follow the structure in [04-ai-assurance/assurance-reporting.md](../04-ai-assurance/assurance-reporting.md), system-owner-level detail continuously, governance board summary at each Tier 1 gate and on a recurring cadence, executive/portfolio-level rollup quarterly.
 
 ## Avoid vanity metrics
 
-A metric like "number of red-team tests run" says nothing about actual security posture without pairing it with findings severity and remediation status — prefer outcome-oriented metrics (open critical findings, mean time to remediate) over pure activity counts.
+A metric like "number of red-team tests run" says nothing about actual security posture without pairing it with findings severity and remediation status: prefer outcome-oriented metrics (open critical findings, mean time to remediate) over pure activity counts.
 
 ## Related
 

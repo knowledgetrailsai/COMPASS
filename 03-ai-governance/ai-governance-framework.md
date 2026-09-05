@@ -16,7 +16,7 @@ Cross-functional (product, engineering, legal, security, data/privacy, ethics, b
 - Own the risk-tiering framework and keep it current with regulation
 
 ### 2. AI Inventory / Registry
-A central, living record of every AI system in use — including Gen AI features and agentic workflows — with owner, purpose, risk tier, data used, and review status. Essential for regulatory response (e.g., EU AI Act requires this for high-risk systems) and for knowing your actual exposure.
+A central, living record of every AI system in use (including Gen AI features and agentic workflows) with owner, purpose, risk tier, data used, and review status. Essential for regulatory response (e.g., EU AI Act requires this for high-risk systems) and for knowing your actual exposure.
 
 ### 3. Policy layer
 - Acceptable use policy (what AI can/cannot be used for)
@@ -42,7 +42,7 @@ Post-deployment monitoring (see [08-controls-and-techniques/monitoring-and-obser
 
 ## Relationship to enterprise risk management
 
-AI governance should plug into existing ERM, InfoSec, and privacy governance rather than exist as a silo — reuse existing risk committees, incident response processes, and audit functions where possible, adding AI-specific expertise rather than duplicating structure.
+AI governance should plug into existing ERM, InfoSec, and privacy governance rather than exist as a silo, reuse existing risk committees, incident response processes, and audit functions where possible, adding AI-specific expertise rather than duplicating structure.
 
 ## Related
 

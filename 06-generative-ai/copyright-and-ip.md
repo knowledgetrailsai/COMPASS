@@ -23,7 +23,7 @@ Generating content "in the style of" a named living artist, or voice/likeness cl
 - Require meaningful human review/editing before publishing AI-generated content that needs IP protection
 - Avoid prompts that explicitly request mimicry of a named living artist's style or a real person's voice/likeness without consent/license
 - Maintain records of prompts and generation process for content your organization publishes, to support any future ownership or provenance questions
-- Track vendor terms of service changes — whether your inputs/outputs can be used for the vendor's own model training is a frequently changing and commercially material term
+- Track vendor terms of service changes. Whether your inputs/outputs can be used for the vendor's own model training is a frequently changing and commercially material term
 
 ## Vendor contract checklist
 

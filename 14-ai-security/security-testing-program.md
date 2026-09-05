@@ -19,10 +19,10 @@ This repository documents AI security testing in several places by necessity —
 
 ## Program design principles
 
-- **Layer automated and manual testing**: automated scanning (Garak, promptfoo) catches known technique regressions cheaply and continuously; manual red-teaming catches novel, creative attacks automated tools miss — neither replaces the other
+- **Layer automated and manual testing**: automated scanning (Garak, promptfoo) catches known technique regressions cheaply and continuously; manual red-teaming catches novel, creative attacks automated tools miss: neither replaces the other
 - **Test the actual enforced boundary, not the intended one**: per the lesson in [12-case-studies/agentic-failures/aisi-unsanctioned-agent-behavior.md](../12-case-studies/agentic-failures/aisi-unsanctioned-agent-behavior.md), verify containment technically, don't assume it from configuration
 - **Scope testing using the threat model**: use [ai-threat-model.md](ai-threat-model.md) to ensure test scope covers the full applicable attack surface for the specific system type, rather than a generic checklist
-- **Track findings to closure**: unresolved high-severity findings block launch/continued operation regardless of tier — see [04-ai-assurance/red-teaming.md](../04-ai-assurance/red-teaming.md#gate)
+- **Track findings to closure**: unresolved high-severity findings block launch/continued operation regardless of tier, see [04-ai-assurance/red-teaming.md](../04-ai-assurance/red-teaming.md#gate)
 
 ## Building an internal AI red team
 

@@ -4,7 +4,7 @@
 
 ## Why tier
 
-Not every AI use case warrants the same scrutiny. Risk tiering lets governance effort scale with actual risk — informed heavily by the EU AI Act's risk-based approach (unacceptable / high / limited / minimal risk).
+Not every AI use case warrants the same scrutiny. Risk tiering lets governance effort scale with actual risk, informed heavily by the EU AI Act's risk-based approach (unacceptable / high / limited / minimal risk).
 
 ## Suggested tiers
 
@@ -34,8 +34,8 @@ Limited blast radius: internal drafting assistance, code completion, summarizati
 
 ## Agentic AI note
 
-Tiering agentic systems should weight **autonomy level** and **tool/action scope** heavily — an agent that can only read data is lower risk than one that can send emails, move money, or modify production systems, even performing "the same task." See [07-agentic-ai/autonomy-and-control.md](../07-agentic-ai/autonomy-and-control.md).
+Tiering agentic systems should weight **autonomy level** and **tool/action scope** heavily. An agent that can only read data is lower risk than one that can send emails, move money, or modify production systems, even performing "the same task." See [07-agentic-ai/autonomy-and-control.md](../07-agentic-ai/autonomy-and-control.md).
 
 ## Re-tiering
 
-Risk tier isn't static — re-assess when scope expands (new data sources, new tool access, new user population) or after a near-miss/incident.
+Risk tier isn't static: re-assess when scope expands (new data sources, new tool access, new user population) or after a near-miss/incident.

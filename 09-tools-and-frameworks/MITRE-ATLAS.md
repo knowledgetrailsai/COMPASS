@@ -6,7 +6,7 @@ _Type: Threat knowledge base / security guidance. Issuer: MITRE. Last reviewed: 
 
 ## What it is
 
-Adversarial Threat Landscape for Artificial-Intelligence Systems — a knowledge base of adversarial tactics and techniques against AI/ML systems, modeled on the structure of MITRE ATT&CK (the widely-used cybersecurity threat framework). Documents real-world and demonstrated attack techniques against ML systems, including case studies.
+Adversarial Threat Landscape for Artificial-Intelligence Systems, a knowledge base of adversarial tactics and techniques against AI/ML systems, modeled on the structure of MITRE ATT&CK (the widely-used cybersecurity threat framework). Documents real-world and demonstrated attack techniques against ML systems, including case studies.
 
 ## Structure
 
@@ -28,10 +28,10 @@ Organized by tactic (the adversary's goal, e.g., "Reconnaissance," "ML Model Acc
 
 ## Relationship to OWASP LLM Top 10
 
-ATLAS covers the broader ML/AI attack surface (including traditional ML); OWASP LLM Top 10 ([OWASP-llm-top10.md](OWASP-llm-top10.md)) is narrower and specifically focused on LLM application-layer risks. Use both together for a Gen AI system — ATLAS for the underlying model attack surface, OWASP for the application layer built around it.
+ATLAS covers the broader ML/AI attack surface (including traditional ML); OWASP LLM Top 10 ([OWASP-llm-top10.md](OWASP-llm-top10.md)) is narrower and specifically focused on LLM application-layer risks. Use both together for a Gen AI system, ATLAS for the underlying model attack surface, OWASP for the application layer built around it.
 
 ## Related
 
 - [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md)
 - [05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md)
-- [14-ai-security/ai-threat-model.md](../14-ai-security/ai-threat-model.md) — this repository's own threat model, structured on the same lifecycle-stage pattern
+- [14-ai-security/ai-threat-model.md](../14-ai-security/ai-threat-model.md): this repository's own threat model, structured on the same lifecycle-stage pattern

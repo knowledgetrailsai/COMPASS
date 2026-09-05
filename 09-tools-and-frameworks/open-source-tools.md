@@ -57,4 +57,4 @@ _Last reviewed: 2026-08-19 — tool landscape moves quickly; verify current stat
 
 ## Selecting among these
 
-See [tool-selection-matrix.md](tool-selection-matrix.md) for a decision guide by risk/lifecycle stage. Prefer tools with active maintenance and a track record for anything supporting a Tier 1 system's assurance evidence — an unmaintained tool undermines the credibility of the evidence it produces.
+See [tool-selection-matrix.md](tool-selection-matrix.md) for a decision guide by risk/lifecycle stage. Prefer tools with active maintenance and a track record for anything supporting a Tier 1 system's assurance evidence, an unmaintained tool undermines the credibility of the evidence it produces.

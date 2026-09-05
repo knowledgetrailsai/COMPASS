@@ -2,7 +2,7 @@
 
 *[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/framework-map.md)*
 
-The folder structure organizes content by *section* (what/when/how/who — see [knowledge-map.md](knowledge-map.md)). This page organizes the same content by *theme*, cutting across sections — useful when you're starting from a topic ("privacy") rather than a section ("I know I need 05 or 06"). For a complete flat list of every file, see [../INDEX.md](../INDEX.md).
+The folder structure organizes content by *section* (what/when/how/who (see [knowledge-map.md](knowledge-map.md)). This page organizes the same content by *theme*, cutting across sections) useful when you're starting from a topic ("privacy") rather than a section ("I know I need 05 or 06"). For a complete flat list of every file, see [../INDEX.md](../INDEX.md).
 
 ## Privacy and data protection
 
@@ -17,7 +17,7 @@ The folder structure organizes content by *section* (what/when/how/who — see [
 
 ## Security (AI-specific)
 
-- Front door: [14-ai-security](../14-ai-security/README.md) — start here for the full practitioner view
+- Front door: [14-ai-security](../14-ai-security/README.md), start here for the full practitioner view
 - Principle: [05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md)
 - Gen AI: [06-generative-ai/prompt-injection.md](../06-generative-ai/prompt-injection.md), [06-generative-ai/jailbreaks.md](../06-generative-ai/jailbreaks.md)
 - Agentic AI: [07-agentic-ai/tool-use-and-permissions.md](../07-agentic-ai/tool-use-and-permissions.md), [07-agentic-ai/identity-and-authorization.md](../07-agentic-ai/identity-and-authorization.md)
@@ -74,7 +74,7 @@ The folder structure organizes content by *section* (what/when/how/who — see [
 
 - Front door: [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md)
 - Global comparison: [10-regulations-and-standards/global-overview.md](../10-regulations-and-standards/global-overview.md), [10-regulations-and-standards/regulatory-comparison.md](../10-regulations-and-standards/regulatory-comparison.md)
-- Voluntary frameworks/standards (not law — see the distinction): [09-tools-and-frameworks/framework-comparison.md](../09-tools-and-frameworks/framework-comparison.md)
+- Voluntary frameworks/standards (not law. See the distinction): [09-tools-and-frameworks/framework-comparison.md](../09-tools-and-frameworks/framework-comparison.md)
 - Assurance mechanism: [04-ai-assurance/conformity-assessment.md](../04-ai-assurance/conformity-assessment.md)
 - Sector overlay: [11-sector-specific-ai](../11-sector-specific-ai/README.md)
 
@@ -113,4 +113,4 @@ The folder structure organizes content by *section* (what/when/how/who — see [
 
 ## Maintaining this page
 
-Add a topic here when a theme accumulates files across three or more sections — for a theme confined to one section, that section's own index/README is sufficient and this page shouldn't duplicate it.
+Add a topic here when a theme accumulates files across three or more sections; for a theme confined to one section, that section's own index/README is sufficient and this page shouldn't duplicate it.

@@ -2,11 +2,11 @@
 
 *[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
-Assurance — how you *prove* governance and Responsible AI practices actually work — is developed in full as its own layer: [04-ai-assurance](../04-ai-assurance/assurance-overview.md).
+Assurance (how you *prove* governance and Responsible AI practices actually work) is developed in full as its own layer: [04-ai-assurance](../04-ai-assurance/assurance-overview.md).
 
 ## Why it's referenced here
 
-Governance defines the policies and approval processes; assurance provides the evidence that they were followed and that they're effective. A governance board approving a launch based only on a team's self-report, with no independent verification, has governance without assurance — see [01-foundations/responsible-ai-vs-ai-ethics.md](../01-foundations/responsible-ai-vs-ai-ethics.md) for the full distinction between these layers.
+Governance defines the policies and approval processes; assurance provides the evidence that they were followed and that they're effective. A governance board approving a launch based only on a team's self-report, with no independent verification, has governance without assurance. See [01-foundations/responsible-ai-vs-ai-ethics.md](../01-foundations/responsible-ai-vs-ai-ethics.md) for the full distinction between these layers.
 
 ## What the governance function should demand from assurance
 

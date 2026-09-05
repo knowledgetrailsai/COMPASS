@@ -4,7 +4,7 @@
 
 ## What accountability means for AI
 
-Clear, traceable ownership for an AI system's behavior — someone (a role, not just "the algorithm") who is answerable for its outcomes, can explain decisions, and has the authority and mechanism to intervene.
+Clear, traceable ownership for an AI system's behavior. Someone (a role, not just "the algorithm") who is answerable for its outcomes, can explain decisions, and has the authority and mechanism to intervene.
 
 ## Elements of accountability
 
@@ -27,9 +27,9 @@ Choice of model should match the risk tier from [03-ai-governance/risk-managemen
 
 Agentic systems are exactly where "who is accountable when the system acts autonomously" gets tested. Practical mechanisms:
 - Explicit approval gates before irreversible or high-stakes actions (financial transactions, external communications, production changes)
-- Scoped permissions so the agent literally cannot take actions outside its accountable owner's sign-off (least privilege — [07-agentic-ai/tool-use-and-permissions.md](../07-agentic-ai/tool-use-and-permissions.md))
+- Scoped permissions so the agent literally cannot take actions outside its accountable owner's sign-off (least privilege, [07-agentic-ai/tool-use-and-permissions.md](../07-agentic-ai/tool-use-and-permissions.md))
 - Kill switches and the ability to pause/roll back an agent's autonomous operation
-- Clear escalation: what happens when the agent is uncertain or encounters an out-of-scope situation — default should be "ask a human," not "guess and proceed"
+- Clear escalation: what happens when the agent is uncertain or encounters an out-of-scope situation; default should be "ask a human," not "guess and proceed"
 
 ## Avoiding "accountability laundering"
 
@@ -37,4 +37,4 @@ A common failure: an AI system's output is treated as if it removes human judgme
 
 ## Documentation
 
-Accountability is only real if it's traceable — tie this principle to [04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md) (model cards, action logs) and to the incident response process ([incident-response.md](../02-ai-lifecycle/incident-and-remediation.md)).
+Accountability is only real if it's traceable: tie this principle to [04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md) (model cards, action logs) and to the incident response process ([incident-response.md](../02-ai-lifecycle/incident-and-remediation.md)).

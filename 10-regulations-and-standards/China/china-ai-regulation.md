@@ -6,7 +6,7 @@ _Last reviewed: 2026-08-19. China's AI regulatory regime is binding and among th
 
 ## Approach: binding, technology-specific rules issued progressively
 
-Rather than one comprehensive AI statute, China has issued a series of binding, technology/use-case-specific regulations, generally administered by the Cyberspace Administration of China (CAC) alongside other ministries — covering recommendation algorithms, deep synthesis (deepfakes), and generative AI services specifically.
+Rather than one comprehensive AI statute, China has issued a series of binding, technology/use-case-specific regulations, generally administered by the Cyberspace Administration of China (CAC) alongside other ministries, covering recommendation algorithms, deep synthesis (deepfakes), and generative AI services specifically.
 
 ## Key regulatory instruments (by category)
 
@@ -17,7 +17,7 @@ Rather than one comprehensive AI statute, China has issued a series of binding, 
 
 ## Practical implications for AI systems operating in/serving China
 
-- Content moderation and disclosure obligations are generally more prescriptive and binding than in most other jurisdictions covered in this section — build compliance in from the start rather than retrofitting
+- Content moderation and disclosure obligations are generally more prescriptive and binding than in most other jurisdictions covered in this section: build compliance in from the start rather than retrofitting
 - Algorithm registration requirements mean transparency to the regulator (not just the public) is often a binding obligation, distinct from the EU/US approach of primarily user-facing transparency
 - Security assessment requirements for generative AI services with public-facing/opinion-forming characteristics should be factored into [02-ai-lifecycle/deployment-and-release.md](../../02-ai-lifecycle/deployment-and-release.md) planning timelines for China-facing launches
 

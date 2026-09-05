@@ -2,11 +2,11 @@
 
 *[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [good-practices](../../12-case-studies/good-practices/model-cards-and-datasheets-adoption.md)*
 
-**Context**: Industry-wide practice originating from research publications — "Model Cards for Model Reporting" (Mitchell et al., Google, 2019) and "Datasheets for Datasets" (Gebru et al., 2018/2021) — subsequently adopted as standard practice across much of the AI industry, including major model providers publishing model/system cards for significant model releases.
+**Context**: Industry-wide practice originating from research publications ("Model Cards for Model Reporting" (Mitchell et al., Google, 2019) and "Datasheets for Datasets" (Gebru et al., 2018/2021)) subsequently adopted as standard practice across much of the AI industry, including major model providers publishing model/system cards for significant model releases.
 
 **AI system**: Practice applies horizontally across traditional ML and Gen AI model releases industry-wide.
 
-**What happened**: Following the publication of structured documentation proposals for models and datasets, model cards and datasheets became a widely adopted norm — major AI labs and many enterprises now routinely publish structured documentation covering intended use, limitations, training data characteristics, and evaluation results alongside model releases, and equivalent internal documentation practices are increasingly standard for enterprise AI governance programs.
+**What happened**: Following the publication of structured documentation proposals for models and datasets, model cards and datasheets became a widely adopted norm; major AI labs and many enterprises now routinely publish structured documentation covering intended use, limitations, training data characteristics, and evaluation results alongside model releases, and equivalent internal documentation practices are increasingly standard for enterprise AI governance programs.
 
 **What worked**: A simple, low-friction, standardized documentation format lowered the barrier to actually producing and consuming AI documentation, compared to bespoke, inconsistent write-ups. Standardization also made it easier for downstream users, auditors, and regulators to know what to expect and where to look, and for procurement/governance teams to compare systems consistently.
 

@@ -24,7 +24,7 @@ Different, sometimes mutually incompatible, formal definitions exist:
 - **Individual fairness**: similar individuals receive similar outcomes
 - **Counterfactual fairness**: outcome unchanged if a protected attribute were different, all else equal
 
-Choice of definition should be a deliberate, documented decision involving legal/compliance and domain experts — not a default left to the engineering team, since definitions can conflict.
+Choice of definition should be a deliberate, documented decision involving legal/compliance and domain experts. Not a default left to the engineering team, since definitions can conflict.
 
 ## Mitigation approaches
 

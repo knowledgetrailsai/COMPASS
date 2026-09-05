@@ -18,7 +18,7 @@ Implements the fairness principle ([05-responsible-ai-principles/fairness-and-bi
 2. Ensure sufficient subgroup sample size for statistically meaningful testing — flag when a subgroup is too small to test reliably rather than silently skipping it
 3. Compute chosen metric(s) per the fairness definition selected in [02-ai-lifecycle/requirements-and-design.md](../../02-ai-lifecycle/requirements-and-design.md)
 4. Compare against the pre-defined acceptability threshold
-5. For Gen AI: structured probe testing — vary only a demographic detail in otherwise-identical prompts and compare outputs for stereotyping or differential treatment
+5. For Gen AI: structured probe testing; vary only a demographic detail in otherwise-identical prompts and compare outputs for stereotyping or differential treatment
 
 ## Mitigation techniques
 

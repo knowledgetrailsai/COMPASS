@@ -18,12 +18,12 @@ Implementation detail supporting [02-ai-lifecycle/monitoring-and-observability.m
 
 ## Agentic-specific monitoring
 
-See [07-agentic-ai/agent-observability.md](../../07-agentic-ai/agent-observability.md) for the full treatment — action-level telemetry, permission-boundary events, escalation tracking.
+See [07-agentic-ai/agent-observability.md](../../07-agentic-ai/agent-observability.md) for the full treatment: action-level telemetry, permission-boundary events, escalation tracking.
 
 ## Alerting design
 
 - Threshold-based alerts tied to pre-defined acceptability bounds (set during [02-ai-lifecycle/deployment-and-release.md](../../02-ai-lifecycle/deployment-and-release.md)), not arbitrary statistical anomaly thresholds alone
-- Route alerts to a named, accountable on-call owner — an alert no one is responsible for acting on isn't a control
+- Route alerts to a named, accountable on-call owner. An alert no one is responsible for acting on isn't a control
 - Tiered severity so low-signal noise doesn't drown out genuinely urgent alerts
 
 ## Sampling-based human review

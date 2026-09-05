@@ -16,7 +16,7 @@ Cross-functional representatives (product, engineering, legal, security, privacy
 The named, accountable individual for a specific AI system's behavior — responsible for ensuring lifecycle checkpoints are met, documentation is current, and monitoring is active. Every Tier 1–2 system must have one.
 
 ### Model/Technical Reviewer
-Provides independent technical review of evaluation results for Tier 1 systems — should not be the same person who built the system, to avoid confirmation bias.
+Provides independent technical review of evaluation results for Tier 1 systems; should not be the same person who built the system, to avoid confirmation bias.
 
 ### Privacy/Data Protection Officer
 Reviews DPIAs, data handling practices, and privacy-by-design compliance for AI systems processing personal data.

@@ -4,7 +4,7 @@
 
 ## Why this section exists
 
-Responsible AI requirements aren't uniform — they change significantly depending on where AI is deployed. This section shows how the rest of the repository's chain (regulation → risk → lifecycle → controls → testing → evidence) combines for a specific industry, so a team in that industry can go straight to what matters most for them rather than re-deriving it from first principles.
+Responsible AI requirements aren't uniform; they change significantly depending on where AI is deployed. This section shows how the rest of the repository's chain (regulation → risk → lifecycle → controls → testing → evidence) combines for a specific industry, so a team in that industry can go straight to what matters most for them rather than re-deriving it from first principles.
 
 ## Worked pattern (applies to every file in this section)
 
@@ -36,4 +36,4 @@ Evidence and assurance expectations
 | Public sector | [public-sector.md](public-sector.md) |
 | Critical infrastructure | [critical-infrastructure.md](critical-infrastructure.md) |
 
-Each file references the relevant horizontal principles (05), lifecycle (02), controls (08), and regulation (10) sections rather than duplicating that content — use this section to find the sector-specific *emphasis and additions*, not a standalone treatment.
+Each file references the relevant horizontal principles (05), lifecycle (02), controls (08), and regulation (10) sections rather than duplicating that content. Use this section to find the sector-specific *emphasis and additions*, not a standalone treatment.

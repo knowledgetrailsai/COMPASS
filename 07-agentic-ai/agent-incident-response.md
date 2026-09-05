@@ -9,8 +9,8 @@
 ## Immediate containment priorities
 
 1. **Stop further action, not just alert**: the first response to a suspected agentic incident should be pausing/halting the specific agent (or agent type/deployment) via the kill switch ([07-agentic-ai/autonomy-and-control.md](autonomy-and-control.md)) — an agent that's actively misbehaving continues causing harm every additional minute it runs.
-2. **Preserve action logs before any rollback**: agent action logs are the primary evidence for root-causing what happened — ensure they're captured/exported before any cleanup or rollback activity that might affect logging systems.
-3. **Assess in-flight and completed actions**: determine what the agent already did (not just what it was about to do) — irreversible actions taken before containment need separate remediation from the underlying cause.
+2. **Preserve action logs before any rollback**: agent action logs are the primary evidence for root-causing what happened, ensure they're captured/exported before any cleanup or rollback activity that might affect logging systems.
+3. **Assess in-flight and completed actions**: determine what the agent already did (not just what it was about to do); irreversible actions taken before containment need separate remediation from the underlying cause.
 4. **Revoke/rotate credentials if compromise is suspected**: if the incident involves suspected prompt injection or credential misuse, treat it as a security incident requiring credential rotation, not just a behavior bug.
 
 ## Triage questions specific to agentic incidents

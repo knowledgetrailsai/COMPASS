@@ -18,14 +18,14 @@ _Last reviewed: 2026-08-19. Regulation in this space is moving quickly — verif
 
 ## Cross-cutting observations
 
-- **Risk-tiering is the dominant regulatory pattern** — the EU AI Act's approach (unacceptable/high/limited/minimal risk) has influenced how other jurisdictions and frameworks structure obligations, including this repository's own tiering in [03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md).
-- **Existing data protection law is doing a lot of the current binding work** on AI even where no AI-specific law exists yet — GDPR-style and DPDP-style obligations apply directly to AI systems processing personal data regardless of whether an "AI law" exists.
-- **Deadlines are moving, not disappearing** — the EU AI Act postponement is a simplification/timeline adjustment, not a repeal of obligations; treat regulatory delay as a planning input, not a reason to deprioritize compliance work.
+- **Risk-tiering is the dominant regulatory pattern**: the EU AI Act's approach (unacceptable/high/limited/minimal risk) has influenced how other jurisdictions and frameworks structure obligations, including this repository's own tiering in [03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md).
+- **Existing data protection law is doing a lot of the current binding work** on AI even where no AI-specific law exists yet; GDPR-style and DPDP-style obligations apply directly to AI systems processing personal data regardless of whether an "AI law" exists.
+- **Deadlines are moving, not disappearing**: the EU AI Act postponement is a simplification/timeline adjustment, not a repeal of obligations; treat regulatory delay as a planning input, not a reason to deprioritize compliance work.
 - **Multinational organizations should design to the strictest applicable regime** (typically the EU AI Act for risk-tiering rigor, DPDP/GDPR-style rules for data handling) rather than maintaining jurisdiction-by-jurisdiction compliance variants where feasible.
 
 ## Related
 
-- [regulatory-comparison.md](regulatory-comparison.md) — deeper side-by-side comparison
+- [regulatory-comparison.md](regulatory-comparison.md), deeper side-by-side comparison
 - [11-sector-specific-ai](../11-sector-specific-ai/README.md) — how sector regulation layers on top of these horizontal laws
 
 Sources:

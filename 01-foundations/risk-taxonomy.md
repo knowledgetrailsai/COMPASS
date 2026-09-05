@@ -14,7 +14,7 @@ Model generates plausible but false or unverifiable content, presented with unwa
 Unauthorized collection, use, retention, or leakage of personal data — including model memorization of training data, PII surfacing in RAG context or outputs, and re-identification risk.
 
 ## 4. Security risk
-Adversarial manipulation of the system: prompt injection, jailbreaks, data poisoning, model extraction, adversarial examples, and — for agentic systems — exploitation of tool access to take unauthorized actions.
+Adversarial manipulation of the system: prompt injection, jailbreaks, data poisoning, model extraction, adversarial examples, and (for agentic systems) exploitation of tool access to take unauthorized actions.
 
 ## 5. Misuse and dual-use risk
 Legitimate capability used for harmful purposes: deepfakes, disinformation, fraud, CSAM, weapons-related information, automated harassment.

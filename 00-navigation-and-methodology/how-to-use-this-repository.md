@@ -4,19 +4,19 @@
 
 ## If you are...
 
-**New to Responsible AI** — start with [01-foundations/what-is-responsible-ai.md](../01-foundations/what-is-responsible-ai.md), then [01-foundations/responsible-ai-vs-ai-ethics.md](../01-foundations/responsible-ai-vs-ai-ethics.md), then [01-foundations/principles.md](../01-foundations/principles.md).
+**New to Responsible AI**, start with [01-foundations/what-is-responsible-ai.md](../01-foundations/what-is-responsible-ai.md), then [01-foundations/responsible-ai-vs-ai-ethics.md](../01-foundations/responsible-ai-vs-ai-ethics.md), then [01-foundations/principles.md](../01-foundations/principles.md).
 
 **Building a Gen AI or Agentic AI feature** — read the relevant technology section (06 or 07) alongside [02-ai-lifecycle/lifecycle-overview.md](../02-ai-lifecycle/lifecycle-overview.md) for the checkpoints you'll hit, and use [13-implementation-playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md) as your working checklist.
 
-**Reviewing/approving an AI use case (governance role)** — go to [03-ai-governance](../03-ai-governance/AI-assurance.md) for process, [04-ai-assurance](../04-ai-assurance/assurance-overview.md) for what evidence to demand, and [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md) for applicable obligations.
+**Reviewing/approving an AI use case (governance role)**, go to [03-ai-governance](../03-ai-governance/AI-assurance.md) for process, [04-ai-assurance](../04-ai-assurance/assurance-overview.md) for what evidence to demand, and [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md) for applicable obligations.
 
-**In legal/compliance** — [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md) is your primary section; cross-reference [11-sector-specific-ai](../11-sector-specific-ai/README.md) for industry-specific obligations.
+**In legal/compliance**; [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md) is your primary section; cross-reference [11-sector-specific-ai](../11-sector-specific-ai/README.md) for industry-specific obligations.
 
 **Selecting tools/vendors** — [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md) has the comparison matrices; [13-implementation-playbooks/vendor-third-party-ai-assessment.md](../13-implementation-playbooks/vendor-third-party-ai-assessment.md) has the assessment process.
 
-**Investigating an incident or researching precedent** — [12-case-studies](../12-case-studies/case-study-template.md), structured by failure type, each following a standard template so cases are comparable.
+**Investigating an incident or researching precedent**; [12-case-studies](../12-case-studies/case-study-template.md), structured by failure type, each following a standard template so cases are comparable.
 
-**Approaching from a security angle** — start at [14-ai-security](../14-ai-security/README.md) rather than hunting through 05/06/07/08/09; it's the consolidated threat-model-to-response view and links out to the technology-specific depth.
+**Approaching from a security angle**, start at [14-ai-security](../14-ai-security/README.md) rather than hunting through 05/06/07/08/09; it's the consolidated threat-model-to-response view and links out to the technology-specific depth.
 
 ## Navigation principles
 
@@ -27,4 +27,4 @@
 
 ## Keeping this current
 
-See [source-and-evidence-policy.md](source-and-evidence-policy.md) for how claims should be sourced, and the root [CONTRIBUTING.md](../CONTRIBUTING.md) for the update process. Regulatory and tooling content dates quickly — check the `_Last reviewed_` line at the top of any file in sections 09 and 10 before relying on it for a decision.
+See [source-and-evidence-policy.md](source-and-evidence-policy.md) for how claims should be sourced, and the root [CONTRIBUTING.md](../CONTRIBUTING.md) for the update process. Regulatory and tooling content dates quickly, check the `_Last reviewed_` line at the top of any file in sections 09 and 10 before relying on it for a decision.

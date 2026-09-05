@@ -19,11 +19,11 @@ A consolidated security view over content already detailed in [06-generative-ai]
 
 ## The OWASP LLM Top 10 mapping
 
-See [09-tools-and-frameworks/OWASP-llm-top10.md](../09-tools-and-frameworks/OWASP-llm-top10.md) for the full mapping of this threat catalog to the standard OWASP categories — use that file as the canonical checklist during security review.
+See [09-tools-and-frameworks/OWASP-llm-top10.md](../09-tools-and-frameworks/OWASP-llm-top10.md) for the full mapping of this threat catalog to the standard OWASP categories; use that file as the canonical checklist during security review.
 
 ## Defense-in-depth summary
 
-Full layered control detail lives in [06-generative-ai/prompt-and-output-safety.md](../06-generative-ai/prompt-and-output-safety.md) and [08-controls-and-techniques/guardrails-and-controls.md](../08-controls-and-techniques/guardrails-and-controls.md): input layer, instruction layer, model/inference layer, output layer, human layer. No single layer is sufficient — a successful attack at one layer should be contained by the next.
+Full layered control detail lives in [06-generative-ai/prompt-and-output-safety.md](../06-generative-ai/prompt-and-output-safety.md) and [08-controls-and-techniques/guardrails-and-controls.md](../08-controls-and-techniques/guardrails-and-controls.md): input layer, instruction layer, model/inference layer, output layer, human layer. No single layer is sufficient. A successful attack at one layer should be contained by the next.
 
 ## RAG-specific security
 
@@ -31,4 +31,4 @@ Access control enforced at retrieval time, not just at the source system, is the
 
 ## Testing
 
-[security-testing-program.md](security-testing-program.md); tools: Garak, promptfoo (red-team mode) — see [09-tools-and-frameworks/security-tools.md](../09-tools-and-frameworks/security-tools.md).
+[security-testing-program.md](security-testing-program.md); tools: Garak, promptfoo (red-team mode), see [09-tools-and-frameworks/security-tools.md](../09-tools-and-frameworks/security-tools.md).

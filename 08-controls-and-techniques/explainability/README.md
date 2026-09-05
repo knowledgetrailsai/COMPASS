@@ -13,7 +13,7 @@ Implements [05-responsible-ai-principles/transparency-and-explainability.md](../
 
 ## Inherently interpretable models
 
-For high-stakes decisions, consider whether a simpler, inherently interpretable model (decision trees, linear/logistic regression, generalized additive models) meets the performance bar — avoiding the need for post-hoc explanation entirely is often preferable to explaining a black box, per [02-ai-lifecycle/requirements-and-design.md](../../02-ai-lifecycle/requirements-and-design.md).
+For high-stakes decisions, consider whether a simpler, inherently interpretable model (decision trees, linear/logistic regression, generalized additive models) meets the performance bar. Avoiding the need for post-hoc explanation entirely is often preferable to explaining a black box, per [02-ai-lifecycle/requirements-and-design.md](../../02-ai-lifecycle/requirements-and-design.md).
 
 ## Counterfactual explanations
 "What would need to change for a different outcome" — often the most actionable explanation format for an affected individual (e.g., "if income were $X higher, this application would be approved"), and increasingly a regulatory expectation for automated decisions with legal/significant effect.
@@ -21,8 +21,8 @@ For high-stakes decisions, consider whether a simpler, inherently interpretable 
 ## Gen AI explainability techniques
 
 - **Citation/attribution**: surfacing the specific retrieved source(s) an answer draws from (RAG)
-- **Chain-of-thought / reasoning traces**: surfacing intermediate reasoning steps — useful for debugging, with the caveat (per [07-agentic-ai/planning-and-reasoning-risk.md](../../07-agentic-ai/planning-and-reasoning-risk.md)) that stated reasoning isn't guaranteed faithful to the actual generation process
-- **Attention visualization**: for some architectures, visualizing which input tokens most influenced output — a research-stage rather than production-standard technique for most applications
+- **Chain-of-thought / reasoning traces**: surfacing intermediate reasoning steps, useful for debugging, with the caveat (per [07-agentic-ai/planning-and-reasoning-risk.md](../../07-agentic-ai/planning-and-reasoning-risk.md)) that stated reasoning isn't guaranteed faithful to the actual generation process
+- **Attention visualization**: for some architectures, visualizing which input tokens most influenced output: a research-stage rather than production-standard technique for most applications
 
 ## Choosing a technique
 

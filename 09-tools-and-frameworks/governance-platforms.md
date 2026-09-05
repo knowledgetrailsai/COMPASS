@@ -13,11 +13,11 @@ Software supporting the organizational processes in [03-ai-governance](../03-ai-
 - **Policy-as-code / automated checks**: where feasible, automated verification of policy compliance (e.g., flagging a system as non-compliant if required documentation is missing) rather than relying purely on manual review
 - **Evidence repository**: centralized, tamper-evident storage for assurance artifacts ([04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md))
 - **Reporting**: dashboards and exportable reports for governance board and leadership reporting ([04-ai-assurance/assurance-reporting.md](../04-ai-assurance/assurance-reporting.md))
-- **Regulatory mapping**: built-in mapping of requirements to specific regulations (EU AI Act, etc.) — useful as a starting point, but verify currency against [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md) rather than trusting a vendor's regulatory content as legal authority
+- **Regulatory mapping**: built-in mapping of requirements to specific regulations (EU AI Act, etc.), useful as a starting point, but verify currency against [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md) rather than trusting a vendor's regulatory content as legal authority
 
 ## Build vs. buy
 
-Smaller organizations or those early in AI governance maturity often start with a well-structured shared document/spreadsheet-based inventory and lightweight workflow tooling (ticketing system, shared review templates) before investing in a dedicated platform — the discipline of consistent risk tiering and documentation matters more initially than the tooling sophistication. Consider a dedicated platform once volume of AI use cases makes manual tracking unreliable.
+Smaller organizations or those early in AI governance maturity often start with a well-structured shared document/spreadsheet-based inventory and lightweight workflow tooling (ticketing system, shared review templates) before investing in a dedicated platform: the discipline of consistent risk tiering and documentation matters more initially than the tooling sophistication. Consider a dedicated platform once volume of AI use cases makes manual tracking unreliable.
 
 ## Selection considerations
 

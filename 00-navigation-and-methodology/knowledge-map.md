@@ -2,7 +2,7 @@
 
 *[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/framework-map.md)*
 
-This repository is organized as a **Responsible AI control plane**, not a flat encyclopedia. Content flows through a consistent chain:
+Rather than functioning as a flat encyclopedia, this repository is organized as a **Responsible AI control plane**: content flows through a consistent chain from principle to proof:
 
 ```
 PRINCIPLES  →  RISKS  →  REQUIREMENTS  →  CONTROLS  →  TEST/EVALUATE  →  EVIDENCE  →  ASSURANCE
@@ -12,11 +12,11 @@ PRINCIPLES  →  RISKS  →  REQUIREMENTS  →  CONTROLS  →  TEST/EVALUATE  �
 ```
 
 Applied across two cross-cutting dimensions:
-- **AI Lifecycle** (02) — where in the build/run process a control applies
+- **AI Lifecycle** (02): where in the build/run process a control applies
 - **AI Type** (06 Generative AI, 07 Agentic AI) — technology-specific risk extensions of the core model
 
 And grounded in:
-- **Who/Where** — stakeholders (01), jurisdictions and sectors (10, 11)
+- **Who/Where**: stakeholders (01), jurisdictions and sectors (10, 11)
 
 ## The four questions this repository answers
 
@@ -49,7 +49,7 @@ And grounded in:
 
 ## Two other ways to navigate
 
-This table organizes by *section*. If you're starting from a *topic* instead (e.g. "privacy," "security," "agentic AI risk") and don't know which section(s) it touches, use [topic-index.md](topic-index.md) — it groups files across sections by theme. If you just want to scan every file that exists, [../INDEX.md](../INDEX.md) is a flat list.
+This table organizes by *section*. If you're starting from a *topic* instead (e.g. "privacy," "security," "agentic AI risk") and don't know which section(s) it touches, use [topic-index.md](topic-index.md): it groups files across sections by theme. If you just want to scan every file that exists, [../INDEX.md](../INDEX.md) is a flat list.
 
 ## Example: tracing one risk through the full chain
 

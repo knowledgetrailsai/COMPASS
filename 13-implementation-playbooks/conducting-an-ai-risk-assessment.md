@@ -6,7 +6,7 @@ Working, step-by-step version of [04-ai-assurance/AI-risk-assessment.md](../04-a
 
 ## Step 1: Describe the system
 - Purpose, intended use, out-of-scope use
-- Technology type (traditional ML / Gen AI / Agentic AI) — pull in the relevant section (05/06/07)
+- Technology type (traditional ML / Gen AI / Agentic AI): pull in the relevant section (05/06/07)
 - Data used, including any RAG corpus or fine-tuning data
 - Autonomy level if agentic ([07-agentic-ai/autonomy-and-control.md](../07-agentic-ai/autonomy-and-control.md))
 

@@ -47,4 +47,4 @@ Every case study in this section should follow this structure so cases are compa
 
 ## Using case studies
 
-Reference these during [02-ai-lifecycle/requirements-and-design.md](../02-ai-lifecycle/requirements-and-design.md) (to inform risk identification) and [04-ai-assurance/red-teaming.md](../04-ai-assurance/red-teaming.md) (to inform test scenarios) — real precedent is often more persuasive to stakeholders than an abstract risk description.
+Reference these during [02-ai-lifecycle/requirements-and-design.md](../02-ai-lifecycle/requirements-and-design.md) (to inform risk identification) and [04-ai-assurance/red-teaming.md](../04-ai-assurance/red-teaming.md) (to inform test scenarios). Real precedent is often more persuasive to stakeholders than an abstract risk description.

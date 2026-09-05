@@ -2,7 +2,7 @@
 
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [Canada](../../10-regulations-and-standards/Canada/canada-ai-regulation.md)*
 
-_Last reviewed: 2026-08-19 — Canada's federal AI-specific legislative status has been in flux; confirm current status of AIDA/Bill C-27 directly before relying on it._
+_Last reviewed: 2026-08-19; Canada's federal AI-specific legislative status has been in flux; confirm current status of AIDA/Bill C-27 directly before relying on it._
 
 ## Federal AI-specific legislation status
 
@@ -16,9 +16,9 @@ The Artificial Intelligence and Data Act (AIDA) was proposed as part of Bill C-2
 
 ## Practical guidance
 
-Given the uncertainty around AIDA specifically, anchor Canadian compliance planning to: (1) PIPEDA/provincial privacy law as the stable binding baseline, (2) Quebec Law 25's automated-decision-making provisions as the most directly AI-relevant binding requirement currently in force, and (3) sector regulator guidance for regulated industries — treating AIDA as a "monitor for developments" item rather than a current compliance requirement until its status is confirmed.
+Given the uncertainty around AIDA specifically, anchor Canadian compliance planning to: (1) PIPEDA/provincial privacy law as the stable binding baseline, (2) Quebec Law 25's automated-decision-making provisions as the most directly AI-relevant binding requirement currently in force, and (3) sector regulator guidance for regulated industries; treating AIDA as a "monitor for developments" item rather than a current compliance requirement until its status is confirmed.
 
 ## Related
 
 - [global-overview.md](../global-overview.md)
-- [05-responsible-ai-principles/transparency-and-explainability.md](../../05-responsible-ai-principles/transparency-and-explainability.md) — relevant to Quebec Law 25's explanation rights
+- [05-responsible-ai-principles/transparency-and-explainability.md](../../05-responsible-ai-principles/transparency-and-explainability.md), relevant to Quebec Law 25's explanation rights

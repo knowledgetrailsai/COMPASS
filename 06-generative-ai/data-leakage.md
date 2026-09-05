@@ -11,7 +11,7 @@ Large models can memorize and verbatim-reproduce portions of training data, incl
 The most common enterprise leakage vector: a retrieval system surfaces content from documents the querying user isn't authorized to see, because access control was enforced at the source system but not re-enforced at retrieval/query time. See [RAG-governance.md](RAG-governance.md).
 
 ### Prompt/conversation leakage
-User prompts and conversation history — which can contain sensitive personal or business data — get logged, retained, and potentially exposed via debugging tools, analytics pipelines, or (if used for model improvement) future model behavior.
+User prompts and conversation history (which can contain sensitive personal or business data) get logged, retained, and potentially exposed via debugging tools, analytics pipelines, or (if used for model improvement) future model behavior.
 
 ### System prompt leakage
 Adversarial prompting extracts the system prompt/instructions, which can reveal proprietary business logic, guardrail configuration (helping an attacker evade it), or confidential context.

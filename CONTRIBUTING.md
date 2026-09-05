@@ -13,7 +13,7 @@ This repository is a living reference. Responsible AI practice, tooling, and reg
 
 - Use plain Markdown, second-level (`##`) and third-level (`###`) headings for structure.
 - Prefer tables for comparisons (jurisdictions, tools, techniques).
-- Keep prose practical and actionable — this is a working reference, not a whitepaper.
+- Keep prose practical and actionable; this is a working reference, not a whitepaper.
 
 ## Review
 

@@ -30,11 +30,11 @@ See [10-regulations-and-standards/EU/eu-ai-act.md](../10-regulations-and-standar
 3. Conduct the assessment (self or third-party, per the regime's requirement)
 4. Produce a conformity declaration / certificate
 5. Register the system where required (e.g., an EU database for certain high-risk categories)
-6. Maintain conformity post-market — re-assess on material system changes
+6. Maintain conformity post-market, re-assess on material system changes
 
 ## Relationship to other assurance activities
 
-Conformity assessment is the most formal, regulation-anchored form of assurance in this section — it typically requires the outputs of [AI-impact-assessment.md](AI-impact-assessment.md), [model-validation.md](model-validation.md), and [evidence-and-traceability.md](evidence-and-traceability.md) as inputs, rather than being a standalone exercise.
+Conformity assessment is the most formal, regulation-anchored form of assurance in this section; it typically requires the outputs of [AI-impact-assessment.md](AI-impact-assessment.md), [model-validation.md](model-validation.md), and [evidence-and-traceability.md](evidence-and-traceability.md) as inputs, rather than being a standalone exercise.
 
 ## Practical note
 

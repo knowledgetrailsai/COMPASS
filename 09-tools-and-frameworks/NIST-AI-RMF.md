@@ -28,7 +28,7 @@ A voluntary framework helping organizations manage AI risk across the system lif
 
 ## Generative AI Profile
 
-NIST has published a Generative AI-specific profile supplementing the core RMF with risks particular to generative systems (content provenance, confabulation/hallucination, and others) — cross-reference against [06-generative-ai](../06-generative-ai/content-provenance.md) when applying it.
+NIST has published a Generative AI-specific profile supplementing the core RMF with risks particular to generative systems (content provenance, confabulation/hallucination, and others); cross-reference against [06-generative-ai](../06-generative-ai/content-provenance.md) when applying it.
 
 ## When to use this framework
 
@@ -36,4 +36,4 @@ Good fit for organizations wanting a structured internal risk process without pu
 
 ## Not binding law
 
-The AI RMF is voluntary guidance, not a legal requirement — see [00-navigation-and-methodology/terminology-and-glossary.md](../00-navigation-and-methodology/terminology-and-glossary.md) for why this distinction matters. Some US federal agency contexts do reference or require RMF alignment; check current applicable requirements for your specific context.
+The AI RMF is voluntary guidance, not a legal requirement. See [00-navigation-and-methodology/terminology-and-glossary.md](../00-navigation-and-methodology/terminology-and-glossary.md) for why this distinction matters. Some US federal agency contexts do reference or require RMF alignment; check current applicable requirements for your specific context.

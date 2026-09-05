@@ -26,7 +26,7 @@ Threat-models AI-specific attack surfaces (prompt injection, model extraction, t
 Set risk appetite, allocate resources for RAI tooling and review capacity, and are ultimately accountable for organizational AI incidents.
 
 ## End users and affected individuals
-Not "owners" of the process, but the reason it exists — their right to disclosure, explanation, and recourse should shape every checkpoint above.
+Not "owners" of the process, but the reason it exists; their right to disclosure, explanation, and recourse should shape every checkpoint above.
 
 ## RACI snapshot (illustrative)
 

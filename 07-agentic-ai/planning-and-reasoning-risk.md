@@ -4,7 +4,7 @@
 
 ## Why planning introduces distinct risk
 
-Agents that plan — decompose a goal into steps, adapt the plan as they go — introduce failure modes that don't exist in single-turn generation: the plan itself can be wrong, reasonable-looking, and hard to catch before execution.
+Agents that plan (decompose a goal into steps, adapt the plan as they go) introduce failure modes that don't exist in single-turn generation: the plan itself can be wrong, reasonable-looking, and hard to catch before execution.
 
 ## Specific risks
 
@@ -25,10 +25,10 @@ An agent proceeding with a specific multi-step plan when the situation is genuin
 
 ## Mitigations
 
-- **Explicit plan review for high-stakes tasks**: surface the agent's plan for human review before execution begins, not just the final result — particularly for L0/L1 autonomy levels (see [autonomy-and-control.md](autonomy-and-control.md))
+- **Explicit plan review for high-stakes tasks**: surface the agent's plan for human review before execution begins, not just the final result, particularly for L0/L1 autonomy levels (see [autonomy-and-control.md](autonomy-and-control.md))
 - **Bounded planning horizons**: cap how far ahead an agent plans/acts before a checkpoint, reducing the room for drift
 - **Goal re-anchoring**: periodically re-verify the agent's current trajectory against the original stated goal, either through the agent's own self-check or an external monitor
-- **Outcome-based, not just process-based, evaluation**: verify actual results match intent, don't rely solely on the plausibility of stated reasoning — see [agentic-evaluation.md](agentic-evaluation.md)
+- **Outcome-based, not just process-based, evaluation**: verify actual results match intent, don't rely solely on the plausibility of stated reasoning: see [agentic-evaluation.md](agentic-evaluation.md)
 - **Adversarial testing for specification gaming**: during evaluation, deliberately look for technically-compliant-but-intent-violating behavior, since it often looks like success on narrow metrics
 
 ## Related

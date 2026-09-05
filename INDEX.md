@@ -1,6 +1,6 @@
 # Full Index
 
-Every file in this repository, listed as a clickable link. Generated to complement [00-navigation-and-methodology/knowledge-map.md](00-navigation-and-methodology/knowledge-map.md) (the conceptual model) and [00-navigation-and-methodology/topic-index.md](00-navigation-and-methodology/topic-index.md) (the cross-section topic map) — use whichever navigation style fits the question you're starting with.
+Every file in this repository, listed as a clickable link. Generated to complement [00-navigation-and-methodology/knowledge-map.md](00-navigation-and-methodology/knowledge-map.md) (the conceptual model) and [00-navigation-and-methodology/topic-index.md](00-navigation-and-methodology/topic-index.md) (the cross-section topic map). Use whichever navigation style fits the question you're starting with.
 
 ## 00 · Navigation and Methodology
 

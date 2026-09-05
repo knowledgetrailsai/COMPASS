@@ -6,12 +6,12 @@ _Type: Framework (intergovernmental, non-binding — adopted by UNESCO member st
 
 ## What it is
 
-The first global normative instrument on AI ethics, adopted by UNESCO member states in 2021. Broader in scope than most technical frameworks — explicitly ethics-first, emphasizing human rights, human dignity, environmental sustainability, and diversity/inclusiveness alongside the more familiar safety/fairness/transparency principles.
+The first global normative instrument on AI ethics, adopted by UNESCO member states in 2021. Broader in scope than most technical frameworks: explicitly ethics-first, emphasizing human rights, human dignity, environmental sustainability, and diversity/inclusiveness alongside the more familiar safety/fairness/transparency principles.
 
 ## Core values and principles (summary)
 
 - Human rights and human dignity
-- Environmental and ecosystem flourishing (explicit sustainability emphasis — see [01-foundations/human-rights-and-ai.md](../01-foundations/human-rights-and-ai.md) and [05-responsible-ai-principles/sustainability.md](../05-responsible-ai-principles/sustainability.md))
+- Environmental and ecosystem flourishing (explicit sustainability emphasis. See [01-foundations/human-rights-and-ai.md](../01-foundations/human-rights-and-ai.md) and [05-responsible-ai-principles/sustainability.md](../05-responsible-ai-principles/sustainability.md))
 - Ensuring diversity and inclusiveness
 - Living in peaceful, just, and interconnected societies
 
@@ -27,7 +27,7 @@ Most relevant for organizations operating internationally, engaging with public-
 
 ## Non-binding nature
 
-Like the OECD principles, this is a normative/aspirational instrument member states committed to, not directly enforceable law — see [00-navigation-and-methodology/terminology-and-glossary.md](../00-navigation-and-methodology/terminology-and-glossary.md).
+Like the OECD principles, this is a normative/aspirational instrument member states committed to, not directly enforceable law, see [00-navigation-and-methodology/terminology-and-glossary.md](../00-navigation-and-methodology/terminology-and-glossary.md).
 
 ## Related
 

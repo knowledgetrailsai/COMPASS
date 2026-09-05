@@ -12,7 +12,7 @@
 
 ## Agentic observability
 
-Purpose-built agent tracing tools are an emerging category — capturing full action/tool-call sequences, decision points, and outcomes per [07-agentic-ai/agent-observability.md](../07-agentic-ai/agent-observability.md). Where dedicated tooling is immature for your stack, a well-structured custom logging schema (action, parameters, result, timestamp, triggering context, permission check outcome) into your existing observability platform is a reliable fallback.
+Purpose-built agent tracing tools are an emerging category: capturing full action/tool-call sequences, decision points, and outcomes per [07-agentic-ai/agent-observability.md](../07-agentic-ai/agent-observability.md). Where dedicated tooling is immature for your stack, a well-structured custom logging schema (action, parameters, result, timestamp, triggering context, permission check outcome) into your existing observability platform is a reliable fallback.
 
 ## Drift and quality monitoring
 
@@ -23,7 +23,7 @@ Purpose-built agent tracing tools are an emerging category — capturing full ac
 
 ## Integration principle
 
-AI observability should extend, not replace, standard application observability (APM, logging, alerting) — route AI-specific signals into the same dashboards and on-call systems your engineering org already uses, rather than building a parallel, siloed AI monitoring stack no one checks regularly.
+AI observability should extend, not replace, standard application observability (APM, logging, alerting). Route AI-specific signals into the same dashboards and on-call systems your engineering org already uses, rather than building a parallel, siloed AI monitoring stack no one checks regularly.
 
 ## What "good" observability looks like
 

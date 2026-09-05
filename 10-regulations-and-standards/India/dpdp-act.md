@@ -2,7 +2,7 @@
 
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [India](../../10-regulations-and-standards/India/dpdp-act.md)*
 
-_Type: Law (Digital Personal Data Protection Act, 2023 + Digital Personal Data Protection Rules, 2025). Last reviewed: 2026-08-19 — confirm current compliance deadlines directly, as the rules include a phased implementation timeline._
+_Type: Law (Digital Personal Data Protection Act, 2023 + Digital Personal Data Protection Rules, 2025). Last reviewed: 2026-08-19: confirm current compliance deadlines directly, as the rules include a phased implementation timeline._
 
 ## What it is
 
@@ -12,11 +12,11 @@ India's primary data protection law — not an AI-specific statute, but the main
 
 - **Consent and lawful basis**: processing personal data (including data used for training, fine-tuning, or RAG corpora, and data collected through AI-powered products) generally requires clear, specific consent or falls under a "legitimate use" exception defined in the Act
 - **Purpose limitation and data minimization**: data collected for one purpose (e.g., customer support) shouldn't be repurposed for AI training without a valid basis
-- **Data Principal rights**: individuals have rights to access, correction, and erasure of their personal data — relevant to what's stored in training sets, RAG corpora, and agent memory (see [07-agentic-ai/memory-and-state-risk.md](../../07-agentic-ai/memory-and-state-risk.md))
-- **Significant Data Fiduciary obligations**: entities processing data at scale or with higher-risk characteristics face additional obligations, potentially including impact assessments and audits — relevant to high-volume consumer-facing AI products
+- **Data Principal rights**: individuals have rights to access, correction, and erasure of their personal data: relevant to what's stored in training sets, RAG corpora, and agent memory (see [07-agentic-ai/memory-and-state-risk.md](../../07-agentic-ai/memory-and-state-risk.md))
+- **Significant Data Fiduciary obligations**: entities processing data at scale or with higher-risk characteristics face additional obligations, potentially including impact assessments and audits, relevant to high-volume consumer-facing AI products
 - **Children's data**: heightened consent and processing restrictions for data relating to minors, relevant to any AI product accessible to or targeting younger users
 - **Cross-border data transfer**: the Act empowers the government to restrict transfers to certain jurisdictions — relevant to any AI architecture relying on foreign-hosted model APIs
-- **Breach notification**: obligations to notify the Data Protection Board and affected individuals of personal data breaches — extends to AI-system-related data leakage incidents (see [06-generative-ai/data-leakage.md](../../06-generative-ai/data-leakage.md))
+- **Breach notification**: obligations to notify the Data Protection Board and affected individuals of personal data breaches, extends to AI-system-related data leakage incidents (see [06-generative-ai/data-leakage.md](../../06-generative-ai/data-leakage.md))
 
 ## Practical implications for AI systems
 
@@ -26,7 +26,7 @@ India's primary data protection law — not an AI-specific statute, but the main
 
 ## Relationship to sector regulation
 
-RBI (banking/NBFC), SEBI (securities), and IRDAI (insurance) each layer sector-specific data and AI-use guidance on top of the DPDP Act baseline — see [10-regulations-and-standards/India/sectoral-regulation.md](sectoral-regulation.md) and [11-sector-specific-ai](../../11-sector-specific-ai/README.md).
+RBI (banking/NBFC), SEBI (securities), and IRDAI (insurance) each layer sector-specific data and AI-use guidance on top of the DPDP Act baseline; see [10-regulations-and-standards/India/sectoral-regulation.md](sectoral-regulation.md) and [11-sector-specific-ai](../../11-sector-specific-ai/README.md).
 
 ## Status note
 

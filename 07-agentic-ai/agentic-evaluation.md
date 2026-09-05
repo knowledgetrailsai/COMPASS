@@ -18,7 +18,7 @@ Did the agent stay within its scoped tool/action permissions across the full tas
 When a tool call fails, returns unexpected data, or the environment doesn't match the agent's plan, does the agent notice and recover sensibly (retry, ask for help, halt) rather than proceeding on bad assumptions or looping unproductively?
 
 ### Efficiency
-Number of steps/tool calls/tokens consumed to complete a task — relevant both for cost and as a signal of whether the agent is looping or taking unnecessarily risky/broad actions to accomplish something a narrower approach could achieve.
+Number of steps/tool calls/tokens consumed to complete a task. Relevant both for cost and as a signal of whether the agent is looping or taking unnecessarily risky/broad actions to accomplish something a narrower approach could achieve.
 
 ### Groundedness of decisions
 For agents that reason before acting, does the stated rationale actually match and justify the action taken — useful both for explainability and as a debugging signal when the agent misbehaves.
@@ -44,4 +44,4 @@ Does the agent escalate appropriately (neither too often, causing approval fatig
 ## Related
 
 - [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/README.md)
-- [04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md) — agent action logs
+- [04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md), agent action logs

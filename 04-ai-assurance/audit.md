@@ -12,7 +12,7 @@ Periodic, systematic review of AI systems and governance processes already in pr
 Reviews a specific AI system's current behavior, documentation currency, and control effectiveness against what was approved at launch. Checks for drift between documented and actual behavior.
 
 ### Governance process audit
-Reviews whether the governance framework itself ([03-ai-governance](../03-ai-governance/AI-assurance.md)) is being followed consistently — are risk tiers being assigned correctly, is the AI inventory complete and current, are approvals being properly documented?
+Reviews whether the governance framework itself ([03-ai-governance](../03-ai-governance/AI-assurance.md)) is being followed consistently. Are risk tiers being assigned correctly, is the AI inventory complete and current, are approvals being properly documented?
 
 ### Compliance audit
 Reviews specific regulatory obligations ([10-regulations-and-standards](../10-regulations-and-standards/global-overview.md)) for evidence of ongoing compliance, often ahead of or in response to a regulatory inquiry.
@@ -28,11 +28,11 @@ Reviews specific regulatory obligations ([10-regulations-and-standards](../10-re
 ## Audit process
 
 1. **Scope definition**: which systems/processes, against which requirements
-2. **Evidence gathering**: pull documentation, logs, monitoring data, prior evaluation/red-team reports — see [evidence-and-traceability.md](evidence-and-traceability.md)
+2. **Evidence gathering**: pull documentation, logs, monitoring data, prior evaluation/red-team reports: see [evidence-and-traceability.md](evidence-and-traceability.md)
 3. **Testing**: verify claims against actual evidence (e.g., re-run a sample of fairness tests rather than trusting the original report alone)
 4. **Findings**: documented gaps between required and actual state, with severity ratings
 5. **Remediation tracking**: findings assigned owners and deadlines, tracked to closure — an audit finding that's never remediated is a governance failure in itself
-6. **Reporting**: findings summarized for governance board and, where relevant, leadership — see [assurance-reporting.md](assurance-reporting.md)
+6. **Reporting**: findings summarized for governance board and, where relevant, leadership: see [assurance-reporting.md](assurance-reporting.md)
 
 ## Internal vs. external audit
 
@@ -40,4 +40,4 @@ Internal audit (by a function independent of the system owners) is the workhorse
 
 ## Relationship to certification
 
-Audits supporting a management-system certification (e.g., ISO/IEC 42001) follow the certifying body's specific audit methodology — see [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md) — in addition to, not instead of, an organization's own internal audit practice.
+Audits supporting a management-system certification (e.g., ISO/IEC 42001) follow the certifying body's specific audit methodology (see [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md)) in addition to, not instead of, an organization's own internal audit practice.

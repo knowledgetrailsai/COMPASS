@@ -2,7 +2,7 @@
 
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [EU](../../10-regulations-and-standards/EU/eu-ai-act.md)*
 
-_Type: Law (Regulation (EU) 2024/1689). Last reviewed: 2026-08-19 — this is an actively evolving regulation; confirm current deadlines and requirements with legal counsel before relying on any specific date below._
+_Type: Law (Regulation (EU) 2024/1689). Last reviewed: 2026-08-19; this is an actively evolving regulation; confirm current deadlines and requirements with legal counsel before relying on any specific date below._
 
 ## Overview
 
@@ -19,7 +19,7 @@ The EU AI Act is the first comprehensive, horizontal (cross-sector) AI-specific 
 
 ## General-Purpose AI (GPAI) obligations
 
-Separate obligations apply to providers of general-purpose AI models (the foundation models underlying many Gen AI applications), including technical documentation, transparency to downstream providers, and — for models with "systemic risk" (generally the most capable models by compute/capability thresholds) — additional risk assessment, adversarial testing, and incident reporting obligations.
+Separate obligations apply to providers of general-purpose AI models (the foundation models underlying many Gen AI applications), including technical documentation, transparency to downstream providers, and (for models with "systemic risk" (generally the most capable models by compute/capability thresholds)) additional risk assessment, adversarial testing, and incident reporting obligations.
 
 ## Timeline status (as of this review)
 
@@ -33,7 +33,7 @@ The AI Act entered into force in August 2024 with a phased implementation. Prohi
 
 ## Enforcement
 
-Non-compliance penalties are tiered by severity, with the highest fines (for prohibited-practice violations) set as a percentage of global annual turnover or a fixed amount, whichever is higher — among the most significant AI-specific penalty regimes globally. Confirm current fine structures with counsel given ongoing legislative refinement.
+Non-compliance penalties are tiered by severity, with the highest fines (for prohibited-practice violations) set as a percentage of global annual turnover or a fixed amount, whichever is higher, among the most significant AI-specific penalty regimes globally. Confirm current fine structures with counsel given ongoing legislative refinement.
 
 ## Related
 

@@ -37,8 +37,8 @@ Assurance sits at the end of this chain but depends on every link before it: you
 | **Third-party independent assessment** | External auditor/assessor | Tier 1, regulatory-mandated conformity assessment, high public trust stakes |
 | **Certification** | Accredited certification body against a standard (e.g., ISO/IEC 42001) | Organization-wide management system claims, contractual/regulatory requirement |
 
-Higher assurance levels cost more and take longer — match the level to the risk tier from [03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md) rather than defaulting to maximum rigor everywhere or minimum rigor everywhere.
+Higher assurance levels cost more and take longer, match the level to the risk tier from [03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md) rather than defaulting to maximum rigor everywhere or minimum rigor everywhere.
 
 ## Assurance is continuous, not a one-time certificate
 
-A system validated at launch can drift out of compliance as data, usage, or the model itself changes. Assurance activities should recur — audits, periodic red-teaming, and re-validation — tied into [02-ai-lifecycle/monitoring-and-observability.md](../02-ai-lifecycle/monitoring-and-observability.md).
+A system validated at launch can drift out of compliance as data, usage, or the model itself changes. Assurance activities should recur (audits, periodic red-teaming, and re-validation) tied into [02-ai-lifecycle/monitoring-and-observability.md](../02-ai-lifecycle/monitoring-and-observability.md).

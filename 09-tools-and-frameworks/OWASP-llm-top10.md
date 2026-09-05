@@ -6,7 +6,7 @@ _Type: Security guidance (community-developed, industry-adopted). Issuer: OWASP.
 
 ## What it is
 
-A community-developed, widely-adopted list of the most critical security risks specific to LLM applications — the de facto standard reference vocabulary for LLM/Gen AI application security, analogous to the original OWASP Top 10 for web applications.
+A community-developed, widely-adopted list of the most critical security risks specific to LLM applications: the de facto standard reference vocabulary for LLM/Gen AI application security, analogous to the original OWASP Top 10 for web applications.
 
 ## Representative risk categories (illustrative — confirm current official list/numbering)
 
@@ -25,16 +25,16 @@ A community-developed, widely-adopted list of the most critical security risks s
 
 ## How to use it
 
-- Baseline security checklist for any LLM/Gen AI application before launch — walk through each category and confirm a specific, documented control
+- Baseline security checklist for any LLM/Gen AI application before launch, walk through each category and confirm a specific, documented control
 - Reference vocabulary for security review and red-teaming scope ([04-ai-assurance/red-teaming.md](../04-ai-assurance/red-teaming.md))
 - Common ground for communicating with security teams already familiar with the original OWASP Top 10 pattern
 
 ## Limitations
 
-Application-layer focused — doesn't cover the full ML/AI attack surface (training-time attacks against underlying models are covered more thoroughly by [MITRE-ATLAS.md](MITRE-ATLAS.md)). Also doesn't cover fairness/bias or broader governance concerns — it's a security list, not a full RAI framework; use it alongside, not instead of, the rest of this repository.
+Application-layer focused — doesn't cover the full ML/AI attack surface (training-time attacks against underlying models are covered more thoroughly by [MITRE-ATLAS.md](MITRE-ATLAS.md)). Also doesn't cover fairness/bias or broader governance concerns. It's a security list, not a full RAI framework; use it alongside, not instead of, the rest of this repository.
 
 ## Related
 
 - [MITRE-ATLAS.md](MITRE-ATLAS.md)
 - [06-generative-ai](../06-generative-ai/content-provenance.md), [07-agentic-ai](../07-agentic-ai/agent-incident-response.md)
-- [14-ai-security/securing-genai.md](../14-ai-security/securing-genai.md) — practitioner view using this checklist
+- [14-ai-security/securing-genai.md](../14-ai-security/securing-genai.md): practitioner view using this checklist

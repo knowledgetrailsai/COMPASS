@@ -4,7 +4,7 @@
 
 ## Distinguishing the two
 
-- **Transparency**: disclosure that AI is involved, what it's used for, and its general limitations — a governance/communication practice.
+- **Transparency**: disclosure that AI is involved, what it's used for, and its general limitations, a governance/communication practice.
 - **Explainability**: the technical ability to understand why a specific model produced a specific output — an engineering practice.
 
 Both are needed; transparency without explainability leaves users unable to challenge a decision, explainability without transparency leaves users unaware a decision was automated at all.
@@ -22,7 +22,7 @@ See [08-controls-and-techniques/explainability](../08-controls-and-techniques/ex
 ## Transparency obligations (practical)
 
 - Disclose when users are interacting with an AI system, not a human (chatbots, voice agents)
-- Disclose when content is AI-generated (especially images/video/audio — see [06-generative-ai/content-provenance.md](../06-generative-ai/content-provenance.md))
+- Disclose when content is AI-generated (especially images/video/audio, see [06-generative-ai/content-provenance.md](../06-generative-ai/content-provenance.md))
 - Provide accessible explanation of automated decisions with legal/significant effect (required under GDPR Art. 22-style regimes)
 - Publish model cards / system cards for material AI systems
 

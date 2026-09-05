@@ -19,7 +19,7 @@
 
 ## Guardrail and classification tools
 
-See [08-controls-and-techniques/guardrails-and-controls.md](../08-controls-and-techniques/guardrails-and-controls.md) and [open-source-tools.md](open-source-tools.md) — NeMo Guardrails, Guardrails AI, safety classifier models — function as both a control and a security tool.
+See [08-controls-and-techniques/guardrails-and-controls.md](../08-controls-and-techniques/guardrails-and-controls.md) and [open-source-tools.md](open-source-tools.md) (NeMo Guardrails, Guardrails AI, safety classifier models) function as both a control and a security tool.
 
 ## Agentic security
 
@@ -36,8 +36,8 @@ See [09-tools-and-frameworks/OWASP-llm-top10.md](OWASP-llm-top10.md) and [09-too
 
 ## Integration with existing security tooling
 
-AI-specific security tools should feed into existing SIEM/security monitoring infrastructure rather than operate as an isolated silo — anomalous agent action patterns or repeated jailbreak attempts are security events that belong in the same triage flow as any other security alert.
+AI-specific security tools should feed into existing SIEM/security monitoring infrastructure rather than operate as an isolated silo; anomalous agent action patterns or repeated jailbreak attempts are security events that belong in the same triage flow as any other security alert.
 
 ## Related
 
-- [14-ai-security](../14-ai-security/README.md) — the practitioner-level threat model, control catalog, and testing program these tools implement
+- [14-ai-security](../14-ai-security/README.md), the practitioner-level threat model, control catalog, and testing program these tools implement

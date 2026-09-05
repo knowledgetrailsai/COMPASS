@@ -8,7 +8,7 @@ No single control reliably prevents unsafe Gen AI behavior. Layer controls acros
 
 ### 1. Input layer
 - **Input validation/sanitization**: strip or flag suspicious patterns (instruction-like text embedded in data fields)
-- **Treat all retrieved/external content as untrusted**: web pages, documents, tool outputs, emails fed into the model can contain injected instructions — never grant them the same trust as the system prompt
+- **Treat all retrieved/external content as untrusted**: web pages, documents, tool outputs, emails fed into the model can contain injected instructions: never grant them the same trust as the system prompt
 - **Rate limiting and abuse detection**: throttle and flag patterns consistent with automated jailbreak attempts
 
 ### 2. Instruction layer
@@ -38,4 +38,4 @@ See [09-tools-and-frameworks/open-source-tools.md](../09-tools-and-frameworks/op
 
 ## Key principle
 
-Treat prompt injection and jailbreaking as an assumed, ongoing threat rather than a solved problem — design systems to limit the blast radius of a successful attack (least-privilege tool access, output validation before action, human approval for consequential steps) rather than relying purely on preventing the attack from succeeding.
+Treat prompt injection and jailbreaking as an assumed, ongoing threat rather than a solved problem: design systems to limit the blast radius of a successful attack (least-privilege tool access, output validation before action, human approval for consequential steps) rather than relying purely on preventing the attack from succeeding.

@@ -8,9 +8,9 @@
 
 **What happened**: Tay was designed to learn from and mimic the conversational style of users interacting with it on Twitter. Within hours of launch, coordinated user efforts deliberately fed the bot inflammatory, racist, and offensive content, which the bot learned from and began repeating and amplifying in its own posts. Microsoft took the bot offline within about 16 hours of launch.
 
-**Root cause**: A learning/adaptation mechanism with no adversarial-input safeguards — the system was designed to directly incorporate untrusted public input into its future behavior with no content filtering, rate limiting, or adversarial-pattern detection standing between malicious input and the bot's live public output.
+**Root cause**: A learning/adaptation mechanism with no adversarial-input safeguards; the system was designed to directly incorporate untrusted public input into its future behavior with no content filtering, rate limiting, or adversarial-pattern detection standing between malicious input and the bot's live public output.
 
-**Risk category**: Safety and security risk (toxic content generation via adversarial manipulation) — an early, foundational illustration of the pattern now formalized as prompt injection / adversarial manipulation risk in [06-generative-ai/prompt-injection.md](../../06-generative-ai/prompt-injection.md) and [06-generative-ai/jailbreaks.md](../../06-generative-ai/jailbreaks.md).
+**Risk category**: Safety and security risk (toxic content generation via adversarial manipulation), an early, foundational illustration of the pattern now formalized as prompt injection / adversarial manipulation risk in [06-generative-ai/prompt-injection.md](../../06-generative-ai/prompt-injection.md) and [06-generative-ai/jailbreaks.md](../../06-generative-ai/jailbreaks.md).
 
 **Lifecycle stage where it could have been caught**: [02-ai-lifecycle/model-development.md](../../02-ai-lifecycle/model-development.md) (guardrail integration should have been built in from the start) and [02-ai-lifecycle/deployment-and-release.md](../../02-ai-lifecycle/deployment-and-release.md) (staged rollout/shadow mode would likely have surfaced the vulnerability before full public, unmonitored exposure).
 

@@ -4,7 +4,7 @@
 
 ## Why it's part of Responsible AI
 
-Training and operating large models — especially large generative models — consumes significant energy, water (for data center cooling), and hardware resources. As AI adoption scales, the aggregate environmental footprint becomes a material consideration alongside the more immediate risks covered elsewhere in this guide.
+Training and operating large models: especially large generative models, consumes significant energy, water (for data center cooling), and hardware resources. As AI adoption scales, the aggregate environmental footprint becomes a material consideration alongside the more immediate risks covered elsewhere in this guide.
 
 ## Where the footprint comes from
 
@@ -12,7 +12,7 @@ Training and operating large models — especially large generative models — c
 - **Fine-tuning**: smaller but recurring cost as organizations customize base models
 - **Inference**: the ongoing, cumulative cost of serving every query — at scale, inference can exceed training energy cost over a model's lifetime
 - **Hardware lifecycle**: manufacturing and disposal of specialized AI hardware (GPUs/TPUs)
-- **Agentic AI amplification**: agentic workflows often make many more model calls per user task (planning, tool calls, self-correction loops) than a single Gen AI response — inference cost per task can be significantly higher
+- **Agentic AI amplification**: agentic workflows often make many more model calls per user task (planning, tool calls, self-correction loops) than a single Gen AI response. Inference cost per task can be significantly higher
 
 ## Practical levers for organizations building on AI (not training frontier models)
 
@@ -21,7 +21,7 @@ Training and operating large models — especially large generative models — c
 - **Efficient prompting**: shorter, well-structured prompts and context reduce token processing without sacrificing quality
 - **Batching and off-peak scheduling**: where latency allows, batch inference and schedule non-urgent workloads to align with lower-carbon-intensity grid periods
 - **Vendor selection**: consider a cloud/model provider's disclosed energy efficiency and renewable energy commitments as a selection criterion, alongside cost and capability
-- **Right level of agentic autonomy**: avoid open-ended agent loops (excessive self-correction/retry cycles) that multiply inference cost without proportionate value — bound iteration counts
+- **Right level of agentic autonomy**: avoid open-ended agent loops (excessive self-correction/retry cycles) that multiply inference cost without proportionate value: bound iteration counts
 
 ## Reporting
 
@@ -29,4 +29,4 @@ Where material, include AI-related energy/compute considerations in existing cor
 
 ## Balancing act
 
-Sustainability should inform architecture and vendor choices, not be used to justify skipping safety/evaluation steps ("we didn't have compute budget to red-team this") — treat it as one more design constraint alongside, not traded off against, the other principles.
+Sustainability should inform architecture and vendor choices, not be used to justify skipping safety/evaluation steps ("we didn't have compute budget to red-team this"); treat it as one more design constraint alongside, not traded off against, the other principles.

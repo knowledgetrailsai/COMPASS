@@ -4,7 +4,7 @@
 
 ## Definition
 
-Adversarial prompting techniques specifically designed to bypass a model's safety training and elicit outputs the model was trained/instructed to refuse — hate speech, dangerous instructions, disallowed content categories, or leaking system prompts/confidential configuration.
+Adversarial prompting techniques specifically designed to bypass a model's safety training and elicit outputs the model was trained/instructed to refuse: hate speech, dangerous instructions, disallowed content categories, or leaking system prompts/confidential configuration.
 
 ## Common technique families (illustrative, not exhaustive — techniques evolve continuously)
 
@@ -17,13 +17,13 @@ Adversarial prompting techniques specifically designed to bypass a model's safet
 
 ## Why this differs from prompt injection
 
-Jailbreaking is generally direct (the user themselves is the adversary, trying to make the model itself misbehave), while prompt injection ([prompt-injection.md](prompt-injection.md)) often targets a system on behalf of an unaware end user via third-party content. The mitigations overlap significantly but the threat model — and who's doing the attacking — differs.
+Jailbreaking is generally direct (the user themselves is the adversary, trying to make the model itself misbehave), while prompt injection ([prompt-injection.md](prompt-injection.md)) often targets a system on behalf of an unaware end user via third-party content. The mitigations overlap significantly but the threat model (and who's doing the attacking) differs.
 
 ## Mitigations
 
 - Safety-tuned base models appropriate to the deployment context, refreshed as providers release improved safety training
 - Independent guardrail/classifier layer that screens for jailbreak patterns, separate from the primary generation model — a second opinion that doesn't share the same blind spots
-- Continuous red-teaming specifically targeting known and novel jailbreak techniques, not a one-time pre-launch check — see [04-ai-assurance/red-teaming.md](../04-ai-assurance/red-teaming.md)
+- Continuous red-teaming specifically targeting known and novel jailbreak techniques, not a one-time pre-launch check, see [04-ai-assurance/red-teaming.md](../04-ai-assurance/red-teaming.md)
 - Rate limiting and behavioral anomaly detection to catch systematic jailbreak-probing patterns
 - Monitoring and rapid patching cadence, since jailbreak techniques evolve quickly and a defense effective today may not be tomorrow
 

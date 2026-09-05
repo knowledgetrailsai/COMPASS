@@ -4,7 +4,7 @@
 
 ## Definition
 
-An attack where malicious instructions are embedded in content the model processes — user input, or (more dangerously) content the model retrieves or is fed from an external source (a webpage, document, email, tool output) — causing the model to follow the injected instructions instead of, or in addition to, its intended task.
+An attack where malicious instructions are embedded in content the model processes (user input, or (more dangerously) content the model retrieves or is fed from an external source (a webpage, document, email, tool output)) causing the model to follow the injected instructions instead of, or in addition to, its intended task.
 
 ## Why it's structurally hard to fully prevent
 
@@ -12,8 +12,8 @@ Most current model architectures don't have a hard boundary between "trusted ins
 
 ## Direct vs. indirect prompt injection
 
-- **Direct**: the user themselves crafts an adversarial prompt to override system instructions (overlaps heavily with jailbreaking — see [jailbreaks.md](jailbreaks.md))
-- **Indirect**: injected instructions arrive via third-party content the model processes without the end user's knowledge — a poisoned webpage, a malicious email in an inbox an agent is summarizing, a manipulated document in a RAG corpus. Indirect injection is the higher-severity risk for agentic and RAG systems, since neither the user nor sometimes even the operator is aware of the attack surface.
+- **Direct**: the user themselves crafts an adversarial prompt to override system instructions (overlaps heavily with jailbreaking, see [jailbreaks.md](jailbreaks.md))
+- **Indirect**: injected instructions arrive via third-party content the model processes without the end user's knowledge; a poisoned webpage, a malicious email in an inbox an agent is summarizing, a manipulated document in a RAG corpus. Indirect injection is the higher-severity risk for agentic and RAG systems, since neither the user nor sometimes even the operator is aware of the attack surface.
 
 ## Consequences
 
@@ -32,4 +32,4 @@ For a standalone chatbot: manipulated or leaked output. For a RAG or agentic sys
 - [jailbreaks.md](jailbreaks.md)
 - [05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md)
 - [08-controls-and-techniques/guardrails-and-controls.md](../08-controls-and-techniques/guardrails-and-controls.md)
-- [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md) — OWASP LLM Top 10 (LLM01: Prompt Injection)
+- [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md): OWASP LLM Top 10 (LLM01: Prompt Injection)

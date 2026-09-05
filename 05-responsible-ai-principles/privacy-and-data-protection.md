@@ -8,7 +8,7 @@
 - **Purpose limitation**: don't repurpose data (e.g., support chat logs) for training without proper basis/consent
 - **Consent and lawful basis**: ensure a valid legal basis for processing, especially for training data and any sensitive data category
 - **Retention limits**: don't keep data (including chat/agent logs) longer than necessary
-- **Rights fulfillment**: support access, correction, deletion requests — including from AI training data and memory stores where feasible
+- **Rights fulfillment**: support access, correction, deletion requests, including from AI training data and memory stores where feasible
 
 ## AI-specific privacy risks
 
@@ -26,7 +26,7 @@ See [08-controls-and-techniques/privacy-techniques](../08-controls-and-technique
 ## Practical controls
 
 - PII detection and redaction on both inputs (before logging/training) and outputs (before returning to user)
-- Enforce document/row-level access control at retrieval time in RAG systems — never rely solely on "the model won't share it"
+- Enforce document/row-level access control at retrieval time in RAG systems: never rely solely on "the model won't share it"
 - Separate training/fine-tuning data pipelines from production logs with explicit opt-in, not default inclusion
 - Define and enforce retention windows for prompts, outputs, and agent memory
 - Data Processing Agreements (DPAs) with any third-party model/API provider, with clear terms on whether your data is used for their model training (default should be no, for enterprise use)
@@ -37,4 +37,4 @@ GDPR (EU), India's DPDP Act 2023, and sector-specific rules (HIPAA for health da
 
 ## DPIA trigger
 
-Conduct a Data Protection Impact Assessment when: processing sensitive/special-category data at scale, using profiling with legal/significant effect, or deploying novel AI technology with unclear privacy risk — see [13-implementation-playbooks/conducting-an-ai-risk-assessment.md](../13-implementation-playbooks/conducting-an-ai-risk-assessment.md).
+Conduct a Data Protection Impact Assessment when: processing sensitive/special-category data at scale, using profiling with legal/significant effect, or deploying novel AI technology with unclear privacy risk: see [13-implementation-playbooks/conducting-an-ai-risk-assessment.md](../13-implementation-playbooks/conducting-an-ai-risk-assessment.md).

@@ -4,7 +4,7 @@
 
 ## Definition
 
-Runtime mechanisms that constrain a system's inputs, outputs, or actions in real time — the last line of defense that operates independently of the underlying model's own training/behavior, and the most direct implementation of the "Controls" layer in the risk → control → technique → test chain.
+Runtime mechanisms that constrain a system's inputs, outputs, or actions in real time, the last line of defense that operates independently of the underlying model's own training/behavior, and the most direct implementation of the "Controls" layer in the risk → control → technique → test chain.
 
 ## Guardrail types
 
@@ -29,7 +29,7 @@ Runtime mechanisms that constrain a system's inputs, outputs, or actions in real
 - **Independent of the primary model**: guardrails implemented as a separate classifier/ruleset are more robust than relying on the primary model to police itself, since a successful jailbreak/injection targeting the primary model doesn't automatically defeat an independent check
 - **Fail closed for high-stakes actions**: when a guardrail check itself errors or times out, default to blocking/escalating rather than allowing the action through
 - **Defense in depth**: layer multiple guardrails (input + output + action) rather than relying on any single check, consistent with [06-generative-ai/prompt-and-output-safety.md](../06-generative-ai/prompt-and-output-safety.md)
-- **Explainable rejections**: when a guardrail blocks something, log why — both for debugging false positives and for security monitoring
+- **Explainable rejections**: when a guardrail blocks something, log why, both for debugging false positives and for security monitoring
 
 ## Common pitfalls
 
@@ -39,7 +39,7 @@ Runtime mechanisms that constrain a system's inputs, outputs, or actions in real
 
 ## Tooling
 
-See [09-tools-and-frameworks/open-source-tools.md](../09-tools-and-frameworks/open-source-tools.md) — NeMo Guardrails, Guardrails AI, Llama Guard–style classifiers.
+See [09-tools-and-frameworks/open-source-tools.md](../09-tools-and-frameworks/open-source-tools.md): NeMo Guardrails, Guardrails AI, Llama Guard–style classifiers.
 
 ## Testing
 

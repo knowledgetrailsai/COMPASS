@@ -14,7 +14,7 @@ Sources: automated monitoring alerts (drift, guardrail triggers, anomalous agent
 ### 2. Triage & classify
 - Severity (harm caused/potential, number of people affected, reversibility)
 - Scope (single user vs. systemic — check if the same model/prompt/config is used elsewhere)
-- Whether the system should be paused immediately (kill switch — see [07-agentic-ai/autonomy-and-control.md](../07-agentic-ai/autonomy-and-control.md) for agentic systems)
+- Whether the system should be paused immediately (kill switch; see [07-agentic-ai/autonomy-and-control.md](../07-agentic-ai/autonomy-and-control.md) for agentic systems)
 
 ### 3. Contain
 - Disable or roll back the specific feature/model/agent capability
@@ -32,7 +32,7 @@ Sources: automated monitoring alerts (drift, guardrail triggers, anomalous agent
 
 ### 6. Communicate
 - Internal: governance board, affected teams
-- External: affected users/customers per legal/regulatory obligation (breach notification timelines vary by jurisdiction — see [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md))
+- External: affected users/customers per legal/regulatory obligation (breach notification timelines vary by jurisdiction, see [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md))
 - Regulators, where required (e.g., serious incident reporting for high-risk systems under the EU AI Act)
 
 ### 7. Post-incident review

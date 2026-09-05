@@ -23,8 +23,8 @@
 
 ## The core mistake to avoid
 
-Treating any framework in this table as legally binding, or treating the EU AI Act as "just another framework" alongside voluntary guidance. See [00-navigation-and-methodology/terminology-and-glossary.md](../00-navigation-and-methodology/terminology-and-glossary.md) — law, standard, framework, and guidance are different categories with different consequences for non-compliance.
+Treating any framework in this table as legally binding, or treating the EU AI Act as "just another framework" alongside voluntary guidance. See [00-navigation-and-methodology/terminology-and-glossary.md](../00-navigation-and-methodology/terminology-and-glossary.md); law, standard, framework, and guidance are different categories with different consequences for non-compliance.
 
 ## Layering frameworks in practice
 
-Most mature organizations use several of these together: a legal baseline from applicable regulation (10), a risk-management backbone from NIST AI RMF or ISO/IEC 23894, security guidance from OWASP/MITRE for Gen AI and agentic systems, and — if pursuing certification — ISO/IEC 42001 as the overarching management system tying it together. They're complementary, not competing, choices.
+Most mature organizations use several of these together: a legal baseline from applicable regulation (10), a risk-management backbone from NIST AI RMF or ISO/IEC 23894, security guidance from OWASP/MITRE for Gen AI and agentic systems, and: if pursuing certification, ISO/IEC 42001 as the overarching management system tying it together. They're complementary, not competing, choices.

@@ -4,7 +4,7 @@
 
 ## Definition
 
-Responsible AI (RAI) is the practice of designing, building, deploying, and operating AI systems — including Generative AI and Agentic AI — in ways that are fair, transparent, safe, secure, privacy-respecting, and accountable, while remaining beneficial to the people and organizations affected by them.
+Responsible AI (RAI) is the practice of designing, building, deploying, and operating AI systems: including Generative AI and Agentic AI. In ways that are fair, transparent, safe, secure, privacy-respecting, and accountable, while remaining beneficial to the people and organizations affected by them.
 
 It is not a single control or a one-time review. It's a set of principles translated into engineering practices, governance processes, and organizational accountability that run across the full lifecycle of an AI system, from problem framing to retirement.
 
@@ -29,10 +29,10 @@ Later sections (06 and 07) go deep on Generative and Agentic AI specifically; th
 
 ## Core idea: RAI is a lifecycle discipline, not a gate
 
-The most common failure mode is treating RAI as a single sign-off before launch. Effective programs instead embed checkpoints across the lifecycle — problem definition, data collection, model design, evaluation, deployment, monitoring, and retirement — described in [02-ai-lifecycle/lifecycle-overview.md](../02-ai-lifecycle/lifecycle-overview.md).
+The most common failure mode is treating RAI as a single sign-off before launch. Effective programs instead embed checkpoints across the lifecycle (problem definition, data collection, model design, evaluation, deployment, monitoring, and retirement) described in [02-ai-lifecycle/lifecycle-overview.md](../02-ai-lifecycle/lifecycle-overview.md).
 
 ## Related sections
 
-- [principles.md](principles.md) — the core principles this guide is built on
+- [principles.md](principles.md); the core principles this guide is built on
 - [risk-taxonomy.md](risk-taxonomy.md) — categorizing what can go wrong
-- [stakeholder-roles.md](stakeholder-roles.md) — who is responsible for what
+- [stakeholder-roles.md](stakeholder-roles.md); who is responsible for what

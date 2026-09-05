@@ -26,4 +26,4 @@ A quick-reference guide for which category of tool addresses which need, cross-r
 
 ## Avoid over-tooling
 
-Not every system needs every tool category — match tooling investment to risk tier. A Tier 3 internal productivity tool doesn't need a dedicated drift-monitoring platform; a Tier 1 credit-decisioning model does.
+Not every system needs every tool category, match tooling investment to risk tier. A Tier 3 internal productivity tool doesn't need a dedicated drift-monitoring platform; a Tier 1 credit-decisioning model does.

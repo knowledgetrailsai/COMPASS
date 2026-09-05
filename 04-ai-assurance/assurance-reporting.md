@@ -27,11 +27,11 @@ How assurance findings (from validation, audit, red-teaming, and impact/risk ass
 
 ## Portfolio-level reporting
 
-Beyond individual system reports, aggregate reporting across the full AI inventory (open findings by severity, systems overdue for re-validation, incident trends) gives leadership and the governance board a view of overall risk posture — this is often more useful for resourcing and prioritization decisions than any single system's report.
+Beyond individual system reports, aggregate reporting across the full AI inventory (open findings by severity, systems overdue for re-validation, incident trends) gives leadership and the governance board a view of overall risk posture; this is often more useful for resourcing and prioritization decisions than any single system's report.
 
 ## Escalation
 
-Critical findings (active exploitable vulnerability, confirmed rights-impacting bias, regulatory non-compliance) should have a defined fast-path escalation to governance leadership and, where relevant, legal — not wait for the next scheduled reporting cycle.
+Critical findings (active exploitable vulnerability, confirmed rights-impacting bias, regulatory non-compliance) should have a defined fast-path escalation to governance leadership and, where relevant, legal, not wait for the next scheduled reporting cycle.
 
 ## Related
 

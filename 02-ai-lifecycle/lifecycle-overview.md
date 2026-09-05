@@ -20,11 +20,11 @@ Responsible AI is a lifecycle discipline, not a single gate. This section maps R
 
 ## How this connects to governance and assurance
 
-The lifecycle defines **when** checkpoints happen. [03-ai-governance](../03-ai-governance/AI-assurance.md) defines **who** owns each checkpoint and what process governs approval. [04-ai-assurance](../04-ai-assurance/assurance-overview.md) defines **how** you prove each checkpoint was done properly. Don't conflate the three — a project can nail the lifecycle steps but still fail governance (no one had authority to approve it) or assurance (no evidence trail exists).
+The lifecycle defines **when** checkpoints happen. [03-ai-governance](../03-ai-governance/AI-assurance.md) defines **who** owns each checkpoint and what process governs approval. [04-ai-assurance](../04-ai-assurance/assurance-overview.md) defines **how** you prove each checkpoint was done properly. Don't conflate the three. A project can nail the lifecycle steps but still fail governance (no one had authority to approve it) or assurance (no evidence trail exists).
 
 ## Change management as a lifecycle re-entry point
 
-For Gen AI and Agentic AI especially, material changes — a new base model, a prompt rewrite, a new tool/data source, expanded autonomy — should re-enter this lifecycle at the appropriate stage (usually evaluation & validation at minimum) rather than being treated as a minor patch. Define "material change" explicitly for your systems so this isn't a judgment call made under launch-day pressure.
+For Gen AI and Agentic AI especially, material changes (a new base model, a prompt rewrite, a new tool/data source, expanded autonomy) should re-enter this lifecycle at the appropriate stage (usually evaluation & validation at minimum) rather than being treated as a minor patch. Define "material change" explicitly for your systems so this isn't a judgment call made under launch-day pressure.
 
 ## Fast-iteration systems
 
