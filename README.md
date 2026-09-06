@@ -8,6 +8,11 @@ PRINCIPLES → RISKS → REQUIREMENTS → CONTROLS → TEST/EVALUATE → EVIDENC
 
 applied across the AI lifecycle, across AI types (Gen AI, Agentic AI), and across stakeholders, jurisdictions, and sectors. See [00-navigation-and-methodology/knowledge-map.md](00-navigation-and-methodology/knowledge-map.md) for the full model, including a worked example tracing one risk end-to-end through every section below.
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-yellow.svg)](LICENSE)
+![Status](https://img.shields.io/badge/status-draft%20v1.0-orange)
+
+**Companion repository:** [OASIS](https://github.com/knowledgetrailsai/OASIS) methodology — primarily [Chapter 19 — Security and Responsible AI Engineering](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-19-security-and-responsible-ai-engineering.md) and [Chapter 20 — Governance, Compliance and Regulatory Engineering](https://github.com/knowledgetrailsai/OASIS/blob/main/methodology/chapter-20-governance-compliance-and-regulatory-engineering.md).
+
 ## Why This Exists
 
 Fairness, transparency, safety, and accountability are easy to agree on and hard to operationalize. This repository treats **AI Ethics**, **Responsible AI**, **AI Governance**, and **AI Assurance** as four distinct, connected layers rather than synonyms: ethics asks what *ought* to be done (the normative layer); Responsible AI asks how those expectations become concrete practice (the operational layer, most of this repository); governance asks how that practice is made consistent, enforceable, and auditable across the organization (the structural layer); assurance asks how you prove it actually worked (the evidence layer). A system can be ethically well-intentioned but operationally irresponsible, have good practices applied inconsistently for lack of governance, or have governance on paper with no assurance it's followed — each layer is necessary and none is sufficient alone. See [01-foundations/responsible-ai-vs-ai-ethics.md](01-foundations/responsible-ai-vs-ai-ethics.md).
