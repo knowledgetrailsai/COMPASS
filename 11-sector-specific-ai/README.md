@@ -1,5 +1,7 @@
 # Sector-Specific AI
 
+[← Previous: US — State AI Laws](../10-regulations-and-standards/US/state-laws.md) · [Contents](../README.md) · [Next: Critical Infrastructure →](critical-infrastructure.md)
+
 *[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Why this section exists
@@ -37,3 +39,7 @@ Evidence and assurance expectations
 | Critical infrastructure | [critical-infrastructure.md](critical-infrastructure.md) |
 
 Each file references the relevant horizontal principles (05), lifecycle (02), controls (08), and regulation (10) sections rather than duplicating that content. Use this section to find the sector-specific *emphasis and additions*, not a standalone treatment.
+
+---
+
+[← Previous: US — State AI Laws](../10-regulations-and-standards/US/state-laws.md) · [Contents](../README.md) · [Next: Critical Infrastructure →](critical-infrastructure.md)

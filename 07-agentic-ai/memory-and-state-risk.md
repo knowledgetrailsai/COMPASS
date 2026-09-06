@@ -1,5 +1,7 @@
 # Memory and State Risk
 
+[← Previous: Identity and Authorization for Agents](identity-and-authorization.md) · [Contents](../README.md) · [Next: Multi-Agent Governance →](multi-agent-governance.md)
+
 *[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Why persistent memory adds risk
@@ -36,3 +38,7 @@ Individuals' rights to access, correct, or delete their data (under GDPR/DPDP-st
 
 - [multi-agent-governance.md](multi-agent-governance.md)
 - [13-implementation-playbooks/agentic-deployment-checklist.md](../13-implementation-playbooks/agentic-deployment-checklist.md)
+
+---
+
+[← Previous: Identity and Authorization for Agents](identity-and-authorization.md) · [Contents](../README.md) · [Next: Multi-Agent Governance →](multi-agent-governance.md)

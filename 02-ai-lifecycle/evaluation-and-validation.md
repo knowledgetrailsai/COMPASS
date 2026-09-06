@@ -1,5 +1,7 @@
 # Stage 5: Evaluation & Validation
 
+[← Previous: Stage 6: Deployment & Release](deployment-and-release.md) · [Contents](../README.md) · [Next: AI Incident Response →](incident-and-remediation.md)
+
 *[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## Purpose
@@ -29,3 +31,7 @@ Evaluation should test against the specific, testable acceptance criteria set in
 ## Gate
 
 Tier 1 systems require governance board sign-off on the evaluation report before deployment ([03-ai-governance/ai-governance-board.md](../03-ai-governance/ai-governance-board.md)). Unresolved high-severity red-team findings should block launch regardless of tier.
+
+---
+
+[← Previous: Stage 6: Deployment & Release](deployment-and-release.md) · [Contents](../README.md) · [Next: AI Incident Response →](incident-and-remediation.md)

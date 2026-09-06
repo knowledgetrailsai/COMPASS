@@ -1,5 +1,7 @@
 # Safety and Security
 
+[← Previous: Robustness and Reliability](robustness-and-reliability.md) · [Contents](../README.md) · [Next: Sustainability →](sustainability.md)
+
 *[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)*
 
 ## Safety vs. security
@@ -46,3 +48,7 @@ AI security should extend, not replace, existing InfoSec practices: threat model
 - [14-ai-security/ai-threat-model.md](../14-ai-security/ai-threat-model.md): full attack-surface map
 - [14-ai-security/security-testing-program.md](../14-ai-security/security-testing-program.md)
 - [14-ai-security/security-incident-response.md](../14-ai-security/security-incident-response.md)
+
+---
+
+[← Previous: Robustness and Reliability](robustness-and-reliability.md) · [Contents](../README.md) · [Next: Sustainability →](sustainability.md)

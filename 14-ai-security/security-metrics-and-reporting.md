@@ -1,5 +1,7 @@
 # Security Metrics and Reporting
 
+[← Previous: AI Security Incident Response](security-incident-response.md) · [Contents](../README.md) · [Next: Security Testing Program →](security-testing-program.md)
+
 *[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 ## Purpose
@@ -30,3 +32,7 @@ A metric like "number of red-team tests run" says nothing about actual security 
 
 - [04-ai-assurance/assurance-reporting.md](../04-ai-assurance/assurance-reporting.md)
 - [03-ai-governance/ai-governance-board.md](../03-ai-governance/ai-governance-board.md)
+
+---
+
+[← Previous: AI Security Incident Response](security-incident-response.md) · [Contents](../README.md) · [Next: Security Testing Program →](security-testing-program.md)

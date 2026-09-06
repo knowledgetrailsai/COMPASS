@@ -1,5 +1,7 @@
 # Playbook: Agentic AI Deployment Checklist
 
+[← Previous: Microsoft Tay Chatbot](../12-case-studies/security-incidents/microsoft-tay.md) · [Contents](../README.md) · [Next: Playbook: Conducting an AI Risk Assessment →](conducting-an-ai-risk-assessment.md)
+
 *[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md)*
 
 ## Scoping and design
@@ -44,3 +46,7 @@
 - [ ] Risk tier assigned with autonomy/action-scope weighted appropriately ([03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md))
 - [ ] Agent-specific incident response plan in place ([07-agentic-ai/agent-incident-response.md](../07-agentic-ai/agent-incident-response.md))
 - [ ] Tier 1: governance board sign-off obtained
+
+---
+
+[← Previous: Microsoft Tay Chatbot](../12-case-studies/security-incidents/microsoft-tay.md) · [Contents](../README.md) · [Next: Playbook: Conducting an AI Risk Assessment →](conducting-an-ai-risk-assessment.md)

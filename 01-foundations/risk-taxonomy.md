@@ -1,5 +1,7 @@
 # Risk Taxonomy
 
+[← Previous: Responsible AI vs. AI Ethics vs. AI Governance vs. AI Assurance](responsible-ai-vs-ai-ethics.md) · [Contents](../README.md) · [Next: Stakeholder Roles →](stakeholder-roles.md)
+
 *[Home](../INDEX.md) › [01 · Foundations](../01-foundations/ai-ethics.md)*
 
 A structured way to categorize what can go wrong with an AI system, used consistently across risk assessments (see [13-implementation-playbooks/conducting-an-ai-risk-assessment.md](../13-implementation-playbooks/conducting-an-ai-risk-assessment.md)).
@@ -45,3 +47,7 @@ Each risk should be assessed on:
 - **Detectability**: how quickly the organization would notice if it occurred
 
 This feeds directly into the risk-tiering approach in [03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md).
+
+---
+
+[← Previous: Responsible AI vs. AI Ethics vs. AI Governance vs. AI Assurance](responsible-ai-vs-ai-ethics.md) · [Contents](../README.md) · [Next: Stakeholder Roles →](stakeholder-roles.md)

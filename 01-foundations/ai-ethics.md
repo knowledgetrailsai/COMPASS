@@ -1,5 +1,7 @@
 # AI Ethics
 
+[← Previous: Topic Index](../00-navigation-and-methodology/topic-index.md) · [Contents](../README.md) · [Next: Human Rights and AI →](human-rights-and-ai.md)
+
 *[Home](../INDEX.md) › [01 · Foundations](../01-foundations/ai-ethics.md)*
 
 ## Scope
@@ -35,3 +37,7 @@ An ethically sound intention doesn't guarantee a responsibly built system; see [
 
 - [human-rights-and-ai.md](human-rights-and-ai.md)
 - [principles.md](principles.md)
+
+---
+
+[← Previous: Topic Index](../00-navigation-and-methodology/topic-index.md) · [Contents](../README.md) · [Next: Human Rights and AI →](human-rights-and-ai.md)

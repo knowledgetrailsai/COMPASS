@@ -1,5 +1,7 @@
 # MITRE ATLAS
 
+[← Previous: ISO/IEC 42001](ISO-42001.md) · [Contents](../README.md) · [Next: NIST AI Risk Management Framework (AI RMF) →](NIST-AI-RMF.md)
+
 *[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 _Type: Threat knowledge base / security guidance. Issuer: MITRE. Last reviewed: 2026-08-19._
@@ -35,3 +37,7 @@ ATLAS covers the broader ML/AI attack surface (including traditional ML); OWASP 
 - [08-controls-and-techniques/robustness-testing](../08-controls-and-techniques/robustness-testing/README.md)
 - [05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md)
 - [14-ai-security/ai-threat-model.md](../14-ai-security/ai-threat-model.md): this repository's own threat model, structured on the same lifecycle-stage pattern
+
+---
+
+[← Previous: ISO/IEC 42001](ISO-42001.md) · [Contents](../README.md) · [Next: NIST AI Risk Management Framework (AI RMF) →](NIST-AI-RMF.md)

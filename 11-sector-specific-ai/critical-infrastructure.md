@@ -1,5 +1,7 @@
 # Critical Infrastructure
 
+[← Previous: Sector-Specific AI](README.md) · [Contents](../README.md) · [Next: Education →](education.md)
+
 *[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
@@ -21,3 +23,7 @@ Sector-specific critical infrastructure security regulation (e.g., NERC CIP for 
 
 ## Assurance emphasis
 Integrate with existing critical infrastructure security assurance programs (which are typically mature and regulator-supervised) rather than building parallel AI-specific assurance — the goal is extending established rigor to cover new AI-specific risk, not creating a separate lower-rigor track for AI components.
+
+---
+
+[← Previous: Sector-Specific AI](README.md) · [Contents](../README.md) · [Next: Education →](education.md)

@@ -1,5 +1,7 @@
 # Microsoft Tay Chatbot
 
+[← Previous: Dutch Childcare Benefits Scandal (Toeslagenaffaire)](../regulatory-actions/dutch-childcare-benefits-scandal.md) · [Contents](../../README.md) · [Next: Playbook: Agentic AI Deployment Checklist →](../../13-implementation-playbooks/agentic-deployment-checklist.md)
+
 *[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [security-incidents](../../12-case-studies/security-incidents/microsoft-tay.md)*
 
 **Context**: Microsoft, Twitter-based conversational AI chatbot "Tay," launched and taken down within 24 hours in March 2016.
@@ -25,3 +27,7 @@
 **Preventive controls**: Independent output content classifier/guardrail ([08-controls-and-techniques/guardrails-and-controls.md](../../08-controls-and-techniques/guardrails-and-controls.md)); staged rollout with active monitoring before full public exposure ([02-ai-lifecycle/deployment-and-release.md](../../02-ai-lifecycle/deployment-and-release.md)); rate limiting and coordinated-abuse detection.
 
 **Sources**: Widely reported contemporaneously (March 2016) by major technology press (e.g., The Verge, Wired) and referenced extensively in subsequent AI safety literature as a foundational case study.
+
+---
+
+[← Previous: Dutch Childcare Benefits Scandal (Toeslagenaffaire)](../regulatory-actions/dutch-childcare-benefits-scandal.md) · [Contents](../../README.md) · [Next: Playbook: Agentic AI Deployment Checklist →](../../13-implementation-playbooks/agentic-deployment-checklist.md)

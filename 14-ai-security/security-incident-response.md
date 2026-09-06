@@ -1,5 +1,7 @@
 # AI Security Incident Response
 
+[← Previous: Securing Traditional ML](securing-traditional-ml.md) · [Contents](../README.md) · [Next: Security Metrics and Reporting →](security-metrics-and-reporting.md)
+
 *[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 ## Relationship to other incident response content
@@ -33,3 +35,7 @@ Feed the specific attack technique into [security-testing-program.md](security-t
 
 - [02-ai-lifecycle/incident-and-remediation.md](../02-ai-lifecycle/incident-and-remediation.md)
 - [07-agentic-ai/agent-incident-response.md](../07-agentic-ai/agent-incident-response.md)
+
+---
+
+[← Previous: Securing Traditional ML](securing-traditional-ml.md) · [Contents](../README.md) · [Next: Security Metrics and Reporting →](security-metrics-and-reporting.md)

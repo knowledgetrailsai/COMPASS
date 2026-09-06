@@ -1,5 +1,7 @@
 # US — Federal AI Policy
 
+[← Previous: UK — AI Regulation](../UK/uk-ai-regulation.md) · [Contents](../../README.md) · [Next: US — State AI Laws →](state-laws.md)
+
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [US](../../10-regulations-and-standards/US/federal.md)*
 
 _Last reviewed: 2026-08-19. The US federal AI policy landscape is unusually fluid; no single comprehensive federal AI law exists, and executive branch policy has shifted materially across administrations. Verify current status before relying on specifics here._
@@ -34,3 +36,7 @@ Given the federal picture is unsettled and state law is actively contested (see 
 Sources:
 - [State AI laws under federal scrutiny: Key takeaways from the executive order (White & Case)](https://www.whitecase.com/insight-alert/state-ai-laws-under-federal-scrutiny-key-takeaways-executive-order-establishing)
 - [State AI Laws – Where Are They Now? (Cooley)](https://www.cooley.com/news/insight/2026/2026-04-24-state-ai-laws-where-are-they-now)
+
+---
+
+[← Previous: UK — AI Regulation](../UK/uk-ai-regulation.md) · [Contents](../../README.md) · [Next: US — State AI Laws →](state-laws.md)

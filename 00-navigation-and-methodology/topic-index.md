@@ -1,5 +1,7 @@
 # Topic Index
 
+[← Previous: Terminology — Key Distinctions](terminology-and-glossary.md) · [Contents](../README.md) · [Next: AI Ethics →](../01-foundations/ai-ethics.md)
+
 *[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/framework-map.md)*
 
 The folder structure organizes content by *section* (what/when/how/who (see [knowledge-map.md](knowledge-map.md)). This page organizes the same content by *theme*, cutting across sections) useful when you're starting from a topic ("privacy") rather than a section ("I know I need 05 or 06"). For a complete flat list of every file, see [../INDEX.md](../INDEX.md).
@@ -114,3 +116,7 @@ The folder structure organizes content by *section* (what/when/how/who (see [kno
 ## Maintaining this page
 
 Add a topic here when a theme accumulates files across three or more sections; for a theme confined to one section, that section's own index/README is sufficient and this page shouldn't duplicate it.
+
+---
+
+[← Previous: Terminology — Key Distinctions](terminology-and-glossary.md) · [Contents](../README.md) · [Next: AI Ethics →](../01-foundations/ai-ethics.md)

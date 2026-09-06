@@ -1,5 +1,7 @@
 # Playbook: Conducting an AI Risk Assessment
 
+[← Previous: Playbook: Agentic AI Deployment Checklist](agentic-deployment-checklist.md) · [Contents](../README.md) · [Next: Playbook: Gen AI App Launch Checklist →](genai-app-launch-checklist.md)
+
 *[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md)*
 
 Working, step-by-step version of [04-ai-assurance/AI-risk-assessment.md](../04-ai-assurance/AI-risk-assessment.md) and [04-ai-assurance/AI-impact-assessment.md](../04-ai-assurance/AI-impact-assessment.md).
@@ -38,3 +40,7 @@ Define re-assessment triggers (material change) and periodic review date regardl
 
 ## Output
 A completed risk register entry, referenced by the system's model/system card and available for any future audit ([04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md)).
+
+---
+
+[← Previous: Playbook: Agentic AI Deployment Checklist](agentic-deployment-checklist.md) · [Contents](../README.md) · [Next: Playbook: Gen AI App Launch Checklist →](genai-app-launch-checklist.md)

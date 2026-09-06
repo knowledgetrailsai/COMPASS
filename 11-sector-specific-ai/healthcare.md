@@ -1,5 +1,7 @@
 # Healthcare
 
+[← Previous: Financial Services](financial-services.md) · [Contents](../README.md) · [Next: Human Resources →](human-resources.md)
+
 *[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
@@ -22,3 +24,7 @@ Medical device regulation applying to AI/ML-based diagnostic tools (e.g., FDA in
 
 ## Assurance emphasis
 Independent clinical validation, often by a body separate from the developer, is frequently a regulatory requirement rather than a best-practice recommendation; see [04-ai-assurance/independent-assessment.md](../04-ai-assurance/independent-assessment.md) and [04-ai-assurance/conformity-assessment.md](../04-ai-assurance/conformity-assessment.md).
+
+---
+
+[← Previous: Financial Services](financial-services.md) · [Contents](../README.md) · [Next: Human Resources →](human-resources.md)

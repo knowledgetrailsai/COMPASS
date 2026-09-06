@@ -1,5 +1,7 @@
 # Privacy Techniques
 
+[← Previous: Monitoring and Observability Techniques](../monitoring-and-observability/README.md) · [Contents](../../README.md) · [Next: Robustness Testing →](../robustness-testing/README.md)
+
 *[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/README.md) › [privacy-techniques](../../08-controls-and-techniques/privacy-techniques/README.md)*
 
 Implements [05-responsible-ai-principles/privacy-and-data-protection.md](../../05-responsible-ai-principles/privacy-and-data-protection.md) as concrete methods.
@@ -32,3 +34,7 @@ Match technique to risk: differential privacy for aggregate statistical release 
 ## Tooling
 
 See [09-tools-and-frameworks/open-source-tools.md](../../09-tools-and-frameworks/open-source-tools.md) (Presidio for PII detection, various DP libraries).
+
+---
+
+[← Previous: Monitoring and Observability Techniques](../monitoring-and-observability/README.md) · [Contents](../../README.md) · [Next: Robustness Testing →](../robustness-testing/README.md)

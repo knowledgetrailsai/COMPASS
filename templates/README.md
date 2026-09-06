@@ -1,5 +1,7 @@
 # Templates
 
+[← Previous: AI Glossary](../glossary/ai-glossary.md) · [Contents](../README.md) · [Next: Assets →](../assets/README.md)
+
 *[Home](../INDEX.md) › [Templates](../templates/README.md)*
 
 Reusable, fill-in-the-blank templates referenced throughout the repository. Working copies live alongside their guidance in [13-implementation-playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md) — this folder is a convenience index for finding them quickly.
@@ -15,3 +17,7 @@ Reusable, fill-in-the-blank templates referenced throughout the repository. Work
 | Case study template | [12-case-studies/case-study-template.md](../12-case-studies/case-study-template.md) |
 
 Add new reusable templates here as the repository grows, keeping the working copy co-located with its explanatory guidance rather than duplicated in both places.
+
+---
+
+[← Previous: AI Glossary](../glossary/ai-glossary.md) · [Contents](../README.md) · [Next: Assets →](../assets/README.md)

@@ -1,5 +1,7 @@
 # Accountability and Human Oversight
 
+[← Previous: Red-Teaming](../04-ai-assurance/red-teaming.md) · [Contents](../README.md) · [Next: Fairness and Bias →](fairness-and-bias.md)
+
 *[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)*
 
 ## What accountability means for AI
@@ -38,3 +40,7 @@ A common failure: an AI system's output is treated as if it removes human judgme
 ## Documentation
 
 Accountability is only real if it's traceable: tie this principle to [04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md) (model cards, action logs) and to the incident response process ([incident-response.md](../02-ai-lifecycle/incident-and-remediation.md)).
+
+---
+
+[← Previous: Red-Teaming](../04-ai-assurance/red-teaming.md) · [Contents](../README.md) · [Next: Fairness and Bias →](fairness-and-bias.md)

@@ -1,5 +1,7 @@
 # Identity and Authorization for Agents
 
+[← Previous: Human-Agent Interaction](human-agent-interaction.md) · [Contents](../README.md) · [Next: Memory and State Risk →](memory-and-state-risk.md)
+
 *[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Why this is becoming fundamental
@@ -37,3 +39,7 @@ Emerging protocols and patterns for agent identity/authorization (OAuth-style de
 - [tool-use-and-permissions.md](tool-use-and-permissions.md)
 - [autonomy-and-control.md](autonomy-and-control.md)
 - [05-responsible-ai-principles/accountability-and-human-oversight.md](../05-responsible-ai-principles/accountability-and-human-oversight.md)
+
+---
+
+[← Previous: Human-Agent Interaction](human-agent-interaction.md) · [Contents](../README.md) · [Next: Memory and State Risk →](memory-and-state-risk.md)

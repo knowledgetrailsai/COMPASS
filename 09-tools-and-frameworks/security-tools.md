@@ -1,5 +1,7 @@
 # Security Tools
 
+[← Previous: Open-Source Tools](open-source-tools.md) · [Contents](../README.md) · [Next: Tool Selection Matrix →](tool-selection-matrix.md)
+
 *[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 ## AI/LLM-specific security testing
@@ -41,3 +43,7 @@ AI-specific security tools should feed into existing SIEM/security monitoring in
 ## Related
 
 - [14-ai-security](../14-ai-security/README.md), the practitioner-level threat model, control catalog, and testing program these tools implement
+
+---
+
+[← Previous: Open-Source Tools](open-source-tools.md) · [Contents](../README.md) · [Next: Tool Selection Matrix →](tool-selection-matrix.md)

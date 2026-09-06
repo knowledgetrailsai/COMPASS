@@ -1,5 +1,7 @@
 # Singapore — AI Regulation
 
+[← Previous: India — Sectoral AI Guidance](../India/sectoral-regulation.md) · [Contents](../../README.md) · [Next: UK — AI Regulation →](../UK/uk-ai-regulation.md)
+
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [Singapore](../../10-regulations-and-standards/Singapore/singapore-ai-regulation.md)*
 
 _Last reviewed: 2026-08-19._
@@ -31,3 +33,7 @@ Treat Singapore's approach as "voluntary framework + binding data protection + b
 ## Related
 
 - [global-overview.md](../global-overview.md)
+
+---
+
+[← Previous: India — Sectoral AI Guidance](../India/sectoral-regulation.md) · [Contents](../../README.md) · [Next: UK — AI Regulation →](../UK/uk-ai-regulation.md)

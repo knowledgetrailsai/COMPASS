@@ -1,5 +1,7 @@
 # EU AI Act
 
+[← Previous: China — AI Regulation](../China/china-ai-regulation.md) · [Contents](../../README.md) · [Next: India — Digital Personal Data Protection (DPDP) Act & Rules →](../India/dpdp-act.md)
+
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [EU](../../10-regulations-and-standards/EU/eu-ai-act.md)*
 
 _Type: Law (Regulation (EU) 2024/1689). Last reviewed: 2026-08-19; this is an actively evolving regulation; confirm current deadlines and requirements with legal counsel before relying on any specific date below._
@@ -44,3 +46,7 @@ Sources:
 - [EU AI Act Omnibus Agreement — Postponed High-Risk Deadlines and Other Key Changes (Gibson Dunn)](https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/)
 - [The Digital Omnibus and the postponement of high-risk obligations to December 2027](https://www.aiactblog.nl/en/posts/digital-omnibus-high-risk-postponement-december-2027)
 - [EU AI Act Timeline — European Commission AI Act Service Desk](https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act)
+
+---
+
+[← Previous: China — AI Regulation](../China/china-ai-regulation.md) · [Contents](../../README.md) · [Next: India — Digital Personal Data Protection (DPDP) Act & Rules →](../India/dpdp-act.md)

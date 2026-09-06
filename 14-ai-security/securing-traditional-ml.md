@@ -1,5 +1,7 @@
 # Securing Traditional ML
 
+[← Previous: Securing Generative AI](securing-genai.md) · [Contents](../README.md) · [Next: AI Security Incident Response →](security-incident-response.md)
+
 *[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 ## Threat catalog
@@ -41,3 +43,7 @@ See [security-testing-program.md](security-testing-program.md) and [08-controls-
 
 - [ai-threat-model.md](ai-threat-model.md)
 - [09-tools-and-frameworks/MITRE-ATLAS.md](../09-tools-and-frameworks/MITRE-ATLAS.md)
+
+---
+
+[← Previous: Securing Generative AI](securing-genai.md) · [Contents](../README.md) · [Next: AI Security Incident Response →](security-incident-response.md)

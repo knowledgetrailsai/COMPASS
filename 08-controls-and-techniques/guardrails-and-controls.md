@@ -1,5 +1,7 @@
 # Guardrails and Runtime Controls
 
+[← Previous: Controls and Techniques](README.md) · [Contents](../README.md) · [Next: Evaluation and Benchmarking →](evaluation-and-benchmarking/README.md)
+
 *[Home](../INDEX.md) › [08 · Controls & Techniques](../08-controls-and-techniques/README.md)*
 
 ## Definition
@@ -48,3 +50,7 @@ Guardrail effectiveness should be verified through [04-ai-assurance/red-teaming.
 ## Related
 
 - [14-ai-security](../14-ai-security/README.md) — full threat model and control catalog these guardrails implement
+
+---
+
+[← Previous: Controls and Techniques](README.md) · [Contents](../README.md) · [Next: Evaluation and Benchmarking →](evaluation-and-benchmarking/README.md)

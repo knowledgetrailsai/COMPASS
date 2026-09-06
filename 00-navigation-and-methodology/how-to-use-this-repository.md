@@ -1,5 +1,7 @@
 # How to Use This Repository
 
+[← Previous: Framework Map](framework-map.md) · [Contents](../README.md) · [Next: Knowledge Map →](knowledge-map.md)
+
 *[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/framework-map.md)*
 
 ## If you are...
@@ -28,3 +30,7 @@
 ## Keeping this current
 
 See [source-and-evidence-policy.md](source-and-evidence-policy.md) for how claims should be sourced, and the root [CONTRIBUTING.md](../CONTRIBUTING.md) for the update process. Regulatory and tooling content dates quickly, check the `_Last reviewed_` line at the top of any file in sections 09 and 10 before relying on it for a decision.
+
+---
+
+[← Previous: Framework Map](framework-map.md) · [Contents](../README.md) · [Next: Knowledge Map →](knowledge-map.md)

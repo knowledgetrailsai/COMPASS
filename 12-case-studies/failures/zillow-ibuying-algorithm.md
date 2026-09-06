@@ -1,5 +1,7 @@
 # Zillow Offers Home-Pricing Algorithm Failure
 
+[← Previous: COMPAS Recidivism Risk Scoring](../bias-and-discrimination/compas-recidivism.md) · [Contents](../../README.md) · [Next: Widespread Adoption of Model Cards and Datasheets →](../good-practices/model-cards-and-datasheets-adoption.md)
+
 *[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [failures](../../12-case-studies/failures/zillow-ibuying-algorithm.md)*
 
 **Context**: Zillow's "Zillow Offers" iBuying business, which used an algorithmic home-valuation model ("Zestimate"-derived pricing) to make cash offers on homes for resale. Business wound down in late 2021 with a reported ~$300M+ inventory write-down and significant workforce reduction.
@@ -25,3 +27,7 @@
 **Preventive controls**: Real-time production monitoring comparing model predictions to actual outcomes ([02-ai-lifecycle/monitoring-and-observability.md](../../02-ai-lifecycle/monitoring-and-observability.md)); pre-defined circuit breakers capping aggregate financial exposure when error signals exceed thresholds ([02-ai-lifecycle/deployment-and-release.md](../../02-ai-lifecycle/deployment-and-release.md)); distribution-shift-aware model design and more conservative human review scaling with transaction risk/value.
 
 **Sources**: Widely reported in business press at the time of the wind-down (November 2021), including Reuters, CNBC, and The Wall Street Journal coverage of Zillow's Q3 2021 earnings announcement and iBuying business closure.
+
+---
+
+[← Previous: COMPAS Recidivism Risk Scoring](../bias-and-discrimination/compas-recidivism.md) · [Contents](../../README.md) · [Next: Widespread Adoption of Model Cards and Datasheets →](../good-practices/model-cards-and-datasheets-adoption.md)

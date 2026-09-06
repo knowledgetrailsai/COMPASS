@@ -1,5 +1,7 @@
 # Risk Tiering
 
+[← Previous: Policy Management](policy-management.md) · [Contents](../README.md) · [Next: Roles and Responsibilities →](roles-and-responsibilities.md)
+
 *[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 ## Why tier
@@ -39,3 +41,7 @@ Tiering agentic systems should weight **autonomy level** and **tool/action scope
 ## Re-tiering
 
 Risk tier isn't static: re-assess when scope expands (new data sources, new tool access, new user population) or after a near-miss/incident.
+
+---
+
+[← Previous: Policy Management](policy-management.md) · [Contents](../README.md) · [Next: Roles and Responsibilities →](roles-and-responsibilities.md)

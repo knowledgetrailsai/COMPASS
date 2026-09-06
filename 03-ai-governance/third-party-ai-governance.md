@@ -1,5 +1,7 @@
 # Third-Party AI Governance
 
+[← Previous: Roles and Responsibilities](roles-and-responsibilities.md) · [Contents](../README.md) · [Next: AI Impact Assessment →](../04-ai-assurance/AI-impact-assessment.md)
+
 *[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 ## Why this needs its own discipline
@@ -29,3 +31,7 @@ Full assessment checklist: [13-implementation-playbooks/vendor-third-party-ai-as
 ## Risk tiering applies here too
 
 Apply [risk-management.md](risk-management.md) tiering to third-party AI the same way as internal systems; a vendor chatbot handling sensitive customer data is Tier 1 regardless of who built the underlying model.
+
+---
+
+[← Previous: Roles and Responsibilities](roles-and-responsibilities.md) · [Contents](../README.md) · [Next: AI Impact Assessment →](../04-ai-assurance/AI-impact-assessment.md)

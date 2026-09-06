@@ -1,5 +1,7 @@
 # Playbook: Gen AI App Launch Checklist
 
+[← Previous: Playbook: Conducting an AI Risk Assessment](conducting-an-ai-risk-assessment.md) · [Contents](../README.md) · [Next: Playbook: Model / System Card Template →](model-card-template.md)
+
 *[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md)*
 
 ## Requirements and design
@@ -39,3 +41,7 @@
 ## Legal/IP
 - [ ] Vendor terms reviewed for data use and IP indemnification ([06-generative-ai/copyright-and-ip.md](../06-generative-ai/copyright-and-ip.md))
 - [ ] Applicable regulation reviewed for jurisdiction/sector ([10-regulations-and-standards](../10-regulations-and-standards/global-overview.md), [11-sector-specific-ai](../11-sector-specific-ai/README.md))
+
+---
+
+[← Previous: Playbook: Conducting an AI Risk Assessment](conducting-an-ai-risk-assessment.md) · [Contents](../README.md) · [Next: Playbook: Model / System Card Template →](model-card-template.md)

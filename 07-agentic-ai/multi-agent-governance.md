@@ -1,5 +1,7 @@
 # Multi-Agent Governance
 
+[← Previous: Memory and State Risk](memory-and-state-risk.md) · [Contents](../README.md) · [Next: Planning and Reasoning Risk →](planning-and-reasoning-risk.md)
+
 *[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Why multi-agent systems need distinct governance
@@ -40,3 +42,7 @@ If a task can be reliably accomplished by a single, well-scoped agent, the added
 
 - [tool-use-and-permissions.md](tool-use-and-permissions.md)
 - [agentic-evaluation.md](agentic-evaluation.md)
+
+---
+
+[← Previous: Memory and State Risk](memory-and-state-risk.md) · [Contents](../README.md) · [Next: Planning and Reasoning Risk →](planning-and-reasoning-risk.md)

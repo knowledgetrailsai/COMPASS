@@ -1,5 +1,7 @@
 # AI Supply Chain Security
 
+[← Previous: Security Testing Program](security-testing-program.md) · [Contents](../README.md) · [Next: AI Glossary →](../glossary/ai-glossary.md)
+
 *[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 ## Why AI has a distinct supply chain risk
@@ -36,3 +38,7 @@ Risk: covered in depth in [03-ai-governance/third-party-ai-governance.md](../03-
 
 - [09-tools-and-frameworks/OWASP-llm-top10.md](../09-tools-and-frameworks/OWASP-llm-top10.md) (Supply Chain Vulnerabilities category)
 - [03-ai-governance/third-party-ai-governance.md](../03-ai-governance/third-party-ai-governance.md)
+
+---
+
+[← Previous: Security Testing Program](security-testing-program.md) · [Contents](../README.md) · [Next: AI Glossary →](../glossary/ai-glossary.md)

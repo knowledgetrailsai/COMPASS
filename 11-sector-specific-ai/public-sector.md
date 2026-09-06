@@ -1,5 +1,7 @@
 # Public Sector
 
+[← Previous: Manufacturing](manufacturing.md) · [Contents](../README.md) · [Next: Retail →](retail.md)
+
 *[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
@@ -23,3 +25,7 @@ Often the most stringent regulatory tier in any given framework — the EU AI Ac
 
 ## Assurance emphasis
 Public-sector AI often faces the highest public scrutiny and legal challenge risk of any category in this repository, invest in full [04-ai-assurance](../04-ai-assurance/assurance-overview.md) rigor (impact assessment, independent assessment, audit, red-teaming) as a default rather than a risk-tier-dependent choice.
+
+---
+
+[← Previous: Manufacturing](manufacturing.md) · [Contents](../README.md) · [Next: Retail →](retail.md)

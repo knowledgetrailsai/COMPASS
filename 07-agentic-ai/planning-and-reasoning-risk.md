@@ -1,5 +1,7 @@
 # Planning and Reasoning Risk
 
+[← Previous: Multi-Agent Governance](multi-agent-governance.md) · [Contents](../README.md) · [Next: Tool Use and Permissions →](tool-use-and-permissions.md)
+
 *[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Why planning introduces distinct risk
@@ -36,3 +38,7 @@ An agent proceeding with a specific multi-step plan when the situation is genuin
 - [autonomy-and-control.md](autonomy-and-control.md)
 - [agentic-evaluation.md](agentic-evaluation.md)
 - [05-responsible-ai-principles/robustness-and-reliability.md](../05-responsible-ai-principles/robustness-and-reliability.md)
+
+---
+
+[← Previous: Multi-Agent Governance](multi-agent-governance.md) · [Contents](../README.md) · [Next: Tool Use and Permissions →](tool-use-and-permissions.md)

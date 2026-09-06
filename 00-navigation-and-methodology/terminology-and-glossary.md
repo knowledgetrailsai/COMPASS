@@ -1,5 +1,7 @@
 # Terminology — Key Distinctions
 
+[← Previous: Source and Evidence Policy](source-and-evidence-policy.md) · [Contents](../README.md) · [Next: Topic Index →](topic-index.md)
+
 *[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/framework-map.md)*
 
 A short guide to terms this repository uses precisely and consistently. For the full alphabetical glossary, see [glossary/ai-glossary.md](../glossary/ai-glossary.md).
@@ -42,3 +44,7 @@ Fairlearn is a **tool**. NIST AI RMF is a **framework**. ISO/IEC 42001 is a **ma
 ## Traditional ML vs. Generative AI vs. Agentic AI
 
 See [01-foundations/what-is-responsible-ai.md](../01-foundations/what-is-responsible-ai.md#scope-of-this-guide) for the scope table.
+
+---
+
+[← Previous: Source and Evidence Policy](source-and-evidence-policy.md) · [Contents](../README.md) · [Next: Topic Index →](topic-index.md)

@@ -1,5 +1,7 @@
 # COMPAS Recidivism Risk Scoring
 
+[← Previous: Amazon's Experimental AI Recruiting Tool](amazon-recruiting-tool.md) · [Contents](../../README.md) · [Next: Zillow Offers Home-Pricing Algorithm Failure →](../failures/zillow-ibuying-algorithm.md)
+
 *[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [bias-and-discrimination](../../12-case-studies/bias-and-discrimination/amazon-recruiting-tool.md)*
 
 **Context**: US criminal justice system, COMPAS risk-assessment tool (developed by Northpointe/Equivant) used by courts in several US states to inform bail, sentencing, and parole decisions. Most prominently analyzed by ProPublica in 2016.
@@ -25,3 +27,7 @@
 **Preventive controls**: Explicit fairness-definition selection with documented rationale during [02-ai-lifecycle/requirements-and-design.md](../../02-ai-lifecycle/requirements-and-design.md); independent, published evaluation before adoption in rights-affecting public-sector use ([11-sector-specific-ai/public-sector.md](../../11-sector-specific-ai/public-sector.md)); transparency sufficient for external audit despite proprietary model status.
 
 **Sources**: ProPublica, "Machine Bias" (2016); Northpointe/Equivant's public response; extensive subsequent academic literature on the mathematical incompatibility of fairness definitions (e.g., Kleinberg et al., Chouldechova, 2016-2017).
+
+---
+
+[← Previous: Amazon's Experimental AI Recruiting Tool](amazon-recruiting-tool.md) · [Contents](../../README.md) · [Next: Zillow Offers Home-Pricing Algorithm Failure →](../failures/zillow-ibuying-algorithm.md)

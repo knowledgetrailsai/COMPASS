@@ -1,5 +1,7 @@
 # Privacy and Data Protection
 
+[← Previous: Fairness and Bias](fairness-and-bias.md) · [Contents](../README.md) · [Next: Robustness and Reliability →](robustness-and-reliability.md)
+
 *[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)*
 
 ## Core obligations
@@ -38,3 +40,7 @@ GDPR (EU), India's DPDP Act 2023, and sector-specific rules (HIPAA for health da
 ## DPIA trigger
 
 Conduct a Data Protection Impact Assessment when: processing sensitive/special-category data at scale, using profiling with legal/significant effect, or deploying novel AI technology with unclear privacy risk: see [13-implementation-playbooks/conducting-an-ai-risk-assessment.md](../13-implementation-playbooks/conducting-an-ai-risk-assessment.md).
+
+---
+
+[← Previous: Fairness and Bias](fairness-and-bias.md) · [Contents](../README.md) · [Next: Robustness and Reliability →](robustness-and-reliability.md)

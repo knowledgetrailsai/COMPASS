@@ -1,5 +1,7 @@
 # Sustainability
 
+[← Previous: Safety and Security](safety-and-security.md) · [Contents](../README.md) · [Next: Transparency and Explainability →](transparency-and-explainability.md)
+
 *[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)*
 
 ## Why it's part of Responsible AI
@@ -30,3 +32,7 @@ Where material, include AI-related energy/compute considerations in existing cor
 ## Balancing act
 
 Sustainability should inform architecture and vendor choices, not be used to justify skipping safety/evaluation steps ("we didn't have compute budget to red-team this"); treat it as one more design constraint alongside, not traded off against, the other principles.
+
+---
+
+[← Previous: Safety and Security](safety-and-security.md) · [Contents](../README.md) · [Next: Transparency and Explainability →](transparency-and-explainability.md)

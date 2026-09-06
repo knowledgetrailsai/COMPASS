@@ -1,5 +1,7 @@
 # Policy Management
 
+[← Previous: Governance Models](governance-models.md) · [Contents](../README.md) · [Next: Risk Tiering →](risk-management.md)
+
 *[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 ## Core AI policies an organization typically needs
@@ -34,3 +36,7 @@ Assessment and contracting requirements before adopting a third-party AI tool or
 ## Common failure mode
 
 Publishing a policy without an enforcement mechanism; a policy that isn't checked at an actual gate (procurement, deployment pipeline, code review) tends to be honored only by teams who were already going to comply.
+
+---
+
+[← Previous: Governance Models](governance-models.md) · [Contents](../README.md) · [Next: Risk Tiering →](risk-management.md)

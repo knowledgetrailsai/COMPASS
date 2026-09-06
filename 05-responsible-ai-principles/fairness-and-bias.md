@@ -1,5 +1,7 @@
 # Fairness and Bias
 
+[← Previous: Accountability and Human Oversight](accountability-and-human-oversight.md) · [Contents](../README.md) · [Next: Privacy and Data Protection →](privacy-and-data-protection.md)
+
 *[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)*
 
 ## What it means
@@ -50,3 +52,7 @@ Bias can compound across multi-step autonomous decisions — a slightly biased s
 - Choose and document a fairness definition appropriate to the decision context
 - Test on representative, sufficiently large subgroup samples (not just aggregate accuracy)
 - Re-test after any data or model change, not just at launch
+
+---
+
+[← Previous: Accountability and Human Oversight](accountability-and-human-oversight.md) · [Contents](../README.md) · [Next: Privacy and Data Protection →](privacy-and-data-protection.md)

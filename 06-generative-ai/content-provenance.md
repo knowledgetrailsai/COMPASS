@@ -1,5 +1,7 @@
 # Content Provenance and Authenticity
 
+[← Previous: RAG-Specific Considerations](RAG-governance.md) · [Contents](../README.md) · [Next: Copyright and IP Considerations →](copyright-and-ip.md)
+
 *[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Why it matters
@@ -37,3 +39,7 @@ Increasingly mandated by regulation (EU AI Act transparency obligations, various
 
 - [06-generative-ai/genai-risk-landscape.md](genai-risk-landscape.md)
 - [10-regulations-and-standards/eu-ai-act.md](../10-regulations-and-standards/EU/eu-ai-act.md) — transparency obligations
+
+---
+
+[← Previous: RAG-Specific Considerations](RAG-governance.md) · [Contents](../README.md) · [Next: Copyright and IP Considerations →](copyright-and-ip.md)

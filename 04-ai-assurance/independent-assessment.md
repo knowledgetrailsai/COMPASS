@@ -1,5 +1,7 @@
 # Independent Assessment
 
+[← Previous: Documentation Artifacts](evidence-and-traceability.md) · [Contents](../README.md) · [Next: Model Validation →](model-validation.md)
+
 *[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## Why independence matters
@@ -33,3 +35,7 @@ Independent assessors typically execute or verify [model-validation.md](model-va
 ## Practical guidance
 
 Reserve external independent assessment for the highest-stakes systems (Tier 1 with significant rights/safety impact, or where regulation mandates it) given cost and lead time — use strong internal independence as the default for the rest of Tier 1 and Tier 2.
+
+---
+
+[← Previous: Documentation Artifacts](evidence-and-traceability.md) · [Contents](../README.md) · [Next: Model Validation →](model-validation.md)

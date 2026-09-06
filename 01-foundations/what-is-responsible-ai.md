@@ -1,5 +1,7 @@
 # What is Responsible AI
 
+[← Previous: Stakeholder Roles](stakeholder-roles.md) · [Contents](../README.md) · [Next: Stage 3: Data & Data Governance →](../02-ai-lifecycle/data-and-data-governance.md)
+
 *[Home](../INDEX.md) › [01 · Foundations](../01-foundations/ai-ethics.md)*
 
 ## Definition
@@ -36,3 +38,7 @@ The most common failure mode is treating RAI as a single sign-off before launch.
 - [principles.md](principles.md); the core principles this guide is built on
 - [risk-taxonomy.md](risk-taxonomy.md) — categorizing what can go wrong
 - [stakeholder-roles.md](stakeholder-roles.md); who is responsible for what
+
+---
+
+[← Previous: Stakeholder Roles](stakeholder-roles.md) · [Contents](../README.md) · [Next: Stage 3: Data & Data Governance →](../02-ai-lifecycle/data-and-data-governance.md)

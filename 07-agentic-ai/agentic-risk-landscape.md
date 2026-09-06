@@ -1,5 +1,7 @@
 # Agentic AI — Risk Landscape
 
+[← Previous: Agentic Evaluation](agentic-evaluation.md) · [Contents](../README.md) · [Next: Autonomy and Control →](autonomy-and-control.md)
+
 *[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## What makes agentic AI different
@@ -36,3 +38,7 @@ Content filtering and hallucination mitigation address what an agent *says*; age
 ## Risk-proportionate autonomy
 
 Treat autonomy level as a dial, not a binary. See [autonomy-and-control.md](autonomy-and-control.md) for a structured way to decide how much independence an agent should have for a given task and risk tier.
+
+---
+
+[← Previous: Agentic Evaluation](agentic-evaluation.md) · [Contents](../README.md) · [Next: Autonomy and Control →](autonomy-and-control.md)

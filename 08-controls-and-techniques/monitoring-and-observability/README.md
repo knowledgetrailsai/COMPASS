@@ -1,5 +1,7 @@
 # Monitoring and Observability Techniques
 
+[← Previous: Fairness Testing](../fairness-testing/README.md) · [Contents](../../README.md) · [Next: Privacy Techniques →](../privacy-techniques/README.md)
+
 *[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/README.md) › [monitoring-and-observability](../../08-controls-and-techniques/monitoring-and-observability/README.md)*
 
 Implementation detail supporting [02-ai-lifecycle/monitoring-and-observability.md](../../02-ai-lifecycle/monitoring-and-observability.md) and [07-agentic-ai/agent-observability.md](../../07-agentic-ai/agent-observability.md).
@@ -33,3 +35,7 @@ Automated metrics miss qualitative failure modes (subtly wrong-but-plausible out
 ## Tooling
 
 See [09-tools-and-frameworks/observability-tools.md](../../09-tools-and-frameworks/observability-tools.md).
+
+---
+
+[← Previous: Fairness Testing](../fairness-testing/README.md) · [Contents](../../README.md) · [Next: Privacy Techniques →](../privacy-techniques/README.md)

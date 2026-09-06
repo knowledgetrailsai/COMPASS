@@ -1,5 +1,7 @@
 # AI Assurance — Overview
 
+[← Previous: AI Risk Assessment](AI-risk-assessment.md) · [Contents](../README.md) · [Next: Assurance Reporting →](assurance-reporting.md)
+
 *[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## Definition
@@ -42,3 +44,7 @@ Higher assurance levels cost more and take longer, match the level to the risk t
 ## Assurance is continuous, not a one-time certificate
 
 A system validated at launch can drift out of compliance as data, usage, or the model itself changes. Assurance activities should recur (audits, periodic red-teaming, and re-validation) tied into [02-ai-lifecycle/monitoring-and-observability.md](../02-ai-lifecycle/monitoring-and-observability.md).
+
+---
+
+[← Previous: AI Risk Assessment](AI-risk-assessment.md) · [Contents](../README.md) · [Next: Assurance Reporting →](assurance-reporting.md)

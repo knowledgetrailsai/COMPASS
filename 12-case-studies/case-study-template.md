@@ -1,5 +1,7 @@
 # Case Study Template
 
+[← Previous: Retail](../11-sector-specific-ai/retail.md) · [Contents](../README.md) · [Next: AISI Incident: Unsanctioned Agent Behaviour During Cyber Testing →](agentic-failures/aisi-unsanctioned-agent-behavior.md)
+
 *[Home](../INDEX.md) › [12 · Case Studies](../12-case-studies/case-study-template.md)*
 
 Every case study in this section should follow this structure so cases are comparable and machine-readable as knowledge, not just narrative stories. Per [00-navigation-and-methodology/source-and-evidence-policy.md](../00-navigation-and-methodology/source-and-evidence-policy.md), factual claims should be sourced (Tier 4: documented, verifiable events) and clearly separated from interpretation.
@@ -48,3 +50,7 @@ Every case study in this section should follow this structure so cases are compa
 ## Using case studies
 
 Reference these during [02-ai-lifecycle/requirements-and-design.md](../02-ai-lifecycle/requirements-and-design.md) (to inform risk identification) and [04-ai-assurance/red-teaming.md](../04-ai-assurance/red-teaming.md) (to inform test scenarios). Real precedent is often more persuasive to stakeholders than an abstract risk description.
+
+---
+
+[← Previous: Retail](../11-sector-specific-ai/retail.md) · [Contents](../README.md) · [Next: AISI Incident: Unsanctioned Agent Behaviour During Cyber Testing →](agentic-failures/aisi-unsanctioned-agent-behavior.md)

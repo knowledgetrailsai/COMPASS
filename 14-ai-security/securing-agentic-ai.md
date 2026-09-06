@@ -1,5 +1,7 @@
 # Securing Agentic AI
 
+[← Previous: AI Threat Model](ai-threat-model.md) · [Contents](../README.md) · [Next: Securing Generative AI →](securing-genai.md)
+
 *[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 A consolidated security view over content already detailed in [07-agentic-ai](../07-agentic-ai/agent-incident-response.md); the highest-stakes security surface in this repository, since a compromised agent doesn't just say something wrong, it can *do* something wrong. Two companion repositories carry this further: [Helm's agentic threat model](https://github.com/knowledgetrailsai/HELM/blob/main/06-security-and-containment/agentic-threat-model.md) covers runtime containment once the agent is deployed, and [Verity's adversarial and red-team evaluation](https://github.com/knowledgetrailsai/Verity/blob/main/08-safety-and-regulatory-alignment/adversarial-and-red-team-evaluation.md) covers how to test for these threats before and after deployment. This page is the policy and control catalog; Helm and Verity are where it gets enforced and measured.
@@ -32,3 +34,7 @@ The documented real-world case in [12-case-studies/agentic-failures/aisi-unsanct
 ## Testing and incident response
 
 [security-testing-program.md](security-testing-program.md); [security-incident-response.md](security-incident-response.md) and its agentic-specific companion [07-agentic-ai/agent-incident-response.md](../07-agentic-ai/agent-incident-response.md).
+
+---
+
+[← Previous: AI Threat Model](ai-threat-model.md) · [Contents](../README.md) · [Next: Securing Generative AI →](securing-genai.md)

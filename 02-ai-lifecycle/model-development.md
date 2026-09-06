@@ -1,5 +1,7 @@
 # Stage 4: Model Development
 
+[← Previous: AI Lifecycle Overview](lifecycle-overview.md) · [Contents](../README.md) · [Next: Stage 7: Monitoring & Observability →](monitoring-and-observability.md)
+
 *[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## Purpose
@@ -29,3 +31,7 @@ Build or select the model/system in a way that's proportionate to the risk tier 
 ## Gate
 
 Move to evaluation only once the system meets its design-time requirements on internal testing; evaluation & validation ([evaluation-and-validation.md](evaluation-and-validation.md)) is the independent check, not a substitute for developer-level testing during this stage.
+
+---
+
+[← Previous: AI Lifecycle Overview](lifecycle-overview.md) · [Contents](../README.md) · [Next: Stage 7: Monitoring & Observability →](monitoring-and-observability.md)

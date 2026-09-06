@@ -1,5 +1,7 @@
 # AI Incident Response
 
+[← Previous: Stage 5: Evaluation & Validation](evaluation-and-validation.md) · [Contents](../README.md) · [Next: AI Lifecycle Overview →](lifecycle-overview.md)
+
 *[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## What counts as an AI incident
@@ -51,3 +53,7 @@ Blameless review: what failed (technical control, process, or judgment call), wh
 - Kill switch/rollback mechanism exists and is tested for every Tier 1 system
 - On-call ownership defined for AI incidents (who gets paged)
 - Escalation path to legal/compliance defined in advance, not improvised during an incident
+
+---
+
+[← Previous: Stage 5: Evaluation & Validation](evaluation-and-validation.md) · [Contents](../README.md) · [Next: AI Lifecycle Overview →](lifecycle-overview.md)

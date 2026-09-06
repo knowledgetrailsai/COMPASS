@@ -1,5 +1,7 @@
 # UK — AI Regulation
 
+[← Previous: Singapore — AI Regulation](../Singapore/singapore-ai-regulation.md) · [Contents](../../README.md) · [Next: US — Federal AI Policy →](../US/federal.md)
+
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [UK](../../10-regulations-and-standards/UK/uk-ai-regulation.md)*
 
 _Last reviewed: 2026-08-19. Confirm current regulator guidance directly, as the UK's approach is deliberately iterative and updated by individual regulators rather than through a single statute._
@@ -36,3 +38,7 @@ These align closely with [01-foundations/principles.md](../../01-foundations/pri
 
 - [global-overview.md](../global-overview.md)
 - [EU/eu-ai-act.md](../EU/eu-ai-act.md) for comparison
+
+---
+
+[← Previous: Singapore — AI Regulation](../Singapore/singapore-ai-regulation.md) · [Contents](../../README.md) · [Next: US — Federal AI Policy →](../US/federal.md)

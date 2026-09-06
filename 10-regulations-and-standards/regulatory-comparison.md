@@ -1,5 +1,7 @@
 # Regulatory Comparison
 
+[← Previous: Global Regulatory Overview](global-overview.md) · [Contents](../README.md) · [Next: Canada — AI Regulation →](Canada/canada-ai-regulation.md)
+
 *[Home](../INDEX.md) › [10 · Regulations & Standards](../10-regulations-and-standards/global-overview.md)*
 
 _Last reviewed: 2026-08-19. Snapshot comparison. See each jurisdiction's file for detail and sourcing._
@@ -20,3 +22,7 @@ Start compliance planning from whichever jurisdiction has the most stringent app
 ## Caution on this table
 
 This is a simplified snapshot for orientation, not a substitute for jurisdiction-specific legal review — several rows (US state law, Canada's AIDA, India's evolving sectoral guidance) are explicitly unsettled as of this review. Confirm current status per [00-navigation-and-methodology/source-and-evidence-policy.md](../00-navigation-and-methodology/source-and-evidence-policy.md) before using this for an actual compliance decision.
+
+---
+
+[← Previous: Global Regulatory Overview](global-overview.md) · [Contents](../README.md) · [Next: Canada — AI Regulation →](Canada/canada-ai-regulation.md)

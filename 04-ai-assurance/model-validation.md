@@ -1,5 +1,7 @@
 # Model Validation
 
+[← Previous: Independent Assessment](independent-assessment.md) · [Contents](../README.md) · [Next: Red-Teaming →](red-teaming.md)
+
 *[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## Purpose
@@ -36,3 +38,7 @@ Validation results feed the model/system card and the risk register — see [evi
 ## Re-validation triggers
 
 Material model, data, prompt, or tool-access changes; significant usage pattern shifts observed in monitoring; a defined periodic cadence for Tier 1 systems regardless of triggering events.
+
+---
+
+[← Previous: Independent Assessment](independent-assessment.md) · [Contents](../README.md) · [Next: Red-Teaming →](red-teaming.md)

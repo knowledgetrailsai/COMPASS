@@ -1,5 +1,7 @@
 # AI Impact Assessment
 
+[← Previous: Third-Party AI Governance](../03-ai-governance/third-party-ai-governance.md) · [Contents](../README.md) · [Next: AI Risk Assessment →](AI-risk-assessment.md)
+
 *[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## Purpose
@@ -33,3 +35,7 @@ A signed-off impact assessment document, retained as an assurance artifact ([evi
 
 - [AI-risk-assessment.md](AI-risk-assessment.md), the risk-scoring methodology this assessment draws on
 - [13-implementation-playbooks/conducting-an-ai-risk-assessment.md](../13-implementation-playbooks/conducting-an-ai-risk-assessment.md) — step-by-step working version
+
+---
+
+[← Previous: Third-Party AI Governance](../03-ai-governance/third-party-ai-governance.md) · [Contents](../README.md) · [Next: AI Risk Assessment →](AI-risk-assessment.md)

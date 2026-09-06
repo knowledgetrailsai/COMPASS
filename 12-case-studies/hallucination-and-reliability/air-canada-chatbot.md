@@ -1,5 +1,7 @@
 # Air Canada Chatbot Bereavement Fare Case
 
+[← Previous: Widespread Adoption of Model Cards and Datasheets](../good-practices/model-cards-and-datasheets-adoption.md) · [Contents](../../README.md) · [Next: Samsung Employees' Confidential Data Leak via ChatGPT →](../privacy-incidents/samsung-chatgpt-leak.md)
+
 *[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [hallucination-and-reliability](../../12-case-studies/hallucination-and-reliability/air-canada-chatbot.md)*
 
 **Context**: Air Canada customer service chatbot, incident and subsequent tribunal ruling reported in early 2024.
@@ -25,3 +27,7 @@
 **Preventive controls**: RAG grounding requiring chatbot policy answers to cite current official policy; human review or escalation for financially consequential, policy-specific queries; clear internal ownership of chatbot content accuracy rather than treating the chatbot as autonomous/unaccountable.
 
 **Sources**: Widely reported, including CBC News and multiple legal/industry analyses of the Civil Resolution Tribunal of British Columbia decision, *Moffatt v. Air Canada* (2024).
+
+---
+
+[← Previous: Widespread Adoption of Model Cards and Datasheets](../good-practices/model-cards-and-datasheets-adoption.md) · [Contents](../../README.md) · [Next: Samsung Employees' Confidential Data Leak via ChatGPT →](../privacy-incidents/samsung-chatgpt-leak.md)

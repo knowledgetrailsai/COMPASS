@@ -1,5 +1,7 @@
 # Samsung Employees' Confidential Data Leak via ChatGPT
 
+[← Previous: Air Canada Chatbot Bereavement Fare Case](../hallucination-and-reliability/air-canada-chatbot.md) · [Contents](../../README.md) · [Next: Dutch Childcare Benefits Scandal (Toeslagenaffaire) →](../regulatory-actions/dutch-childcare-benefits-scandal.md)
+
 *[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [privacy-incidents](../../12-case-studies/privacy-incidents/samsung-chatgpt-leak.md)*
 
 **Context**: Samsung Semiconductor, reported in 2023.
@@ -25,3 +27,7 @@
 **Preventive controls**: Acceptable Use Policy explicitly addressing external Gen AI tool use ([03-ai-governance/policy-management.md](../../03-ai-governance/policy-management.md)); approved-tool list with vetted data-handling terms ([03-ai-governance/third-party-ai-governance.md](../../03-ai-governance/third-party-ai-governance.md)); employee training/awareness; technical DLP controls where feasible.
 
 **Sources**: Widely reported by multiple technology and business outlets in 2023 (e.g., Bloomberg, TechCrunch) covering Samsung's internal memo and subsequent restriction of external Gen AI tool use.
+
+---
+
+[← Previous: Air Canada Chatbot Bereavement Fare Case](../hallucination-and-reliability/air-canada-chatbot.md) · [Contents](../../README.md) · [Next: Dutch Childcare Benefits Scandal (Toeslagenaffaire) →](../regulatory-actions/dutch-childcare-benefits-scandal.md)

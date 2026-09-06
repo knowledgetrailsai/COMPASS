@@ -1,5 +1,7 @@
 # Education
 
+[← Previous: Critical Infrastructure](critical-infrastructure.md) · [Contents](../README.md) · [Next: Financial Services →](financial-services.md)
+
 *[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
@@ -23,3 +25,7 @@ Children's privacy law (e.g., COPPA-style regimes, DPDP Act's specific provision
 
 ## Assurance emphasis
 Given the children's-data sensitivity, apply DPIA-equivalent assessment ([04-ai-assurance/AI-impact-assessment.md](../04-ai-assurance/AI-impact-assessment.md)) as a default requirement rather than reserving it for the highest risk tier only.
+
+---
+
+[← Previous: Critical Infrastructure](critical-infrastructure.md) · [Contents](../README.md) · [Next: Financial Services →](financial-services.md)

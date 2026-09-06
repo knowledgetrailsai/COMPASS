@@ -1,5 +1,7 @@
 # Robustness and Reliability
 
+[← Previous: Privacy and Data Protection](privacy-and-data-protection.md) · [Contents](../README.md) · [Next: Safety and Security →](safety-and-security.md)
+
 *[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)*
 
 ## What it means
@@ -34,3 +36,7 @@ See [08-controls-and-techniques/robustness-testing](../08-controls-and-technique
 - Prefer explicit failure/refusal over confident guessing when the system is out of its reliable operating range
 - Define and test fallback behavior (e.g., hand off to a human, return "I don't know" with appropriate caveats, halt an agent rather than let it improvise on an unrecoverable error)
 - Set and monitor SLOs for AI-specific reliability metrics (hallucination rate, task success rate, action error rate), not just infrastructure uptime
+
+---
+
+[← Previous: Privacy and Data Protection](privacy-and-data-protection.md) · [Contents](../README.md) · [Next: Safety and Security →](safety-and-security.md)

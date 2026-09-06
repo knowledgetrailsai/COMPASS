@@ -1,5 +1,7 @@
 # Securing Generative AI
 
+[← Previous: Securing Agentic AI](securing-agentic-ai.md) · [Contents](../README.md) · [Next: Securing Traditional ML →](securing-traditional-ml.md)
+
 *[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 A consolidated security view over content already detailed in [06-generative-ai](../06-generative-ai/content-provenance.md) — start here for the threat-and-control summary, follow the links for full depth.
@@ -32,3 +34,7 @@ Access control enforced at retrieval time, not just at the source system, is the
 ## Testing
 
 [security-testing-program.md](security-testing-program.md); tools: Garak, promptfoo (red-team mode), see [09-tools-and-frameworks/security-tools.md](../09-tools-and-frameworks/security-tools.md).
+
+---
+
+[← Previous: Securing Agentic AI](securing-agentic-ai.md) · [Contents](../README.md) · [Next: Securing Traditional ML →](securing-traditional-ml.md)

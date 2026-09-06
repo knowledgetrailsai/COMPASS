@@ -1,5 +1,7 @@
 # Generative AI Evaluation
 
+[← Previous: Fine-Tuning Governance](fine-tuning-governance.md) · [Contents](../README.md) · [Next: Generative AI — Specific Risks →](genai-risk-landscape.md)
+
 *[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Why standard ML evaluation isn't sufficient
@@ -29,3 +31,7 @@ Public benchmarks (e.g., safety/bias benchmark suites, domain-specific QA sets) 
 ## Continuous evaluation
 
 Because prompts and underlying models change frequently, build evaluation into CI — automated regression suites that run on every prompt/model/RAG-corpus change, not just at initial launch. See [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/README.md).
+
+---
+
+[← Previous: Fine-Tuning Governance](fine-tuning-governance.md) · [Contents](../README.md) · [Next: Generative AI — Specific Risks →](genai-risk-landscape.md)

@@ -1,5 +1,7 @@
 # Synthetic Content
 
+[← Previous: Prompt Injection](prompt-injection.md) · [Contents](../README.md) · [Next: Agent Incident Response →](../07-agentic-ai/agent-incident-response.md)
+
 *[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Scope
@@ -34,3 +36,7 @@ Increasingly regulated explicitly, deepfake-specific laws in various jurisdictio
 
 - [content-provenance.md](content-provenance.md)
 - [12-case-studies](../12-case-studies/case-study-template.md) for documented synthetic-content misuse incidents
+
+---
+
+[← Previous: Prompt Injection](prompt-injection.md) · [Contents](../README.md) · [Next: Agent Incident Response →](../07-agentic-ai/agent-incident-response.md)

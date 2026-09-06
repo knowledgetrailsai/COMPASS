@@ -1,5 +1,7 @@
 # AI Governance Board
 
+[← Previous: RACI — AI Governance Activities](RACI.md) · [Contents](../README.md) · [Next: AI Governance Framework →](ai-governance-framework.md)
+
 *[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 ## Purpose
@@ -31,3 +33,7 @@ Every Board decision (approval, rejection, conditions attached) should be docume
 ## Avoiding bottleneck failure
 
 A Board that reviews everything becomes a bottleneck teams route around. Keep the Board focused on genuinely Tier 1 decisions and policy-setting; push Tier 2–3 to well-designed self-certification (see [governance-models.md](governance-models.md)) so the Board's scrutiny stays high-value and timely.
+
+---
+
+[← Previous: RACI — AI Governance Activities](RACI.md) · [Contents](../README.md) · [Next: AI Governance Framework →](ai-governance-framework.md)

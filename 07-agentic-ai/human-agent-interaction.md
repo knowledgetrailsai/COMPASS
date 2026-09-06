@@ -1,5 +1,7 @@
 # Human-Agent Interaction
 
+[← Previous: Autonomy and Control](autonomy-and-control.md) · [Contents](../README.md) · [Next: Identity and Authorization for Agents →](identity-and-authorization.md)
+
 *[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Why this deserves its own focus
@@ -34,3 +36,7 @@ The goal is *calibrated* trust; users should trust the agent roughly in proporti
 
 - [autonomy-and-control.md](autonomy-and-control.md)
 - [05-responsible-ai-principles/accountability-and-human-oversight.md](../05-responsible-ai-principles/accountability-and-human-oversight.md)
+
+---
+
+[← Previous: Autonomy and Control](autonomy-and-control.md) · [Contents](../README.md) · [Next: Identity and Authorization for Agents →](identity-and-authorization.md)

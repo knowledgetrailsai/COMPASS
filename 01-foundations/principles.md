@@ -1,5 +1,7 @@
 # Core Principles
 
+[← Previous: Human Rights and AI](human-rights-and-ai.md) · [Contents](../README.md) · [Next: Responsible AI vs. AI Ethics vs. AI Governance vs. AI Assurance →](responsible-ai-vs-ai-ethics.md)
+
 *[Home](../INDEX.md) › [01 · Foundations](../01-foundations/ai-ethics.md)*
 
 Most organizational and regulatory RAI frameworks (OECD AI Principles, NIST AI RMF, EU AI Act, ISO/IEC 42001) converge on a similar set of principles. This guide organizes them into eight pillars; each has a dedicated deep-dive in [05-responsible-ai-principles](../05-responsible-ai-principles/accountability-and-human-oversight.md).
@@ -41,3 +43,7 @@ Consideration of the environmental cost (compute, energy, water) of training and
 ## Using these principles
 
 Principles alone don't prevent harm; they need to be translated into concrete checkpoints (section 02), techniques (section 06), and tooling (section 07). Treat this page as the shared vocabulary the rest of the guide builds on.
+
+---
+
+[← Previous: Human Rights and AI](human-rights-and-ai.md) · [Contents](../README.md) · [Next: Responsible AI vs. AI Ethics vs. AI Governance vs. AI Assurance →](responsible-ai-vs-ai-ethics.md)

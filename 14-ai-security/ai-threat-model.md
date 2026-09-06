@@ -1,5 +1,7 @@
 # AI Threat Model
 
+[← Previous: AI Security](README.md) · [Contents](../README.md) · [Next: Securing Agentic AI →](securing-agentic-ai.md)
+
 *[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 ## Purpose
@@ -38,3 +40,7 @@ A single, structured map of the AI-specific attack surface; organized by attack 
 
 - [01-foundations/risk-taxonomy.md](../01-foundations/risk-taxonomy.md) — security risk sits within the broader risk taxonomy
 - [05-responsible-ai-principles/safety-and-security.md](../05-responsible-ai-principles/safety-and-security.md), the principle this threat model operationalizes
+
+---
+
+[← Previous: AI Security](README.md) · [Contents](../README.md) · [Next: Securing Agentic AI →](securing-agentic-ai.md)

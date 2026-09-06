@@ -1,5 +1,7 @@
 # Playbook: Model / System Card Template
 
+[← Previous: Playbook: Gen AI App Launch Checklist](genai-app-launch-checklist.md) · [Contents](../README.md) · [Next: Playbook: Vendor / Third-Party AI Assessment →](vendor-third-party-ai-assessment.md)
+
 *[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md)*
 
 Working template implementing [04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md).
@@ -56,3 +58,7 @@ Working template implementing [04-ai-assurance/evidence-and-traceability.md](../
 - Complete this progressively during [02-ai-lifecycle/model-development.md](../02-ai-lifecycle/model-development.md) rather than retroactively at launch
 - Update on every material change, not just at initial creation
 - For Gen AI/agentic systems with frequent prompt/tool changes, keep a lightweight changelog section rather than requiring a full card rewrite each time
+
+---
+
+[← Previous: Playbook: Gen AI App Launch Checklist](genai-app-launch-checklist.md) · [Contents](../README.md) · [Next: Playbook: Vendor / Third-Party AI Assessment →](vendor-third-party-ai-assessment.md)

@@ -1,5 +1,7 @@
 # RAG-Specific Considerations
 
+[← Previous: Transparency and Explainability](../05-responsible-ai-principles/transparency-and-explainability.md) · [Contents](../README.md) · [Next: Content Provenance and Authenticity →](content-provenance.md)
+
 *[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 Retrieval-Augmented Generation (RAG) grounds model outputs in retrieved documents, and is the most common enterprise Gen AI pattern; it introduces its own responsible-AI considerations distinct from a standalone LLM.
@@ -35,3 +37,7 @@ See [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-
 ## Data governance for the corpus
 
 Apply the same data lifecycle discipline to the retrieval corpus as to any data asset: ownership, classification, retention, and a clear process for removing documents (including handling deletion requests that must actually remove content from the index, not just the source system).
+
+---
+
+[← Previous: Transparency and Explainability](../05-responsible-ai-principles/transparency-and-explainability.md) · [Contents](../README.md) · [Next: Content Provenance and Authenticity →](content-provenance.md)

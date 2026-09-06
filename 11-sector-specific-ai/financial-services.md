@@ -1,5 +1,7 @@
 # Financial Services
 
+[← Previous: Education](education.md) · [Contents](../README.md) · [Next: Healthcare →](healthcare.md)
+
 *[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
@@ -23,3 +25,7 @@ Fair lending laws (e.g., ECOA/Regulation B and FCRA in the US), banking regulato
 
 ## Assurance emphasis
 Given existing regulatory examination practice in this sector, treat [04-ai-assurance/audit.md](../04-ai-assurance/audit.md) and [04-ai-assurance/independent-assessment.md](../04-ai-assurance/independent-assessment.md) as baseline expectations, not optional rigor. Financial regulators are accustomed to demanding this level of evidence for traditional models and will expect no less for AI.
+
+---
+
+[← Previous: Education](education.md) · [Contents](../README.md) · [Next: Healthcare →](healthcare.md)

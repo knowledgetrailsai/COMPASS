@@ -1,5 +1,7 @@
 # UNESCO Recommendation on the Ethics of AI
 
+[← Previous: OWASP Top 10 for LLM Applications](OWASP-llm-top10.md) · [Contents](../README.md) · [Next: Commercial / Vendor Platforms →](commercial-platforms.md)
+
 *[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 _Type: Framework (intergovernmental, non-binding — adopted by UNESCO member states as a normative instrument). Last reviewed: 2026-08-19._
@@ -33,3 +35,7 @@ Like the OECD principles, this is a normative/aspirational instrument member sta
 
 - [OECD-AI-principles.md](OECD-AI-principles.md)
 - [01-foundations/ai-ethics.md](../01-foundations/ai-ethics.md)
+
+---
+
+[← Previous: OWASP Top 10 for LLM Applications](OWASP-llm-top10.md) · [Contents](../README.md) · [Next: Commercial / Vendor Platforms →](commercial-platforms.md)

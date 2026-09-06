@@ -1,5 +1,7 @@
 # Insurance
 
+[← Previous: Human Resources](human-resources.md) · [Contents](../README.md) · [Next: Manufacturing →](manufacturing.md)
+
 *[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
@@ -22,3 +24,7 @@ State/national insurance regulators (e.g., IRDAI in India, state insurance commi
 
 ## Assurance emphasis
 Insurance regulators often expect the same rigor applied to traditional actuarial models; extend existing actuarial review/audit processes to cover AI-driven pricing and underwriting rather than treating AI models as exempt from established actuarial governance.
+
+---
+
+[← Previous: Human Resources](human-resources.md) · [Contents](../README.md) · [Next: Manufacturing →](manufacturing.md)

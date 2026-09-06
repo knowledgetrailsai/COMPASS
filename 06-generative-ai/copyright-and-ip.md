@@ -1,5 +1,7 @@
 # Copyright and IP Considerations
 
+[← Previous: Content Provenance and Authenticity](content-provenance.md) · [Contents](../README.md) · [Next: Data Leakage (Generative AI) →](data-leakage.md)
+
 *[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Areas of legal uncertainty (evolving — verify current status with legal counsel)
@@ -36,3 +38,7 @@ Generating content "in the style of" a named living artist, or voice/likeness cl
 
 - [06-generative-ai/content-provenance.md](content-provenance.md)
 - [13-implementation-playbooks/vendor-third-party-ai-assessment.md](../13-implementation-playbooks/vendor-third-party-ai-assessment.md)
+
+---
+
+[← Previous: Content Provenance and Authenticity](content-provenance.md) · [Contents](../README.md) · [Next: Data Leakage (Generative AI) →](data-leakage.md)

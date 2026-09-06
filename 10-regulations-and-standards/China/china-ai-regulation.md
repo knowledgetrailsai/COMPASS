@@ -1,5 +1,7 @@
 # China — AI Regulation
 
+[← Previous: Canada — AI Regulation](../Canada/canada-ai-regulation.md) · [Contents](../../README.md) · [Next: EU AI Act →](../EU/eu-ai-act.md)
+
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [China](../../10-regulations-and-standards/China/china-ai-regulation.md)*
 
 _Last reviewed: 2026-08-19. China's AI regulatory regime is binding and among the most developed globally in specific areas (algorithms, generative AI, deep synthesis) — confirm current specific requirements directly given the pace of new implementing rules._
@@ -29,3 +31,7 @@ China's data protection framework (Personal Information Protection Law, PIPL, an
 
 - [global-overview.md](../global-overview.md)
 - [06-generative-ai/content-provenance.md](../../06-generative-ai/content-provenance.md)
+
+---
+
+[← Previous: Canada — AI Regulation](../Canada/canada-ai-regulation.md) · [Contents](../../README.md) · [Next: EU AI Act →](../EU/eu-ai-act.md)

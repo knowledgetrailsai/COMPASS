@@ -1,5 +1,7 @@
 # Global Regulatory Overview
 
+[← Previous: Tool Selection Matrix](../09-tools-and-frameworks/tool-selection-matrix.md) · [Contents](../README.md) · [Next: Regulatory Comparison →](regulatory-comparison.md)
+
 *[Home](../INDEX.md) › [10 · Regulations & Standards](../10-regulations-and-standards/global-overview.md)*
 
 _Last reviewed: 2026-08-19. Regulation in this space is moving quickly — verify current status before relying on any date or obligation below for a real decision. See [00-navigation-and-methodology/source-and-evidence-policy.md](../00-navigation-and-methodology/source-and-evidence-policy.md)._
@@ -31,3 +33,7 @@ _Last reviewed: 2026-08-19. Regulation in this space is moving quickly — verif
 Sources:
 - [EU AI Act Omnibus Agreement — Postponed High-Risk Deadlines and Other Key Changes](https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/)
 - [DPDP Rules, 2025 Notified — PIB](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf)
+
+---
+
+[← Previous: Tool Selection Matrix](../09-tools-and-frameworks/tool-selection-matrix.md) · [Contents](../README.md) · [Next: Regulatory Comparison →](regulatory-comparison.md)

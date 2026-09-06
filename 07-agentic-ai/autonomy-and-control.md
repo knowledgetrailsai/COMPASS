@@ -1,5 +1,7 @@
 # Autonomy and Control
 
+[← Previous: Agentic AI — Risk Landscape](agentic-risk-landscape.md) · [Contents](../README.md) · [Next: Human-Agent Interaction →](human-agent-interaction.md)
+
 *[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Autonomy levels (a practical scale)
@@ -42,3 +44,7 @@ Default behavior when the agent is uncertain, encounters an unexpected state, or
 
 - [tool-use-and-permissions.md](tool-use-and-permissions.md)
 - [13-implementation-playbooks/agentic-deployment-checklist.md](../13-implementation-playbooks/agentic-deployment-checklist.md)
+
+---
+
+[← Previous: Agentic AI — Risk Landscape](agentic-risk-landscape.md) · [Contents](../README.md) · [Next: Human-Agent Interaction →](human-agent-interaction.md)

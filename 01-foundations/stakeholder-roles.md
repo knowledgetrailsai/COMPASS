@@ -1,5 +1,7 @@
 # Stakeholder Roles
 
+[← Previous: Risk Taxonomy](risk-taxonomy.md) · [Contents](../README.md) · [Next: What is Responsible AI →](what-is-responsible-ai.md)
+
 *[Home](../INDEX.md) › [01 · Foundations](../01-foundations/ai-ethics.md)*
 
 Responsible AI fails when it's treated as one team's job. Below is a typical RACI-style breakdown; adapt titles to your org.
@@ -40,3 +42,7 @@ Not "owners" of the process, but the reason it exists; their right to disclosure
 | Incident response | R | C | A | I | R |
 
 R = Responsible, A = Accountable, C = Consulted, I = Informed
+
+---
+
+[← Previous: Risk Taxonomy](risk-taxonomy.md) · [Contents](../README.md) · [Next: What is Responsible AI →](what-is-responsible-ai.md)

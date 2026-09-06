@@ -1,5 +1,7 @@
 # Governance Models
 
+[← Previous: AI Governance Framework](ai-governance-framework.md) · [Contents](../README.md) · [Next: Policy Management →](policy-management.md)
+
 *[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 ## Centralized vs. federated vs. hybrid
@@ -29,3 +31,7 @@ Consider: number of AI use cases in flight, regulatory exposure, organizational 
 
 - [ai-governance-framework.md](ai-governance-framework.md)
 - [roles-and-responsibilities.md](roles-and-responsibilities.md)
+
+---
+
+[← Previous: AI Governance Framework](ai-governance-framework.md) · [Contents](../README.md) · [Next: Policy Management →](policy-management.md)

@@ -1,5 +1,7 @@
 # Knowledge Map
 
+[← Previous: How to Use This Repository](how-to-use-this-repository.md) · [Contents](../README.md) · [Next: Source and Evidence Policy →](source-and-evidence-policy.md)
+
 *[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/framework-map.md)*
 
 Rather than functioning as a flat encyclopedia, this repository is organized as a **Responsible AI control plane**: content flows through a consistent chain from principle to proof:
@@ -64,3 +66,7 @@ This table organizes by *section*. If you're starting from a *topic* instead (e.
 7. Assurance: signed off by governance board as part of deployment approval ([03-ai-governance/ai-governance-board.md](../03-ai-governance/ai-governance-board.md))
 
 This is the pattern to apply when researching any risk in this repository.
+
+---
+
+[← Previous: How to Use This Repository](how-to-use-this-repository.md) · [Contents](../README.md) · [Next: Source and Evidence Policy →](source-and-evidence-policy.md)

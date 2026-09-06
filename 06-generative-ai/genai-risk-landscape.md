@@ -1,5 +1,7 @@
 # Generative AI — Specific Risks
 
+[← Previous: Generative AI Evaluation](genai-evaluation.md) · [Contents](../README.md) · [Next: Hallucination and Grounding →](hallucination-and-grounding.md)
+
 *[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 Generative AI (LLMs, image/audio/video generation) inherits the risks in [01-foundations/risk-taxonomy.md](../01-foundations/risk-taxonomy.md) but adds several distinct failure modes.
@@ -44,3 +46,7 @@ Widespread reliance on a small number of foundation models can homogenize conten
 | Toxic content | Layered content filters, red-teaming, refusal training |
 
 See [prompt-and-output-safety.md](prompt-and-output-safety.md) for concrete controls.
+
+---
+
+[← Previous: Generative AI Evaluation](genai-evaluation.md) · [Contents](../README.md) · [Next: Hallucination and Grounding →](hallucination-and-grounding.md)

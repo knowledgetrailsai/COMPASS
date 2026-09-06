@@ -1,5 +1,7 @@
 # Controls and Techniques
 
+[← Previous: Tool Use and Permissions](../07-agentic-ai/tool-use-and-permissions.md) · [Contents](../README.md) · [Next: Guardrails and Runtime Controls →](guardrails-and-controls.md)
+
 *[Home](../INDEX.md) › [08 · Controls & Techniques](../08-controls-and-techniques/README.md)*
 
 This section implements the **Risk → Control → Technique → Test** chain referenced in [00-navigation-and-methodology/knowledge-map.md](../00-navigation-and-methodology/knowledge-map.md).
@@ -28,3 +30,7 @@ This section implements the **Risk → Control → Technique → Test** chain re
 | [guardrails-and-controls.md](guardrails-and-controls.md) | Runtime content/action controls |
 
 Each technique file links back to the risk(s) it mitigates and the tool(s) that implement it in [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md).
+
+---
+
+[← Previous: Tool Use and Permissions](../07-agentic-ai/tool-use-and-permissions.md) · [Contents](../README.md) · [Next: Guardrails and Runtime Controls →](guardrails-and-controls.md)

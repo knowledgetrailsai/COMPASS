@@ -1,5 +1,7 @@
 # Explainability Techniques
 
+[← Previous: Evaluation and Benchmarking](../evaluation-and-benchmarking/README.md) · [Contents](../../README.md) · [Next: Fairness Testing →](../fairness-testing/README.md)
+
 *[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/README.md) › [explainability](../../08-controls-and-techniques/explainability/README.md)*
 
 Implements [05-responsible-ai-principles/transparency-and-explainability.md](../../05-responsible-ai-principles/transparency-and-explainability.md) as concrete methods.
@@ -31,3 +33,7 @@ Match the technique to the audience: a data scientist debugging a model needs di
 ## Tooling
 
 See [09-tools-and-frameworks/open-source-tools.md](../../09-tools-and-frameworks/open-source-tools.md) (SHAP, LIME, InterpretML libraries).
+
+---
+
+[← Previous: Evaluation and Benchmarking](../evaluation-and-benchmarking/README.md) · [Contents](../../README.md) · [Next: Fairness Testing →](../fairness-testing/README.md)

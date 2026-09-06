@@ -1,5 +1,7 @@
 # Stage 3: Data & Data Governance
 
+[← Previous: What is Responsible AI](../01-foundations/what-is-responsible-ai.md) · [Contents](../README.md) · [Next: Stage 6: Deployment & Release →](deployment-and-release.md)
+
 *[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## Purpose
@@ -34,3 +36,7 @@ Data an agent can *retrieve or write to* via tools is part of its effective data
 
 - [05-responsible-ai-principles/privacy-and-data-protection.md](../05-responsible-ai-principles/privacy-and-data-protection.md)
 - [05-responsible-ai-principles/fairness-and-bias.md](../05-responsible-ai-principles/fairness-and-bias.md)
+
+---
+
+[← Previous: What is Responsible AI](../01-foundations/what-is-responsible-ai.md) · [Contents](../README.md) · [Next: Stage 6: Deployment & Release →](deployment-and-release.md)

@@ -1,5 +1,7 @@
 # India — Digital Personal Data Protection (DPDP) Act & Rules
 
+[← Previous: EU AI Act](../EU/eu-ai-act.md) · [Contents](../../README.md) · [Next: India — Sectoral AI Guidance →](sectoral-regulation.md)
+
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [India](../../10-regulations-and-standards/India/dpdp-act.md)*
 
 _Type: Law (Digital Personal Data Protection Act, 2023 + Digital Personal Data Protection Rules, 2025). Last reviewed: 2026-08-19: confirm current compliance deadlines directly, as the rules include a phased implementation timeline._
@@ -36,3 +38,7 @@ Sources:
 - [DPDP Rules, 2025 Notified — Press Information Bureau](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf)
 - [India's DPDP Rules 2025: A practical guide with implementation checklist](https://www.scrut.io/post/dpdp-rules)
 - [Digital Personal Data Protection Rules, 2025 — Wikipedia](https://en.wikipedia.org/wiki/Digital_Personal_Data_Protection_Rules,_2025)
+
+---
+
+[← Previous: EU AI Act](../EU/eu-ai-act.md) · [Contents](../../README.md) · [Next: India — Sectoral AI Guidance →](sectoral-regulation.md)

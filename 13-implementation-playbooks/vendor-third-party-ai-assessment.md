@@ -1,5 +1,7 @@
 # Playbook: Vendor / Third-Party AI Assessment
 
+[← Previous: Playbook: Model / System Card Template](model-card-template.md) · [Contents](../README.md) · [Next: AI Security →](../14-ai-security/README.md)
+
 *[Home](../INDEX.md) › [13 · Implementation Playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md)*
 
 Working checklist implementing [03-ai-governance/third-party-ai-governance.md](../03-ai-governance/third-party-ai-governance.md).
@@ -40,3 +42,7 @@ Working checklist implementing [03-ai-governance/third-party-ai-governance.md](.
 
 ## Decision
 - [ ] Approve / approve with conditions / reject, documented with rationale, routed per [03-ai-governance/ai-governance-board.md](../03-ai-governance/ai-governance-board.md) for Tier 1 vendor use cases
+
+---
+
+[← Previous: Playbook: Model / System Card Template](model-card-template.md) · [Contents](../README.md) · [Next: AI Security →](../14-ai-security/README.md)

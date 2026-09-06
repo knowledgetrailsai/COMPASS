@@ -1,5 +1,7 @@
 # Framework Map
 
+[Contents](../README.md) · [Next: How to Use This Repository →](how-to-use-this-repository.md)
+
 *[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/framework-map.md)*
 
 A quick cross-reference of where major external frameworks/standards map into this repository's own structure. Full detail on each lives in [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md) (frameworks/standards) or [10-regulations-and-standards](../10-regulations-and-standards/global-overview.md) (binding law).
@@ -28,3 +30,7 @@ When a project needs to demonstrate compliance or alignment with a specific exte
 - Need to know binding legal obligations → 10-regulations-and-standards, not this table
 - Securing an LLM/Gen AI application → OWASP LLM Top 10 + MITRE ATLAS
 - Communicating high-level commitments externally → OECD AI Principles / UNESCO
+
+---
+
+[Contents](../README.md) · [Next: How to Use This Repository →](how-to-use-this-repository.md)

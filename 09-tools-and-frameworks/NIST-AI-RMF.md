@@ -1,5 +1,7 @@
 # NIST AI Risk Management Framework (AI RMF)
 
+[← Previous: MITRE ATLAS](MITRE-ATLAS.md) · [Contents](../README.md) · [Next: OECD AI Principles →](OECD-AI-principles.md)
+
 *[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 _Type: Framework (voluntary). Issuer: U.S. National Institute of Standards and Technology. Last reviewed: 2026-08-19 — verify current version and any Generative AI Profile updates directly with NIST._
@@ -37,3 +39,7 @@ Good fit for organizations wanting a structured internal risk process without pu
 ## Not binding law
 
 The AI RMF is voluntary guidance, not a legal requirement. See [00-navigation-and-methodology/terminology-and-glossary.md](../00-navigation-and-methodology/terminology-and-glossary.md) for why this distinction matters. Some US federal agency contexts do reference or require RMF alignment; check current applicable requirements for your specific context.
+
+---
+
+[← Previous: MITRE ATLAS](MITRE-ATLAS.md) · [Contents](../README.md) · [Next: OECD AI Principles →](OECD-AI-principles.md)

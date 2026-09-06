@@ -1,5 +1,7 @@
 # Roles and Responsibilities
 
+[← Previous: Risk Tiering](risk-management.md) · [Contents](../README.md) · [Next: Third-Party AI Governance →](third-party-ai-governance.md)
+
 *[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 Builds on [01-foundations/stakeholder-roles.md](../01-foundations/stakeholder-roles.md) with the specific governance-layer roles needed to operate the framework in [ai-governance-framework.md](ai-governance-framework.md).
@@ -34,3 +36,7 @@ For activity-level responsibility assignment across these roles, see [RACI.md](R
 ## Sizing this to your organization
 
 Small organizations can combine several of these roles in one or two people; the key is that each function above is *explicitly assigned to someone*, even informally, rather than assumed to be "everyone's job" (which in practice becomes no one's job).
+
+---
+
+[← Previous: Risk Tiering](risk-management.md) · [Contents](../README.md) · [Next: Third-Party AI Governance →](third-party-ai-governance.md)

@@ -1,5 +1,7 @@
 # Jailbreaking
 
+[← Previous: Hallucination and Grounding](hallucination-and-grounding.md) · [Contents](../README.md) · [Next: Prompt and Output Safety →](prompt-and-output-safety.md)
+
 *[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Definition
@@ -30,3 +32,7 @@ Jailbreaking is generally direct (the user themselves is the adversary, trying t
 ## Realistic expectation-setting
 
 No current mitigation makes a model fully jailbreak-proof. Design the surrounding system (permissions, output validation, human review for consequential actions) so a successful jailbreak has bounded impact, consistent with the defense-in-depth approach in [prompt-and-output-safety.md](prompt-and-output-safety.md).
+
+---
+
+[← Previous: Hallucination and Grounding](hallucination-and-grounding.md) · [Contents](../README.md) · [Next: Prompt and Output Safety →](prompt-and-output-safety.md)

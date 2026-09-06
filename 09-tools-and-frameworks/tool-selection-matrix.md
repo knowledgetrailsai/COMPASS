@@ -1,5 +1,7 @@
 # Tool Selection Matrix
 
+[← Previous: Security Tools](security-tools.md) · [Contents](../README.md) · [Next: Global Regulatory Overview →](../10-regulations-and-standards/global-overview.md)
+
 *[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 A quick-reference guide for which category of tool addresses which need, cross-referenced to risk tier and lifecycle stage.
@@ -27,3 +29,7 @@ A quick-reference guide for which category of tool addresses which need, cross-r
 ## Avoid over-tooling
 
 Not every system needs every tool category, match tooling investment to risk tier. A Tier 3 internal productivity tool doesn't need a dedicated drift-monitoring platform; a Tier 1 credit-decisioning model does.
+
+---
+
+[← Previous: Security Tools](security-tools.md) · [Contents](../README.md) · [Next: Global Regulatory Overview →](../10-regulations-and-standards/global-overview.md)

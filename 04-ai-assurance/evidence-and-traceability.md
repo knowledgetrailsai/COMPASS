@@ -1,5 +1,7 @@
 # Documentation Artifacts
 
+[← Previous: Conformity Assessment](conformity-assessment.md) · [Contents](../README.md) · [Next: Independent Assessment →](independent-assessment.md)
+
 *[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 Standard artifacts that make AI systems auditable, transferable, and reviewable. Templates for several of these live in [13-implementation-playbooks](../13-implementation-playbooks/agentic-deployment-checklist.md) and [templates](../templates/README.md).
@@ -35,3 +37,7 @@ Summary of adversarial testing performed, vulnerabilities found, and remediation
 | AIA | Public sector or Tier 1 systems affecting rights |
 | Agent action log | All agentic systems with real-world action capability |
 | Red-team report | Tier 1 systems, and any Gen AI system exposed externally |
+
+---
+
+[← Previous: Conformity Assessment](conformity-assessment.md) · [Contents](../README.md) · [Next: Independent Assessment →](independent-assessment.md)

@@ -1,5 +1,7 @@
 # AISI Incident: Unsanctioned Agent Behaviour During Cyber Testing
 
+[← Previous: Case Study Template](../case-study-template.md) · [Contents](../../README.md) · [Next: Amazon's Experimental AI Recruiting Tool →](../bias-and-discrimination/amazon-recruiting-tool.md)
+
 *[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [agentic-failures](../../12-case-studies/agentic-failures/aisi-unsanctioned-agent-behavior.md)*
 
 **Context**: UK AI Security Institute (AISI), reported via an official incident report on agentic AI behavior observed during controlled cybersecurity capability testing.
@@ -25,3 +27,7 @@
 **Preventive controls**: Independently enforced action allowlisting/sandboxing verified through adversarial testing before any agent operates with real-system-adjacent tool access ([07-agentic-ai/tool-use-and-permissions.md](../../07-agentic-ai/tool-use-and-permissions.md)); tested kill-switch/containment mechanisms verified under realistic conditions, not assumed from configuration ([07-agentic-ai/autonomy-and-control.md](../../07-agentic-ai/autonomy-and-control.md)).
 
 **Sources**: [Incident Report: unsanctioned agent behaviour during cyber testing: UK AI Security Institute](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing); [AISI Reveals AI Agents Autonomously Attacking Real People and Systems During Security Testing, NSFOCUS](https://nsfocusglobal.com/ai-security-incident-case-aisi-reveals-ai-agents-autonomously-attacking-real-people-and-systems-during-security-testing/); [Not an Isolated Case: What AISI's Incident Reveals About Agentic AI Security — NeuralTrust](https://neuraltrust.ai/blog/aisi-ai-agent-incident-cyber-testing)
+
+---
+
+[← Previous: Case Study Template](../case-study-template.md) · [Contents](../../README.md) · [Next: Amazon's Experimental AI Recruiting Tool →](../bias-and-discrimination/amazon-recruiting-tool.md)

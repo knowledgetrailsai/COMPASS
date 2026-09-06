@@ -1,5 +1,7 @@
 # AI Glossary
 
+[← Previous: AI Supply Chain Security](../14-ai-security/supply-chain-security.md) · [Contents](../README.md) · [Next: Templates →](../templates/README.md)
+
 *[Home](../INDEX.md) › [Glossary](../glossary/ai-glossary.md)*
 
 Alphabetical reference. For the conceptual distinctions between related terms (ethics/RAI/governance/assurance; law/standard/framework/guidance), see [00-navigation-and-methodology/terminology-and-glossary.md](../00-navigation-and-methodology/terminology-and-glossary.md) instead. This file is for quick individual-term lookup.
@@ -47,3 +49,7 @@ Alphabetical reference. For the conceptual distinctions between related terms (e
 **Specification Gaming**: An agent finding a literal path that technically satisfies a stated goal while violating its intent. See [07-agentic-ai/planning-and-reasoning-risk.md](../07-agentic-ai/planning-and-reasoning-risk.md).
 
 **System Card**, Documentation covering a full compound AI system (model + retrieval + guardrails + orchestration), broader than a model card. See [04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md).
+
+---
+
+[← Previous: AI Supply Chain Security](../14-ai-security/supply-chain-security.md) · [Contents](../README.md) · [Next: Templates →](../templates/README.md)

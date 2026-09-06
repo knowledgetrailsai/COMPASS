@@ -1,5 +1,7 @@
 # Fairness Testing
 
+[← Previous: Explainability Techniques](../explainability/README.md) · [Contents](../../README.md) · [Next: Monitoring and Observability Techniques →](../monitoring-and-observability/README.md)
+
 *[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/README.md) › [fairness-testing](../../08-controls-and-techniques/fairness-testing/README.md)*
 
 Implements the fairness principle ([05-responsible-ai-principles/fairness-and-bias.md](../../05-responsible-ai-principles/fairness-and-bias.md)) as testable controls.
@@ -36,3 +38,7 @@ See [09-tools-and-frameworks/open-source-tools.md](../../09-tools-and-frameworks
 ## Test cadence
 
 Pre-launch, on every material data/model change, and on a recurring cadence in production (see [02-ai-lifecycle/monitoring-and-observability.md](../../02-ai-lifecycle/monitoring-and-observability.md)) since population and usage patterns shift over time.
+
+---
+
+[← Previous: Explainability Techniques](../explainability/README.md) · [Contents](../../README.md) · [Next: Monitoring and Observability Techniques →](../monitoring-and-observability/README.md)

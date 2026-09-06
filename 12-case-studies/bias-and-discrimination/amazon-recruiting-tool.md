@@ -1,5 +1,7 @@
 # Amazon's Experimental AI Recruiting Tool
 
+[← Previous: AISI Incident: Unsanctioned Agent Behaviour During Cyber Testing](../agentic-failures/aisi-unsanctioned-agent-behavior.md) · [Contents](../../README.md) · [Next: COMPAS Recidivism Risk Scoring →](compas-recidivism.md)
+
 *[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [bias-and-discrimination](../../12-case-studies/bias-and-discrimination/amazon-recruiting-tool.md)*
 
 **Context**: Amazon, internal recruiting, developed ~2014, scrapped ~2017 after internal discovery of the bias described below (widely reported in 2018).
@@ -25,3 +27,7 @@
 **Preventive controls**: Mandatory subgroup fairness testing before deployment ([08-controls-and-techniques/fairness-testing](../../08-controls-and-techniques/fairness-testing/README.md)); explicit review of whether historical decision data is an appropriate training target for a "fair going forward" model.
 
 **Sources**: Widely reported contemporaneously by Reuters ("Amazon scraps secret AI recruiting tool that showed bias against women," 2018) and extensively cited in subsequent AI fairness literature and regulatory discussion.
+
+---
+
+[← Previous: AISI Incident: Unsanctioned Agent Behaviour During Cyber Testing](../agentic-failures/aisi-unsanctioned-agent-behavior.md) · [Contents](../../README.md) · [Next: COMPAS Recidivism Risk Scoring →](compas-recidivism.md)

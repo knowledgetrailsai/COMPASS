@@ -1,5 +1,7 @@
 # Hallucination and Grounding
 
+[← Previous: Generative AI — Specific Risks](genai-risk-landscape.md) · [Contents](../README.md) · [Next: Jailbreaking →](jailbreaks.md)
+
 *[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Definition
@@ -34,3 +36,7 @@ Generative models predict statistically likely continuations, not verified facts
 ## Risk is not uniform
 
 Hallucination risk should be assessed per use case, not treated as a single global metric — a creative writing assistant's hallucination tolerance is entirely different from a legal research tool's. Set the acceptance bar during [02-ai-lifecycle/requirements-and-design.md](../02-ai-lifecycle/requirements-and-design.md), not as an afterthought.
+
+---
+
+[← Previous: Generative AI — Specific Risks](genai-risk-landscape.md) · [Contents](../README.md) · [Next: Jailbreaking →](jailbreaks.md)

@@ -1,5 +1,7 @@
 # Prompt and Output Safety
 
+[← Previous: Jailbreaking](jailbreaks.md) · [Contents](../README.md) · [Next: Prompt Injection →](prompt-injection.md)
+
 *[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Defense-in-depth model
@@ -39,3 +41,7 @@ See [09-tools-and-frameworks/open-source-tools.md](../09-tools-and-frameworks/op
 ## Key principle
 
 Treat prompt injection and jailbreaking as an assumed, ongoing threat rather than a solved problem: design systems to limit the blast radius of a successful attack (least-privilege tool access, output validation before action, human approval for consequential steps) rather than relying purely on preventing the attack from succeeding.
+
+---
+
+[← Previous: Jailbreaking](jailbreaks.md) · [Contents](../README.md) · [Next: Prompt Injection →](prompt-injection.md)

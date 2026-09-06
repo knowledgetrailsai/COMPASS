@@ -1,5 +1,7 @@
 # OECD AI Principles
 
+[← Previous: NIST AI Risk Management Framework (AI RMF)](NIST-AI-RMF.md) · [Contents](../README.md) · [Next: OWASP Top 10 for LLM Applications →](OWASP-llm-top10.md)
+
 *[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 _Type: Framework (intergovernmental, non-binding). Issuer: OECD, adopted by member and partner countries. Last reviewed: 2026-08-19._
@@ -30,3 +32,7 @@ Useful for organizations that need a globally-recognized, non-jurisdiction-speci
 
 - [UNESCO-AI-ethics.md](UNESCO-AI-ethics.md)
 - [01-foundations/principles.md](../01-foundations/principles.md)
+
+---
+
+[← Previous: NIST AI Risk Management Framework (AI RMF)](NIST-AI-RMF.md) · [Contents](../README.md) · [Next: OWASP Top 10 for LLM Applications →](OWASP-llm-top10.md)

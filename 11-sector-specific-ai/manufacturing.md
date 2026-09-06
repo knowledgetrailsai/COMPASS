@@ -1,5 +1,7 @@
 # Manufacturing
 
+[← Previous: Insurance](insurance.md) · [Contents](../README.md) · [Next: Public Sector →](public-sector.md)
+
 *[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
@@ -21,3 +23,7 @@ Existing industrial safety and equipment regulation (occupational safety authori
 
 ## Assurance emphasis
 Integrate AI assurance activities with existing industrial safety certification processes (e.g., functional safety standards) rather than building a parallel AI-only assurance track. The physical safety domain already has mature assurance practice that AI-specific assurance should extend, not duplicate.
+
+---
+
+[← Previous: Insurance](insurance.md) · [Contents](../README.md) · [Next: Public Sector →](public-sector.md)

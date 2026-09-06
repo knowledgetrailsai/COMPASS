@@ -1,5 +1,7 @@
 # Transparency and Explainability
 
+[← Previous: Sustainability](sustainability.md) · [Contents](../README.md) · [Next: RAG-Specific Considerations →](../06-generative-ai/RAG-governance.md)
+
 *[Home](../INDEX.md) › [05 · Responsible AI Principles](../05-responsible-ai-principles/accountability-and-human-oversight.md)*
 
 ## Distinguishing the two
@@ -40,3 +42,7 @@ Because agents plan and take multi-step actions, explainability needs to cover *
 ## Tension with other goals
 
 Full transparency can conflict with IP protection (revealing proprietary model details) or security (revealing exploitable system internals). Resolve by tiering disclosure: full technical detail to regulators/auditors under NDA, meaningful-but-general explanation to end users.
+
+---
+
+[← Previous: Sustainability](sustainability.md) · [Contents](../README.md) · [Next: RAG-Specific Considerations →](../06-generative-ai/RAG-governance.md)

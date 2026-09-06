@@ -1,5 +1,7 @@
 # Human Resources
 
+[← Previous: Healthcare](healthcare.md) · [Contents](../README.md) · [Next: Insurance →](insurance.md)
+
 *[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
@@ -23,3 +25,7 @@ Employment discrimination law generally applies to AI-assisted decisions the sam
 
 ## Assurance emphasis
 Where jurisdiction-mandated independent bias audits apply (increasingly common for hiring AI specifically), treat this as a hard compliance gate (see [04-ai-assurance/independent-assessment.md](../04-ai-assurance/independent-assessment.md)) not a discretionary best practice.
+
+---
+
+[← Previous: Healthcare](healthcare.md) · [Contents](../README.md) · [Next: Insurance →](insurance.md)

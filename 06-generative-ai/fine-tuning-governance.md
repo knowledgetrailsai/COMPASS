@@ -1,5 +1,7 @@
 # Fine-Tuning Governance
 
+[← Previous: Data Leakage (Generative AI)](data-leakage.md) · [Contents](../README.md) · [Next: Generative AI Evaluation →](genai-evaluation.md)
+
 *[Home](../INDEX.md) › [06 · Generative AI](../06-generative-ai/content-provenance.md)*
 
 ## Why fine-tuning needs distinct governance
@@ -26,3 +28,7 @@ Fine-tuning customizes a base model's behavior using organization-specific data;
 ## When to prefer RAG or prompting over fine-tuning
 
 Fine-tuning is the highest-governance-overhead customization approach. Prefer RAG (for grounding in specific knowledge) or prompt engineering (for behavior/style adjustment) where they achieve the needed outcome with less governance burden and easier update/rollback. Reserve fine-tuning for cases genuinely requiring it (deep behavioral/domain adaptation RAG/prompting can't achieve).
+
+---
+
+[← Previous: Data Leakage (Generative AI)](data-leakage.md) · [Contents](../README.md) · [Next: Generative AI Evaluation →](genai-evaluation.md)

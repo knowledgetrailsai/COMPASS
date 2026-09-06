@@ -1,5 +1,7 @@
 # AI Risk Assessment
 
+[← Previous: AI Impact Assessment](AI-impact-assessment.md) · [Contents](../README.md) · [Next: AI Assurance — Overview →](assurance-overview.md)
+
 *[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## Purpose
@@ -37,3 +39,7 @@ Score autonomy level and action reversibility explicitly as risk multipliers. Th
 - [03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md) tiering decision
 - [AI-impact-assessment.md](AI-impact-assessment.md) for broader impact framing
 - Governance board review materials for Tier 1 approval
+
+---
+
+[← Previous: AI Impact Assessment](AI-impact-assessment.md) · [Contents](../README.md) · [Next: AI Assurance — Overview →](assurance-overview.md)

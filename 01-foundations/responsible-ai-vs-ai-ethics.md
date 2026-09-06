@@ -1,5 +1,7 @@
 # Responsible AI vs. AI Ethics vs. AI Governance vs. AI Assurance
 
+[← Previous: Core Principles](principles.md) · [Contents](../README.md) · [Next: Risk Taxonomy →](risk-taxonomy.md)
+
 *[Home](../INDEX.md) › [01 · Foundations](../01-foundations/ai-ethics.md)*
 
 These four terms are often used interchangeably, which causes real confusion about what a given team or document is actually responsible for. This repository treats them as distinct, connected layers.
@@ -44,3 +46,7 @@ Each layer is necessary; none is sufficient alone.
 | Responsible AI practice | 05, 06, 07, 08 |
 | Governance | 02, 03 |
 | Assurance | 04 |
+
+---
+
+[← Previous: Core Principles](principles.md) · [Contents](../README.md) · [Next: Risk Taxonomy →](risk-taxonomy.md)

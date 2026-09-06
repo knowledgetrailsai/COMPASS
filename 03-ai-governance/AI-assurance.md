@@ -1,5 +1,7 @@
 # AI Assurance (Governance Pointer)
 
+[← Previous: Stage 9: Retirement & Decommissioning](../02-ai-lifecycle/retirement-and-decommissioning.md) · [Contents](../README.md) · [Next: RACI — AI Governance Activities →](RACI.md)
+
 *[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 Assurance (how you *prove* governance and Responsible AI practices actually work) is developed in full as its own layer: [04-ai-assurance](../04-ai-assurance/assurance-overview.md).
@@ -20,3 +22,7 @@ Governance defines the policies and approval processes; assurance provides the e
 The board should treat assurance evidence as a precondition for approval, not a formality — and should periodically commission independent audits of its own approved systems to verify the governance process itself is functioning, not just each individual system.
 
 Continue to [04-ai-assurance/assurance-overview.md](../04-ai-assurance/assurance-overview.md) for the full assurance model.
+
+---
+
+[← Previous: Stage 9: Retirement & Decommissioning](../02-ai-lifecycle/retirement-and-decommissioning.md) · [Contents](../README.md) · [Next: RACI — AI Governance Activities →](RACI.md)

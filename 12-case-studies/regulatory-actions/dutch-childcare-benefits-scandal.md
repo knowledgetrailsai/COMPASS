@@ -1,5 +1,7 @@
 # Dutch Childcare Benefits Scandal (Toeslagenaffaire)
 
+[← Previous: Samsung Employees' Confidential Data Leak via ChatGPT](../privacy-incidents/samsung-chatgpt-leak.md) · [Contents](../../README.md) · [Next: Microsoft Tay Chatbot →](../security-incidents/microsoft-tay.md)
+
 *[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [regulatory-actions](../../12-case-studies/regulatory-actions/dutch-childcare-benefits-scandal.md)*
 
 **Context**: Netherlands tax authority (Belastingdienst), childcare benefits fraud-detection system, in use through the 2010s, scandal fully surfaced publicly around 2019–2021, leading to the resignation of the Dutch government (Rutte III cabinet) in January 2021.
@@ -25,3 +27,7 @@
 **Preventive controls**: Prohibition on nationality/protected-attribute use as scoring inputs, enforced at [02-ai-lifecycle/requirements-and-design.md](../../02-ai-lifecycle/requirements-and-design.md); mandatory independent fairness assessment before deployment ([04-ai-assurance/AI-impact-assessment.md](../../04-ai-assurance/AI-impact-assessment.md)); meaningful, accessible human review before severe consequences are imposed; proportionate, humane process design independent of the algorithm itself.
 
 **Sources**: Extensively documented by Dutch parliamentary inquiry findings, Amnesty International's report "Xenophobic Machines" (2021), and wide international news coverage of the government's resignation in January 2021.
+
+---
+
+[← Previous: Samsung Employees' Confidential Data Leak via ChatGPT](../privacy-incidents/samsung-chatgpt-leak.md) · [Contents](../../README.md) · [Next: Microsoft Tay Chatbot →](../security-incidents/microsoft-tay.md)

@@ -1,5 +1,7 @@
 # Evaluation and Benchmarking
 
+[← Previous: Guardrails and Runtime Controls](../guardrails-and-controls.md) · [Contents](../../README.md) · [Next: Explainability Techniques →](../explainability/README.md)
+
 *[Home](../../INDEX.md) › [08 · Controls & Techniques](../../08-controls-and-techniques/README.md) › [evaluation-and-benchmarking](../../08-controls-and-techniques/evaluation-and-benchmarking/README.md)*
 
 The general evaluation methodology referenced throughout this repository; see [06-generative-ai/genai-evaluation.md](../../06-generative-ai/genai-evaluation.md) and [07-agentic-ai/agentic-evaluation.md](../../07-agentic-ai/agentic-evaluation.md) for technology-specific depth.
@@ -33,3 +35,7 @@ Report evaluation results with sample sizes and, where meaningful, confidence in
 ## Tooling
 
 See [09-tools-and-frameworks/evaluation-frameworks.md](../../09-tools-and-frameworks/evaluation-frameworks.md).
+
+---
+
+[← Previous: Guardrails and Runtime Controls](../guardrails-and-controls.md) · [Contents](../../README.md) · [Next: Explainability Techniques →](../explainability/README.md)

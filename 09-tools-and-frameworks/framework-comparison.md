@@ -1,5 +1,7 @@
 # Framework Comparison
 
+[← Previous: Evaluation Frameworks](evaluation-frameworks.md) · [Contents](../README.md) · [Next: Governance Platforms →](governance-platforms.md)
+
 *[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 | Framework | Type | Binding? | Scope | Certifiable? |
@@ -28,3 +30,7 @@ Treating any framework in this table as legally binding, or treating the EU AI A
 ## Layering frameworks in practice
 
 Most mature organizations use several of these together: a legal baseline from applicable regulation (10), a risk-management backbone from NIST AI RMF or ISO/IEC 23894, security guidance from OWASP/MITRE for Gen AI and agentic systems, and: if pursuing certification, ISO/IEC 42001 as the overarching management system tying it together. They're complementary, not competing, choices.
+
+---
+
+[← Previous: Evaluation Frameworks](evaluation-frameworks.md) · [Contents](../README.md) · [Next: Governance Platforms →](governance-platforms.md)

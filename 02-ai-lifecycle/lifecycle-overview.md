@@ -1,5 +1,7 @@
 # AI Lifecycle Overview
 
+[← Previous: AI Incident Response](incident-and-remediation.md) · [Contents](../README.md) · [Next: Stage 4: Model Development →](model-development.md)
+
 *[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 Responsible AI is a lifecycle discipline, not a single gate. This section maps RAI checkpoints onto each stage of building and operating an AI system — including Generative AI and Agentic AI, which iterate faster than traditional ML but still pass through the same conceptual stages.
@@ -29,3 +31,7 @@ For Gen AI and Agentic AI especially, material changes (a new base model, a prom
 ## Fast-iteration systems
 
 Gen AI and agentic systems often change (prompts, tools, retrieval sources) far more often than a traditional model retrains. Build lightweight, automated versions of stages 5–6 (regression eval suites, guardrail tests in CI) so governance doesn't get silently bypassed by velocity — see [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/README.md).
+
+---
+
+[← Previous: AI Incident Response](incident-and-remediation.md) · [Contents](../README.md) · [Next: Stage 4: Model Development →](model-development.md)

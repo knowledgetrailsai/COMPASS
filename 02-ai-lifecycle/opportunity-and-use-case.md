@@ -1,5 +1,7 @@
 # Stage 1: Opportunity & Use Case
 
+[← Previous: Stage 7: Monitoring & Observability](monitoring-and-observability.md) · [Contents](../README.md) · [Next: Stage 2: Requirements & Design →](requirements-and-design.md)
+
 *[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## Purpose
@@ -24,3 +26,7 @@ Before any building starts: define what problem the AI system solves, for whom, 
 ## Gate
 
 Tier 0 (prohibited) use cases stop here. Tier 1 use cases require governance board awareness before development investment proceeds. Tier 2–3 can proceed with standard checklist self-certification.
+
+---
+
+[← Previous: Stage 7: Monitoring & Observability](monitoring-and-observability.md) · [Contents](../README.md) · [Next: Stage 2: Requirements & Design →](requirements-and-design.md)

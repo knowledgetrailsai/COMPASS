@@ -1,5 +1,7 @@
 # Agent Incident Response
 
+[← Previous: Synthetic Content](../06-generative-ai/synthetic-content.md) · [Contents](../README.md) · [Next: Agent Observability →](agent-observability.md)
+
 *[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## How this differs from general AI incident response
@@ -35,3 +37,7 @@ Feed findings into [agentic-evaluation.md](agentic-evaluation.md) test suites an
 
 - [02-ai-lifecycle/incident-and-remediation.md](../02-ai-lifecycle/incident-and-remediation.md)
 - [agent-observability.md](agent-observability.md)
+
+---
+
+[← Previous: Synthetic Content](../06-generative-ai/synthetic-content.md) · [Contents](../README.md) · [Next: Agent Observability →](agent-observability.md)

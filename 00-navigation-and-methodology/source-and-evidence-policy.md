@@ -1,5 +1,7 @@
 # Source and Evidence Policy
 
+[← Previous: Knowledge Map](knowledge-map.md) · [Contents](../README.md) · [Next: Terminology — Key Distinctions →](terminology-and-glossary.md)
+
 *[Home](../INDEX.md) › [00 · Navigation & Methodology](../00-navigation-and-methodology/framework-map.md)*
 
 ## Why this matters
@@ -31,3 +33,7 @@ This is a working reference, not a substitute for legal advice or an official co
 ## Handling uncertainty or evolving law
 
 Where a legal question is genuinely unsettled (e.g., active litigation, a regulation not yet in force), say so explicitly rather than presenting one interpretation as settled; see [06-generative-ai/copyright-and-ip.md](../06-generative-ai/copyright-and-ip.md) for an example of this treatment.
+
+---
+
+[← Previous: Knowledge Map](knowledge-map.md) · [Contents](../README.md) · [Next: Terminology — Key Distinctions →](terminology-and-glossary.md)

@@ -1,5 +1,7 @@
 # Canada — AI Regulation
 
+[← Previous: Regulatory Comparison](../regulatory-comparison.md) · [Contents](../../README.md) · [Next: China — AI Regulation →](../China/china-ai-regulation.md)
+
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [Canada](../../10-regulations-and-standards/Canada/canada-ai-regulation.md)*
 
 _Last reviewed: 2026-08-19; Canada's federal AI-specific legislative status has been in flux; confirm current status of AIDA/Bill C-27 directly before relying on it._
@@ -22,3 +24,7 @@ Given the uncertainty around AIDA specifically, anchor Canadian compliance plann
 
 - [global-overview.md](../global-overview.md)
 - [05-responsible-ai-principles/transparency-and-explainability.md](../../05-responsible-ai-principles/transparency-and-explainability.md), relevant to Quebec Law 25's explanation rights
+
+---
+
+[← Previous: Regulatory Comparison](../regulatory-comparison.md) · [Contents](../../README.md) · [Next: China — AI Regulation →](../China/china-ai-regulation.md)

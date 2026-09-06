@@ -1,5 +1,7 @@
 # Agentic Evaluation
 
+[← Previous: Agent Observability](agent-observability.md) · [Contents](../README.md) · [Next: Agentic AI — Risk Landscape →](agentic-risk-landscape.md)
+
 *[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Why standard Gen AI evaluation isn't sufficient
@@ -45,3 +47,7 @@ Does the agent escalate appropriately (neither too often, causing approval fatig
 
 - [08-controls-and-techniques/evaluation-and-benchmarking](../08-controls-and-techniques/evaluation-and-benchmarking/README.md)
 - [04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md), agent action logs
+
+---
+
+[← Previous: Agent Observability](agent-observability.md) · [Contents](../README.md) · [Next: Agentic AI — Risk Landscape →](agentic-risk-landscape.md)

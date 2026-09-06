@@ -1,5 +1,7 @@
 # US — State AI Laws
 
+[← Previous: US — Federal AI Policy](federal.md) · [Contents](../../README.md) · [Next: Sector-Specific AI →](../../11-sector-specific-ai/README.md)
+
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [US](../../10-regulations-and-standards/US/federal.md)*
 
 _Last reviewed: 2026-08-19. State-level AI law is changing rapidly and is currently in active tension with federal policy — this file is a snapshot, not a compliance reference. Confirm current status per state before relying on it._
@@ -36,3 +38,7 @@ Sources:
 - [Colorado's AI Act Is Dead. Long Live Colorado's AI Act.](https://www.lawfuel.com/colorado-ai-act-2026-sb-26-189/)
 - [Colorado Attorney General Delays Enforcement of Colorado AI Act (Troutman)](https://www.troutmanprivacy.com/2026/04/colorado-attorney-general-delays-enforcement-of-colorado-ai-act/)
 - [State AI laws under federal scrutiny (White & Case)](https://www.whitecase.com/insight-alert/state-ai-laws-under-federal-scrutiny-key-takeaways-executive-order-establishing)
+
+---
+
+[← Previous: US — Federal AI Policy](federal.md) · [Contents](../../README.md) · [Next: Sector-Specific AI →](../../11-sector-specific-ai/README.md)

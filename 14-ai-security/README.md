@@ -1,5 +1,7 @@
 # AI Security
 
+[← Previous: Playbook: Vendor / Third-Party AI Assessment](../13-implementation-playbooks/vendor-third-party-ai-assessment.md) · [Contents](../README.md) · [Next: AI Threat Model →](ai-threat-model.md)
+
 *[Home](../INDEX.md) › [14 · AI Security](../14-ai-security/README.md)*
 
 ## Why this section exists
@@ -30,3 +32,7 @@ This section doesn't replace the security content already embedded in [05-respon
 ## Governance tie-in
 
 Security review is a required input to [03-ai-governance/ai-governance-board.md](../03-ai-governance/ai-governance-board.md) approval for Tier 1 systems, and security assurance evidence (red-team reports, penetration test results) feeds [04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md).
+
+---
+
+[← Previous: Playbook: Vendor / Third-Party AI Assessment](../13-implementation-playbooks/vendor-third-party-ai-assessment.md) · [Contents](../README.md) · [Next: AI Threat Model →](ai-threat-model.md)

@@ -1,5 +1,7 @@
 # Human Rights and AI
 
+[← Previous: AI Ethics](ai-ethics.md) · [Contents](../README.md) · [Next: Core Principles →](principles.md)
+
 *[Home](../INDEX.md) › [01 · Foundations](../01-foundations/ai-ethics.md)*
 
 ## Why a human rights lens
@@ -36,3 +38,7 @@ Human rights framing underlies much of the EU AI Act's high-risk classification 
 ## Practical use
 
 Use this lens specifically for Tier 1 (high-risk) use cases under [03-ai-governance/risk-management.md](../03-ai-governance/risk-management.md) — it's a heavier-weight assessment appropriate for systems with significant potential impact on people's rights, not a routine step for every AI feature.
+
+---
+
+[← Previous: AI Ethics](ai-ethics.md) · [Contents](../README.md) · [Next: Core Principles →](principles.md)

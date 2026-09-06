@@ -1,5 +1,7 @@
 # Retail
 
+[← Previous: Public Sector](public-sector.md) · [Contents](../README.md) · [Next: Case Study Template →](../12-case-studies/case-study-template.md)
+
 *[Home](../INDEX.md) › [11 · Sector-Specific AI](../11-sector-specific-ai/README.md)*
 
 ## Common AI use cases
@@ -21,3 +23,7 @@ General consumer protection law (unfair/deceptive practices authority) applies d
 
 ## Assurance emphasis
 Periodic fairness testing of pricing/recommendation outcomes across demographic and geographic segments, even absent a specific "high-risk" regulatory classification, given the reputational and consumer-trust stakes of a perceived-discriminatory pricing incident.
+
+---
+
+[← Previous: Public Sector](public-sector.md) · [Contents](../README.md) · [Next: Case Study Template →](../12-case-studies/case-study-template.md)

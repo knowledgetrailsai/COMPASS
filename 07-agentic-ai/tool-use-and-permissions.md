@@ -1,5 +1,7 @@
 # Tool Use and Permissions
 
+[← Previous: Planning and Reasoning Risk](planning-and-reasoning-risk.md) · [Contents](../README.md) · [Next: Controls and Techniques →](../08-controls-and-techniques/README.md)
+
 *[Home](../INDEX.md) › [07 · Agentic AI](../07-agentic-ai/agent-incident-response.md)*
 
 ## Principle: least privilege by default
@@ -44,3 +46,7 @@ When agents use third-party tools or connectors (including MCP servers), review 
 
 - [multi-agent-governance.md](multi-agent-governance.md)
 - [08-controls-and-techniques/guardrails-and-controls.md](../08-controls-and-techniques/guardrails-and-controls.md)
+
+---
+
+[← Previous: Planning and Reasoning Risk](planning-and-reasoning-risk.md) · [Contents](../README.md) · [Next: Controls and Techniques →](../08-controls-and-techniques/README.md)

@@ -1,5 +1,7 @@
 # Widespread Adoption of Model Cards and Datasheets
 
+[← Previous: Zillow Offers Home-Pricing Algorithm Failure](../failures/zillow-ibuying-algorithm.md) · [Contents](../../README.md) · [Next: Air Canada Chatbot Bereavement Fare Case →](../hallucination-and-reliability/air-canada-chatbot.md)
+
 *[Home](../../INDEX.md) › [12 · Case Studies](../../12-case-studies/case-study-template.md) › [good-practices](../../12-case-studies/good-practices/model-cards-and-datasheets-adoption.md)*
 
 **Context**: Industry-wide practice originating from research publications ("Model Cards for Model Reporting" (Mitchell et al., Google, 2019) and "Datasheets for Datasets" (Gebru et al., 2018/2021)) subsequently adopted as standard practice across much of the AI industry, including major model providers publishing model/system cards for significant model releases.
@@ -19,3 +21,7 @@
 **Preventive/enabling factors for replication**: Keep documentation templates short and structured rather than open-ended; integrate documentation into the standard development workflow rather than treating it as a separate compliance task; make the practice the default for all Tier 1–2 systems, not an optional extra reserved for audits.
 
 **Sources**: Mitchell, M., et al., "Model Cards for Model Reporting," FAT* 2019 (Google); Gebru, T., et al., "Datasheets for Datasets," Communications of the ACM, 2021; widespread subsequent industry adoption documented in model/system cards published by major AI labs for significant model releases.
+
+---
+
+[← Previous: Zillow Offers Home-Pricing Algorithm Failure](../failures/zillow-ibuying-algorithm.md) · [Contents](../../README.md) · [Next: Air Canada Chatbot Bereavement Fare Case →](../hallucination-and-reliability/air-canada-chatbot.md)

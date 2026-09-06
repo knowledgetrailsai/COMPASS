@@ -1,5 +1,7 @@
 # AI Audit
 
+[← Previous: Assurance Reporting](assurance-reporting.md) · [Contents](../README.md) · [Next: Conformity Assessment →](conformity-assessment.md)
+
 *[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## Purpose
@@ -41,3 +43,7 @@ Internal audit (by a function independent of the system owners) is the workhorse
 ## Relationship to certification
 
 Audits supporting a management-system certification (e.g., ISO/IEC 42001) follow the certifying body's specific audit methodology (see [09-tools-and-frameworks](../09-tools-and-frameworks/commercial-platforms.md)) in addition to, not instead of, an organization's own internal audit practice.
+
+---
+
+[← Previous: Assurance Reporting](assurance-reporting.md) · [Contents](../README.md) · [Next: Conformity Assessment →](conformity-assessment.md)

@@ -1,5 +1,7 @@
 # India — Sectoral AI Guidance
 
+[← Previous: India — Digital Personal Data Protection (DPDP) Act & Rules](dpdp-act.md) · [Contents](../../README.md) · [Next: Singapore — AI Regulation →](../Singapore/singapore-ai-regulation.md)
+
 *[Home](../../INDEX.md) › [10 · Regulations & Standards](../../10-regulations-and-standards/global-overview.md) › [India](../../10-regulations-and-standards/India/dpdp-act.md)*
 
 _Last reviewed: 2026-08-19; sectoral guidance in India is issued as circulars/advisories that update periodically; confirm current text with the relevant regulator._
@@ -28,3 +30,7 @@ For any AI system in a regulated Indian sector, treat this file as a starting ma
 
 - [dpdp-act.md](dpdp-act.md)
 - [11-sector-specific-ai/financial-services.md](../../11-sector-specific-ai/financial-services.md)
+
+---
+
+[← Previous: India — Digital Personal Data Protection (DPDP) Act & Rules](dpdp-act.md) · [Contents](../../README.md) · [Next: Singapore — AI Regulation →](../Singapore/singapore-ai-regulation.md)

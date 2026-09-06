@@ -1,5 +1,7 @@
 # Commercial / Vendor Platforms
 
+[← Previous: UNESCO Recommendation on the Ethics of AI](UNESCO-AI-ethics.md) · [Contents](../README.md) · [Next: Evaluation Frameworks →](evaluation-frameworks.md)
+
 *[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 _Last reviewed: 2026-08-19: vendor capabilities and naming change frequently; verify current feature sets directly with vendors before relying on specifics here._
@@ -32,3 +34,7 @@ Commercial platforms offering LLM tracing, evaluation pipelines, guardrail manag
 
 - [governance-platforms.md](governance-platforms.md)
 - [tool-selection-matrix.md](tool-selection-matrix.md)
+
+---
+
+[← Previous: UNESCO Recommendation on the Ethics of AI](UNESCO-AI-ethics.md) · [Contents](../README.md) · [Next: Evaluation Frameworks →](evaluation-frameworks.md)

@@ -1,5 +1,7 @@
 # AI Governance Framework
 
+[← Previous: AI Governance Board](ai-governance-board.md) · [Contents](../README.md) · [Next: Governance Models →](governance-models.md)
+
 *[Home](../INDEX.md) › [03 · AI Governance](../03-ai-governance/AI-assurance.md)*
 
 ## Purpose
@@ -49,3 +51,7 @@ AI governance should plug into existing ERM, InfoSec, and privacy governance rat
 - [risk-management.md](risk-management.md)
 - [../02-ai-lifecycle/lifecycle-overview.md](../02-ai-lifecycle/lifecycle-overview.md)
 - [../04-ai-assurance/evidence-and-traceability.md](../04-ai-assurance/evidence-and-traceability.md)
+
+---
+
+[← Previous: AI Governance Board](ai-governance-board.md) · [Contents](../README.md) · [Next: Governance Models →](governance-models.md)

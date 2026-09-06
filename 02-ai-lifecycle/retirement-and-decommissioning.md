@@ -1,5 +1,7 @@
 # Stage 9: Retirement & Decommissioning
 
+[← Previous: Stage 2: Requirements & Design](requirements-and-design.md) · [Contents](../README.md) · [Next: AI Assurance (Governance Pointer) →](../03-ai-governance/AI-assurance.md)
+
 *[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## Purpose
@@ -25,3 +27,7 @@ Responsibly wind down an AI system, an often-skipped stage that leaves orphaned 
 
 - [04-ai-lifecycle/incident-and-remediation.md](incident-and-remediation.md) if retirement is incident-driven
 - [05-responsible-ai-principles/privacy-and-data-protection.md](../05-responsible-ai-principles/privacy-and-data-protection.md)
+
+---
+
+[← Previous: Stage 2: Requirements & Design](requirements-and-design.md) · [Contents](../README.md) · [Next: AI Assurance (Governance Pointer) →](../03-ai-governance/AI-assurance.md)

@@ -1,5 +1,7 @@
 # Assurance Reporting
 
+[← Previous: AI Assurance — Overview](assurance-overview.md) · [Contents](../README.md) · [Next: AI Audit →](audit.md)
+
 *[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## Purpose
@@ -37,3 +39,7 @@ Critical findings (active exploitable vulnerability, confirmed rights-impacting 
 
 - [03-ai-governance/ai-governance-board.md](../03-ai-governance/ai-governance-board.md)
 - [02-ai-lifecycle/incident-and-remediation.md](../02-ai-lifecycle/incident-and-remediation.md)
+
+---
+
+[← Previous: AI Assurance — Overview](assurance-overview.md) · [Contents](../README.md) · [Next: AI Audit →](audit.md)

@@ -1,5 +1,7 @@
 # Stage 2: Requirements & Design
 
+[← Previous: Stage 1: Opportunity & Use Case](opportunity-and-use-case.md) · [Contents](../README.md) · [Next: Stage 9: Retirement & Decommissioning →](retirement-and-decommissioning.md)
+
 *[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## Purpose
@@ -23,3 +25,7 @@ Translate the risk tier and intended use into concrete, testable requirements (w
 ## Common failure mode
 
 Treating RAI requirements as implicit ("we'll be fair, obviously") rather than specific and testable. If a requirement can't be tested, it can't be verified at the evaluation stage — write requirements as acceptance criteria, not aspirations.
+
+---
+
+[← Previous: Stage 1: Opportunity & Use Case](opportunity-and-use-case.md) · [Contents](../README.md) · [Next: Stage 9: Retirement & Decommissioning →](retirement-and-decommissioning.md)

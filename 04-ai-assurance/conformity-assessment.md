@@ -1,5 +1,7 @@
 # Conformity Assessment
 
+[← Previous: AI Audit](audit.md) · [Contents](../README.md) · [Next: Documentation Artifacts →](evidence-and-traceability.md)
+
 *[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## What it is
@@ -39,3 +41,7 @@ Conformity assessment is the most formal, regulation-anchored form of assurance 
 ## Practical note
 
 Conformity assessment obligations are new and evolving across jurisdictions. Treat this file as a conceptual map, not a compliance checklist — confirm current, binding requirements with legal counsel before relying on any specific procedural detail.
+
+---
+
+[← Previous: AI Audit](audit.md) · [Contents](../README.md) · [Next: Documentation Artifacts →](evidence-and-traceability.md)

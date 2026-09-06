@@ -1,5 +1,7 @@
 # Red-Teaming
 
+[← Previous: Model Validation](model-validation.md) · [Contents](../README.md) · [Next: Accountability and Human Oversight →](../05-responsible-ai-principles/accountability-and-human-oversight.md)
+
 *[Home](../INDEX.md) › [04 · AI Assurance](../04-ai-assurance/assurance-overview.md)*
 
 ## Purpose
@@ -36,3 +38,7 @@ Internal security/red-team function at minimum for Tier 1–2; external speciali
 ## Gate
 
 Unresolved high-severity findings should block launch or continued operation regardless of risk tier; red-teaming findings are not advisory for critical severity issues.
+
+---
+
+[← Previous: Model Validation](model-validation.md) · [Contents](../README.md) · [Next: Accountability and Human Oversight →](../05-responsible-ai-principles/accountability-and-human-oversight.md)

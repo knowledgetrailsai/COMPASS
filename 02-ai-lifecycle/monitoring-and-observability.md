@@ -1,5 +1,7 @@
 # Stage 7: Monitoring & Observability
 
+[← Previous: Stage 4: Model Development](model-development.md) · [Contents](../README.md) · [Next: Stage 1: Opportunity & Use Case →](opportunity-and-use-case.md)
+
 *[Home](../INDEX.md) › [02 · AI Lifecycle](../02-ai-lifecycle/lifecycle-overview.md)*
 
 ## Purpose
@@ -33,3 +35,7 @@ Even without a triggering incident, Tier 1 systems should undergo full re-evalua
 
 - [08-controls-and-techniques/monitoring-and-observability](../08-controls-and-techniques/monitoring-and-observability/README.md)
 - [04-ai-assurance/audit.md](../04-ai-assurance/audit.md)
+
+---
+
+[← Previous: Stage 4: Model Development](model-development.md) · [Contents](../README.md) · [Next: Stage 1: Opportunity & Use Case →](opportunity-and-use-case.md)

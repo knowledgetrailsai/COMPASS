@@ -1,5 +1,7 @@
 # Governance Platforms
 
+[← Previous: Framework Comparison](framework-comparison.md) · [Contents](../README.md) · [Next: Observability Tools →](observability-tools.md)
+
 *[Home](../INDEX.md) › [09 · Tools & Frameworks](../09-tools-and-frameworks/commercial-platforms.md)*
 
 ## What this category covers
@@ -27,3 +29,7 @@ Same third-party assessment discipline applies as any vendor — see [03-ai-gove
 
 - [commercial-platforms.md](commercial-platforms.md)
 - [03-ai-governance/ai-governance-framework.md](../03-ai-governance/ai-governance-framework.md)
+
+---
+
+[← Previous: Framework Comparison](framework-comparison.md) · [Contents](../README.md) · [Next: Observability Tools →](observability-tools.md)
